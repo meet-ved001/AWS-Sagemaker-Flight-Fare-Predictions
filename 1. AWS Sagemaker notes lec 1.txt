@@ -1,0 +1,35 @@
+1. AWS Sagemaker - It is a fully managed machine learning service by AWS. It helps you build, train, deploy, and manage machine learning models easily and at scale. It includes tools for data exploration, pre-built algorithms, custom model training, hyperparameter optimization, model hosting, monitoring, auto-scaling, and security features.
+
+2. AWS IAM - 
+AWS Identity and Access Management (IAM) is a service provided by Amazon Web Services (AWS) that enables you to manage access to AWS services and resources securely. IAM allows you to control who can access your AWS resources (such as EC2 instances, S3 buckets, and databases) and what actions they can perform (such as reading, writing, or deleting data).
+
+Users: IAM allows you to create individual IAM users within your AWS account. Each user can have a unique set of security credentials (username and password) and permissions that specify what actions they can perform in your AWS environment.
+
+Groups: IAM allows you to group users and apply permissions to the entire group rather than assigning permissions to individual users. This simplifies the management of permissions, especially for large organizations with multiple users who require similar access rights.
+
+Roles: IAM roles are similar to users but are intended for entities that don't represent individual people, such as applications or services running on EC2 instances. Roles define a set of permissions and can be assumed by users, AWS services, or federated identities (such as users authenticated through an external identity provider).
+
+3. AWS EC2 - 
+Amazon Elastic Compute Cloud (Amazon EC2) is a web service provided by Amazon Web Services (AWS) that allows users to rent virtual servers (called instances) in the cloud to run applications and host websites. EC2 provides resizable compute capacity in the form of virtual machines, allowing users to scale their computing resources up or down based on demand.
+
+4. AWS S3 - 
+Amazon Simple Storage Service (Amazon S3) is a scalable object storage service provided by Amazon Web Services (AWS). It is designed to store and retrieve any amount of data from anywhere on the web, making it an ideal storage solution for a wide range of use cases, from simple file storage to complex data analytics.
+
+5. SDK - 
+An SDK, or Software Development Kit, is a set of tools, libraries, documentation, and code samples provided by a software vendor or platform provider to help developers build applications that integrate with or utilize their services. 
+
+SDKs typically include:
+
+1. **Libraries**: Pre-built code modules or libraries that abstract away complex operations, making it easier for developers to interact with the underlying platform or service.
+
+2. **API Documentation**: Comprehensive documentation that describes the available APIs, methods, parameters, and usage examples for developers to reference while integrating the SDK into their applications.
+
+3. **Code Samples**: Sample code snippets or complete sample applications that demonstrate how to use the SDK to perform common tasks or integrate with specific features of the platform or service.
+
+4. **Development Tools**: Tools, utilities, or command-line interfaces (CLIs) that aid in the development, testing, and debugging of applications built using the SDK.
+
+SDKs are typically provided for various programming languages and platforms, such as Java, Python, JavaScript, .NET, iOS, and Android, allowing developers to choose the most suitable environment for their application development. 
+
+Overall, SDKs streamline the development process by providing developers with the necessary tools and resources to quickly and efficiently integrate with external services or platforms and build robust, feature-rich applications.
+
+6. boto3 is aws sdk software.

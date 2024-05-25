@@ -1,0 +1,2138 @@
+date_of_journey,airlines,airlines_code,class,departure,total_stops,arrival,duration_in_minutes,source,destination,price_fare
+2024-11-27,Indigo,6E-6814,Economy,05:04:00,2.0,22:07:00,145.2,Delhi,Cochin,5954
+2024-05-27,Vistara,UK-785,Premium Economy,05:05:00,1.0,08:46:00,1065.0,Delhi,Cochin,18534
+2024-11-17,Vistara,UK-817,Economy,12:18:00,0.0,06:50:00,435.0,Mumbai,Hyderabad,7189
+2024-07-23,Vistara,UK-891,Economy,17:46:00,0.0,01:40:00,454.8,Chennai,Kolkata,20340
+2024-04-01,Vistara,UK-879,Business,22:39:00,1.0,19:55:00,880.2,Delhi,Cochin,55696
+2024-08-29,Air India,AI-411,Business,18:25:00,0.0,13:41:00,559.8,Mumbai,Hyderabad,32646
+2024-08-30,Vistara,UK-879,Business,01:56:00,1.0,23:42:00,985.2,Delhi,Cochin,68105
+2024-02-09,Vistara,UK-871,Business,21:07:00,0.0,06:06:00,1075.2,Banglore,Delhi,41281
+2024-07-19,Air Asia,I5-548,Economy,17:06:00,1.0,04:46:00,765.0,Kolkata,Banglore,5291
+2024-02-26,Vistara,UK-673,Economy,20:20:00,1.0,11:33:00,310.2,Delhi,Cochin,10327
+2024-04-29,Vistara,UK-635,Economy,10:15:00,0.0,23:50:00,289.8,Banglore,Delhi,12623
+2024-07-23,Vistara,UK-705,Business,05:03:00,1.0,18:33:00,330.0,Delhi,Cochin,59033
+2024-06-12,Go First,G8-143,Economy,20:42:00,0.0,03:42:00,360.0,Banglore,Delhi,6007
+2024-08-11,Air India,AI-839,Business,02:15:00,0.0,14:43:00,1045.2,Kolkata,Banglore,41113
+2024-09-06,Indigo,6E-6492,Economy,19:30:00,0.0,19:49:00,319.8,Banglore,New Delhi,24664
+2024-06-19,Vistara,UK-807,Economy,01:59:00,1.0,12:35:00,985.2,Delhi,Cochin,9420
+2024-12-17,Air India,AI-537,Business,19:22:00,0.0,07:16:00,960.0,Kolkata,Banglore,50969
+2024-10-11,Vistara,UK-637,Premium Economy,09:58:00,1.0,15:18:00,315.0,Delhi,Cochin,21838
+2024-08-13,Air India,AI-839,Economy,14:21:00,1.0,16:45:00,1594.8,Delhi,Cochin,9489
+2024-01-05,Indigo,6E-5218,Economy,07:08:00,1.0,04:42:00,135.0,Kolkata,Banglore,6164
+2024-11-24,Air India,AI-537,Economy,16:17:00,0.0,21:54:00,364.8,Mumbai,Hyderabad,20571
+2024-07-18,Vistara,UK-705,Business,01:33:00,0.0,18:07:00,960.0,Banglore,Delhi,76953
+2024-01-25,Vistara,UK-839,Economy,18:40:00,0.0,09:41:00,1324.8,Banglore,New Delhi,12203
+2024-09-14,Vistara,UK-927,Economy,17:38:00,0.0,02:07:00,124.80000000000001,Banglore,Delhi,6375
+2024-03-12,Vistara,UK-951,Economy,17:20:00,2.0,17:58:00,130.2,Delhi,Cochin,7320
+2024-12-11,Vistara,UK-933,Business,18:52:00,0.0,20:14:00,124.80000000000001,Delhi,Cochin,41528
+2024-12-13,Vistara,UK-959,Premium Economy,15:36:00,0.0,11:32:00,1425.0,Mumbai,Hyderabad,10168
+2024-09-06,Vistara,UK-813,Economy,16:27:00,2.0,17:00:00,349.8,Delhi,Cochin,9961
+2024-10-15,Indigo,6E-2526,Economy,04:38:00,1.0,12:27:00,540.0,Kolkata,Banglore,6263
+2024-07-23,Vistara,UK-747,Economy,05:26:00,0.0,20:43:00,829.8,Mumbai,Hyderabad,16664
+2024-01-11,Vistara,UK-951,Economy,00:18:00,0.0,12:10:00,130.2,Banglore,Delhi,5955
+2024-10-18,Vistara,UK-819,Business,22:42:00,1.0,08:31:00,364.8,Delhi,Cochin,65501
+2024-11-03,Vistara,UK-811,Premium Economy,10:31:00,1.0,01:14:00,880.2,Delhi,Cochin,18646
+2024-11-14,Indigo,6E-2216,Economy,04:42:00,1.0,15:49:00,505.2,Delhi,Cochin,11099
+2024-12-31,Air India,AI-429,Economy,06:04:00,0.0,13:38:00,750.0,Banglore,Delhi,9630
+2024-02-12,Vistara,UK-829,Economy,00:08:00,1.0,22:43:00,574.8,Delhi,Cochin,12570
+2024-06-05,Indigo,6E-2716,Economy,07:00:00,1.0,16:59:00,135.0,Kolkata,Banglore,6277
+2024-11-02,Vistara,UK-835,Premium Economy,17:10:00,1.0,02:23:00,1579.8,Kolkata,Banglore,11888
+2024-08-26,Air India,AI-537,Business,20:05:00,1.0,21:04:00,450.0,Kolkata,Banglore,50969
+2024-05-07,Vistara,UK-995,Premium Economy,10:33:00,1.0,11:20:00,135.0,Delhi,Cochin,11646
+2024-10-22,Air India,AI-542,Business,21:57:00,0.0,03:04:00,310.2,Kolkata,Banglore,41113
+2024-03-25,Air India,AI-803,Economy,21:28:00,0.0,20:40:00,1030.2,Banglore,Delhi,6944
+2024-11-30,Vistara,UK-627,Business,03:15:00,2.0,14:28:00,1485.0,Kolkata,Banglore,37417
+2024-11-12,Air India,AI-865,Business,23:35:00,0.0,22:39:00,145.2,Banglore,New Delhi,22152
+2024-10-29,Vistara,UK-943,Economy,13:32:00,1.0,13:38:00,130.2,Kolkata,Banglore,5955
+2024-02-26,Vistara,UK-977,Business,03:43:00,2.0,07:32:00,135.0,Kolkata,Banglore,41528
+2024-07-26,Indigo,6E-2117,Economy,20:33:00,1.0,16:13:00,340.2,Delhi,Cochin,5358
+2024-09-02,Air India,AI-435,Economy,09:04:00,1.0,15:29:00,505.2,Banglore,New Delhi,8757
+2024-04-15,Vistara,UK-927,Premium Economy,18:14:00,1.0,22:21:00,124.80000000000001,Banglore,New Delhi,7278
+2024-12-13,Air India,AI-441,Economy,04:54:00,1.0,15:10:00,145.2,Kolkata,Banglore,5955
+2024-02-14,Vistara,UK-835,Premium Economy,03:31:00,1.0,21:37:00,934.8,Delhi,Cochin,11888
+2024-09-04,Go First,G8-143,Economy,14:35:00,2.0,01:37:00,544.8,Delhi,Cochin,6873
+2024-08-14,Vistara,UK-747,Economy,14:28:00,1.0,07:23:00,390.0,Kolkata,Banglore,20235
+2024-08-30,Air Asia,I5-745,Economy,22:41:00,1.0,10:41:00,784.8,Delhi,Cochin,12040
+2024-07-31,Vistara,UK-839,Economy,17:56:00,1.0,15:35:00,529.8,Delhi,Cochin,15741
+2024-10-29,Air India,AI-803,Business,01:12:00,2.0,23:04:00,919.8,Delhi,Cochin,58025
+2024-06-07,Vistara,UK-929,Business,13:32:00,0.0,17:24:00,739.8,Banglore,New Delhi,25758
+2024-04-17,Air India,AI-833,Business,01:51:00,1.0,19:44:00,1050.0,Kolkata,Banglore,60749
+2024-07-16,Go First,G8-717,Economy,21:09:00,1.0,17:42:00,754.8,Delhi,Cochin,7733
+2024-11-18,Vistara,UK-993,Premium Economy,03:20:00,2.0,20:42:00,130.2,Delhi,Cochin,15846
+2024-07-13,Indigo,AI-558,Economy,05:40:00,1.0,18:33:00,540.0,Delhi,Cochin,9699
+2024-08-05,Go First,G8-530,Economy,04:04:00,1.0,09:47:00,130.2,Banglore,New Delhi,5899
+2024-11-15,Vistara,UK-801,Business,07:41:00,0.0,06:04:00,694.8,Banglore,Delhi,65501
+2024-01-27,Indigo,UK-637,Economy,00:40:00,0.0,02:31:00,270.0,Kolkata,Banglore,11729
+2024-10-06,Vistara,UK-835,Economy,18:27:00,1.0,04:01:00,769.8,Banglore,New Delhi,12203
+2024-03-25,Vistara,UK-637,Economy,02:28:00,1.0,04:56:00,315.0,Delhi,Cochin,11573
+2024-09-02,Vistara,UK-981,Business,15:30:00,2.0,17:47:00,120.0,Delhi,Cochin,22152
+2024-08-01,Vistara,UK-817,Business,03:23:00,1.0,14:52:00,334.8,Delhi,Cochin,53164
+2024-08-12,Air India,AI-429,Economy,00:53:00,1.0,06:26:00,750.0,Delhi,Cochin,10281
+2024-08-06,Vistara,UK-879,Business,12:49:00,2.0,12:59:00,1260.0,Delhi,Cochin,41281
+2024-12-18,Vistara,UK-879,Premium Economy,10:41:00,0.0,14:24:00,1260.0,Mumbai,Hyderabad,12822
+2024-02-16,Vistara,UK-941,Business,01:34:00,0.0,04:36:00,150.0,Banglore,Delhi,41528
+2024-08-18,Indigo,6E-2084,Economy,15:06:00,0.0,00:10:00,135.0,Banglore,Delhi,6899
+2024-08-07,Air India,AI-813,Economy,19:39:00,0.0,22:52:00,810.0,Banglore,Delhi,7415
+2024-04-08,Go First,G8-259,Economy,19:44:00,1.0,08:02:00,670.2,Delhi,Cochin,14272
+2024-03-17,Vistara,UK-815,Business,13:29:00,0.0,12:17:00,724.8,Banglore,Delhi,93798
+2024-01-22,Vistara,UK-819,Economy,18:10:00,0.0,16:25:00,364.8,Banglore,New Delhi,12255
+2024-01-23,Air India,AI-429,Economy,18:20:00,2.0,07:25:00,750.0,Delhi,Cochin,14796
+2024-04-29,Vistara,UK-929,Business,07:51:00,2.0,10:02:00,535.2,Delhi,Cochin,22297
+2024-02-09,Vistara,UK-801,Business,02:33:00,1.0,10:20:00,694.8,Banglore,New Delhi,96223
+2024-03-12,Air India,AI-624,Economy,01:21:00,0.0,21:59:00,145.2,Banglore,Delhi,7320
+2024-07-31,Vistara,UK-963,Premium Economy,20:46:00,1.0,22:25:00,145.2,Kolkata,Banglore,7278
+2024-07-05,Vistara,UK-627,Business,01:15:00,2.0,06:15:00,1590.0,Delhi,Cochin,37417
+2024-02-13,Go First,G8-2501,Economy,14:03:00,1.0,11:42:00,130.2,Kolkata,Banglore,5801
+2024-09-21,Air Asia,I5-857,Economy,05:11:00,0.0,05:26:00,334.8,Kolkata,Banglore,10922
+2024-12-16,Air Asia,I5-745,Economy,02:27:00,1.0,18:15:00,784.8,Delhi,Cochin,8129
+2024-03-20,Go First,G8-237,Economy,14:39:00,0.0,09:27:00,585.0,Chennai,Kolkata,6873
+2024-08-23,Air India,AI-883,Economy,14:39:00,2.0,19:03:00,1129.8,Delhi,Cochin,9349
+2024-01-15,Go First,G8-286,Economy,02:59:00,1.0,15:16:00,874.8,Kolkata,Banglore,11546
+2024-09-02,Air India,AI-558,Economy,19:06:00,1.0,16:47:00,859.8,Delhi,Cochin,9630
+2024-10-10,Air India,AI-560,Economy,02:40:00,0.0,13:34:00,465.0,Banglore,Delhi,13515
+2024-08-19,Vistara,UK-995,Economy,01:43:00,1.0,21:46:00,135.0,Delhi,Cochin,6218
+2024-04-23,Air Asia,I5-745,Economy,06:50:00,0.0,23:27:00,400.2,Banglore,New Delhi,6872
+2024-01-23,Air India,AI-678,Economy,01:47:00,1.0,03:16:00,139.8,Banglore,New Delhi,7320
+2024-10-30,Vistara,UK-815,Premium Economy,04:23:00,0.0,07:43:00,750.0,Banglore,Delhi,11943
+2024-08-19,Go First,G8-713,Economy,20:11:00,1.0,00:43:00,630.0,Delhi,Cochin,7764
+2024-07-06,Go First,G8-713,Economy,11:56:00,0.0,22:07:00,630.0,Mumbai,Hyderabad,5597
+2024-06-04,Air India,AI-815,Business,22:58:00,1.0,12:58:00,355.2,Delhi,Cochin,53164
+2024-11-23,Vistara,UK-941,Premium Economy,06:03:00,0.0,09:44:00,150.0,Chennai,Kolkata,7278
+2024-03-22,Vistara,UK-801,Business,11:55:00,1.0,21:51:00,694.8,Kolkata,Banglore,60713
+2024-05-14,Air India,AI-506,Economy,07:33:00,0.0,15:04:00,814.8,Mumbai,Hyderabad,7415
+2024-12-18,Vistara,UK-985,Economy,19:43:00,1.0,18:17:00,135.0,Kolkata,Banglore,7320
+2024-01-16,Vistara,UK-941,Economy,17:55:00,1.0,18:51:00,150.0,Kolkata,Banglore,5955
+2024-09-08,Air India,AI-807,Economy,18:40:00,1.0,04:32:00,379.8,Delhi,Cochin,7415
+2024-06-04,Air India,AI-883,Economy,11:25:00,1.0,19:16:00,1129.8,Banglore,New Delhi,11974
+2024-06-23,Go First,G8-334,Economy,19:59:00,0.0,06:19:00,130.2,Kolkata,Banglore,5899
+2024-12-10,Air India,AI-537,Business,14:15:00,0.0,05:14:00,364.8,Banglore,New Delhi,50969
+2024-04-23,Air India,AI-865,Business,05:59:00,1.0,14:13:00,145.2,Delhi,Cochin,22152
+2024-11-14,Vistara,UK-951,Business,18:13:00,1.0,12:46:00,130.2,Delhi,Cochin,56860
+2024-04-02,Vistara,UK-899,Business,06:47:00,1.0,06:18:00,1429.8,Banglore,New Delhi,41281
+2024-03-20,Air India,AI-429,Economy,14:43:00,1.0,17:54:00,490.2,Kolkata,Banglore,19395
+2024-09-27,Vistara,UK-943,Economy,13:50:00,0.0,12:13:00,130.2,Mumbai,Hyderabad,6795
+2024-10-26,Vistara,UK-941,Economy,16:30:00,2.0,11:44:00,150.0,Delhi,Cochin,7320
+2024-10-23,Indigo,6E-2033,Economy,01:56:00,1.0,14:56:00,495.0,Delhi,Cochin,7402
+2024-07-30,Go First,G8-2501,Economy,16:36:00,1.0,18:09:00,130.2,Delhi,Cochin,5801
+2024-05-29,Go First,G8-184,Economy,06:03:00,2.0,01:40:00,495.0,Delhi,Cochin,6873
+2024-10-26,Indigo,UK-829,Economy,08:08:00,2.0,16:00:00,270.0,Delhi,Cochin,13567
+2024-01-27,Vistara,UK-819,Business,14:29:00,0.0,06:54:00,550.2,Kolkata,Banglore,60601
+2024-03-24,Vistara,UK-627,Premium Economy,13:24:00,1.0,10:36:00,1485.0,Delhi,Cochin,10918
+2024-02-03,Air India,AI-560,Business,17:28:00,1.0,18:48:00,465.0,Kolkata,Banglore,44450
+2024-07-04,Vistara,UK-979,Business,18:24:00,1.0,18:51:00,1009.8,Kolkata,Banglore,30249
+2024-09-21,Spicejet,SG-8709,Economy,15:09:00,0.0,08:03:00,124.80000000000001,Banglore,Delhi,6531
+2024-08-28,Air India,AI-453,Business,13:35:00,1.0,00:06:00,775.2,Kolkata,Banglore,59035
+2024-01-12,Air India,AI-678,Business,22:39:00,0.0,14:30:00,139.8,Kolkata,Banglore,22152
+2024-05-18,Vistara,UK-833,Economy,13:10:00,0.0,21:55:00,889.8,Kolkata,Banglore,13076
+2024-09-18,Go First,G8-336,Economy,06:43:00,0.0,07:31:00,130.2,Banglore,Delhi,5899
+2024-12-29,Vistara,UK-705,Economy,10:33:00,0.0,16:01:00,330.0,Kolkata,Banglore,14933
+2024-07-05,Indigo,6E-902,Economy,22:27:00,0.0,07:48:00,375.0,Delhi,Cochin,14092
+2024-10-31,Spicejet,SG-2976,Economy,06:08:00,1.0,07:28:00,859.8,Delhi,Cochin,5735
+2024-11-27,Air India,AI-813,Economy,22:06:00,2.0,15:49:00,810.0,Delhi,Cochin,9042
+2024-03-18,Vistara,UK-705,Business,10:30:00,1.0,08:51:00,330.0,Banglore,New Delhi,59033
+2024-11-29,Vistara,UK-787,Business,08:07:00,1.0,07:21:00,859.8,Delhi,Cochin,39870
+2024-04-01,Indigo,6E-2033,Economy,22:17:00,0.0,18:34:00,370.2,Kolkata,Banglore,8873
+2024-10-02,Indigo,6E-2328,Economy,07:09:00,1.0,18:44:00,154.8,Kolkata,Banglore,7319
+2024-06-02,Vistara,UK-981,Economy,13:15:00,0.0,22:54:00,120.0,Mumbai,Hyderabad,6375
+2024-11-06,Vistara,UK-943,Business,10:51:00,1.0,14:47:00,130.2,Delhi,Cochin,22152
+2024-11-08,Indigo,6E-6022,Economy,11:27:00,1.0,16:18:00,330.0,Banglore,New Delhi,9734
+2024-08-22,Indigo,6E-6475,Economy,23:09:00,1.0,16:47:00,274.8,Kolkata,Banglore,15719
+2024-01-23,Vistara,UK-969,Premium Economy,20:18:00,1.0,06:17:00,735.0,Kolkata,Banglore,13640
+2024-03-08,Indigo,6E-2075,Economy,12:04:00,2.0,00:25:00,115.19999999999999,Delhi,Cochin,6164
+2024-11-24,Air India,AI-558,Business,04:37:00,2.0,20:28:00,750.0,Delhi,Cochin,50969
+2024-01-26,Air India,AI-540,Business,03:10:00,0.0,02:26:00,690.0,Kolkata,Banglore,50969
+2024-08-20,Vistara,UK-859,Economy,02:26:00,0.0,22:32:00,760.2,Delhi,Cochin,14565
+2024-12-19,Vistara,UK-969,Premium Economy,14:54:00,1.0,22:07:00,940.2,Kolkata,Banglore,13640
+2024-10-24,Vistara,UK-815,Business,11:02:00,0.0,03:58:00,910.2,Banglore,Delhi,82010
+2024-02-08,Air India,AI-883,Business,20:08:00,1.0,17:24:00,1579.8,Delhi,Cochin,48225
+2024-12-21,Go First,G8-719,Economy,09:42:00,0.0,07:49:00,285.0,Mumbai,Hyderabad,4592
+2024-07-11,Air India,AI-439,Economy,11:55:00,1.0,13:22:00,1075.2,Kolkata,Banglore,10281
+2024-11-27,Indigo,6E-6475,Economy,17:54:00,1.0,16:46:00,274.8,Delhi,Cochin,6731
+2024-06-25,Air India,AI-605,Economy,07:38:00,1.0,05:35:00,135.0,Delhi,Cochin,7320
+2024-08-28,Vistara,UK-801,Business,23:05:00,0.0,05:08:00,855.0,Banglore,Delhi,87627
+2024-11-12,Vistara,UK-747,Business,03:16:00,1.0,19:01:00,390.0,Delhi,Cochin,69113
+2024-05-20,Vistara,UK-975,Premium Economy,16:29:00,0.0,07:20:00,135.0,Mumbai,Hyderabad,7278
+2024-04-09,Indigo,6E-2049,Economy,08:15:00,0.0,05:22:00,424.8,Banglore,Delhi,5954
+2024-10-15,Vistara,UK-979,Premium Economy,13:51:00,1.0,16:46:00,1215.0,Kolkata,Banglore,7984
+2024-08-28,Vistara,UK-957,Business,07:27:00,1.0,16:42:00,135.0,Kolkata,Banglore,22152
+2024-06-26,Vistara,UK-817,Business,04:18:00,0.0,07:54:00,334.8,Banglore,New Delhi,60713
+2024-10-02,Air Asia,I5-740,Economy,05:51:00,0.0,17:08:00,649.8,Kolkata,Banglore,4827
+2024-12-06,Indigo,6E-2716,Economy,13:32:00,1.0,04:10:00,135.0,Delhi,Cochin,6164
+2024-08-17,Vistara,UK-981,Premium Economy,13:01:00,0.0,20:48:00,120.0,Banglore,Delhi,15846
+2024-04-14,Air India,AI-803,Business,14:50:00,1.0,08:54:00,919.8,Delhi,Cochin,53164
+2024-01-12,Go First,G8-330,Economy,09:22:00,0.0,23:54:00,135.0,Kolkata,Banglore,5801
+2024-04-16,Vistara,UK-819,Economy,01:30:00,1.0,08:30:00,390.0,Delhi,Cochin,11205
+2024-01-08,Air India,AI-433,Business,07:12:00,1.0,18:33:00,1620.0,Delhi,Cochin,29805
+2024-04-12,Air India,AI-473,Business,05:46:00,0.0,21:44:00,1035.0,Mumbai,Hyderabad,39859
+2024-02-10,Spicejet,SG-8169,Economy,18:53:00,0.0,12:13:00,124.80000000000001,Chennai,Kolkata,5335
+2024-05-03,Air India,AI-406,Economy,14:16:00,1.0,03:41:00,334.8,Kolkata,Banglore,18555
+2024-06-10,Indigo,6E-6231,Economy,12:45:00,1.0,18:32:00,270.0,Delhi,Cochin,10208
+2024-03-27,Air India,AI-624,Economy,21:46:00,0.0,01:02:00,145.2,Banglore,Delhi,7320
+2024-03-15,Vistara,UK-833,Economy,13:21:00,1.0,21:48:00,889.8,Mumbai,Hyderabad,14534
+2024-12-23,Vistara,UK-801,Premium Economy,11:25:00,1.0,11:00:00,694.8,Kolkata,Banglore,10638
+2024-04-25,Air India,AI-815,Business,07:33:00,2.0,23:49:00,1020.0,Delhi,Cochin,53164
+2024-09-26,Vistara,UK-985,Business,07:42:00,1.0,06:18:00,135.0,Kolkata,Banglore,22152
+2024-12-16,Vistara,UK-927,Premium Economy,00:13:00,1.0,11:18:00,124.80000000000001,Delhi,Cochin,22286
+2024-04-05,Vistara,UK-929,Economy,20:19:00,1.0,07:30:00,535.2,Delhi,Cochin,5824
+2024-06-10,Vistara,UK-673,Premium Economy,05:03:00,3.0,22:49:00,310.2,Delhi,Cochin,17918
+2024-03-20,Vistara,UK-945,Business,12:43:00,1.0,21:56:00,135.0,Kolkata,Banglore,30104
+2024-09-06,Vistara,UK-801,Business,08:48:00,0.0,14:32:00,670.2,Banglore,Delhi,60713
+2024-04-24,Air India,AI-537,Business,23:47:00,1.0,13:39:00,1510.2,Delhi,Cochin,50969
+2024-04-07,Spicejet,SG-8709,Economy,08:35:00,0.0,15:30:00,115.19999999999999,Mumbai,Hyderabad,5794
+2024-10-28,Air Asia,I5-1228,Economy,13:17:00,0.0,08:29:00,910.2,Mumbai,Hyderabad,4827
+2024-10-25,Vistara,UK-879,Business,00:35:00,1.0,06:04:00,334.8,Delhi,Cochin,55696
+2024-06-15,Vistara,UK-839,Economy,08:55:00,1.0,11:25:00,529.8,Kolkata,Banglore,18851
+2024-10-25,Vistara,UK-855,Premium Economy,12:48:00,0.0,04:30:00,334.8,Banglore,Delhi,13046
+2024-07-24,Go First,G8-717,Economy,11:12:00,0.0,00:34:00,285.0,Kolkata,Banglore,6007
+2024-06-30,Indigo,6E-902,Economy,10:45:00,1.0,10:12:00,375.0,Delhi,Cochin,12202
+2024-03-09,Vistara,UK-781,Business,03:59:00,0.0,02:03:00,1035.0,Kolkata,Banglore,39870
+2024-07-25,Air India,AI-560,Business,10:57:00,2.0,23:27:00,465.0,Delhi,Cochin,41113
+2024-12-08,Air India,AI-839,Business,11:51:00,1.0,15:30:00,1594.8,Banglore,New Delhi,41113
+2024-09-19,Air India,AI-801,Economy,00:43:00,0.0,10:16:00,469.8,Mumbai,Hyderabad,19080
+2024-06-07,Air India,AI-441,Business,11:51:00,0.0,06:31:00,145.2,Kolkata,Banglore,22152
+2024-02-21,Vistara,UK-943,Premium Economy,11:36:00,1.0,23:49:00,130.2,Kolkata,Banglore,8622
+2024-11-06,Indigo,6E-2526,Economy,10:23:00,1.0,05:26:00,145.2,Kolkata,Banglore,6682
+2024-06-25,Indigo,6E-6814,Economy,10:13:00,0.0,03:46:00,145.2,Banglore,New Delhi,6164
+2024-08-01,Vistara,UK-929,Premium Economy,03:18:00,1.0,03:15:00,535.2,Delhi,Cochin,15992
+2024-12-17,Indigo,6E-2208,Economy,14:26:00,1.0,14:07:00,520.2,Kolkata,Banglore,5294
+2024-08-05,Go First,G8-346,Economy,02:58:00,1.0,14:20:00,124.80000000000001,Kolkata,Banglore,5899
+2024-10-15,Air India,AI-544,Business,21:06:00,1.0,13:59:00,435.0,Kolkata,Banglore,41113
+2024-06-15,Indigo,6E-2411,Economy,17:55:00,2.0,08:02:00,480.0,Delhi,Cochin,9388
+2024-06-11,Air India,AI-813,Business,03:26:00,0.0,01:54:00,810.0,Mumbai,Hyderabad,53164
+2024-05-10,Vistara,UK-979,Economy,16:05:00,2.0,08:35:00,1009.8,Delhi,Cochin,6979
+2024-04-15,Air Asia,I5-560,Economy,08:56:00,2.0,11:07:00,865.2,Delhi,Cochin,4827
+2024-06-29,Air India,AI-811,Business,00:38:00,1.0,12:18:00,1305.0,Kolkata,Banglore,32646
+2024-11-03,Go First,G8-259,Economy,08:33:00,0.0,04:54:00,670.2,Banglore,Delhi,17634
+2024-02-15,Air India,AI-473,Business,14:16:00,0.0,02:37:00,1035.0,Kolkata,Banglore,39859
+2024-04-25,Air India,AI-883,Business,06:20:00,0.0,07:07:00,1579.8,Mumbai,Hyderabad,48225
+2024-05-23,Air India,AI-540,Business,14:37:00,1.0,12:15:00,690.0,Delhi,Cochin,50969
+2024-12-15,Air India,AI-429,Business,08:17:00,1.0,10:23:00,490.2,Banglore,New Delhi,50969
+2024-09-21,Air India,AI-443,Economy,05:20:00,0.0,04:38:00,304.8,Banglore,New Delhi,6731
+2024-03-11,Air India,AI-621,Economy,20:19:00,0.0,20:08:00,295.2,Mumbai,Hyderabad,7530
+2024-03-03,Vistara,UK-955,Business,01:51:00,2.0,18:12:00,130.2,Delhi,Cochin,22152
+2024-02-12,Vistara,UK-637,Economy,01:02:00,2.0,02:46:00,315.0,Delhi,Cochin,10050
+2024-08-21,Go First,G8-113,Economy,09:23:00,2.0,21:30:00,889.8,Kolkata,Banglore,6947
+2024-07-30,Vistara,UK-801,Economy,23:54:00,1.0,21:02:00,670.2,Kolkata,Banglore,8291
+2024-09-01,Vistara,UK-829,Premium Economy,09:40:00,2.0,07:30:00,1600.2,Delhi,Cochin,12822
+2024-09-07,Vistara,UK-955,Economy,05:24:00,1.0,02:28:00,130.2,Delhi,Cochin,5955
+2024-04-30,Vistara,UK-879,Premium Economy,08:57:00,1.0,21:56:00,1260.0,Delhi,Cochin,20562
+2024-01-13,Vistara,UK-815,Premium Economy,17:06:00,2.0,18:44:00,810.0,Delhi,Cochin,10638
+2024-03-08,Go First,G8-336,Economy,23:52:00,2.0,14:30:00,130.2,Delhi,Cochin,5899
+2024-03-06,Indigo,6E-6231,Economy,02:18:00,1.0,03:35:00,270.0,Delhi,Cochin,8054
+2024-04-08,Vistara,UK-979,Business,11:29:00,1.0,14:44:00,319.8,Kolkata,Banglore,22297
+2024-04-13,Vistara,UK-871,Business,16:47:00,1.0,19:44:00,694.8,Kolkata,Banglore,55696
+2024-05-19,Vistara,UK-969,Business,18:49:00,0.0,20:22:00,940.2,Kolkata,Banglore,22297
+2024-06-03,Indigo,UK-833,Economy,00:01:00,0.0,03:33:00,540.0,Banglore,Delhi,18764
+2024-12-18,Vistara,UK-979,Premium Economy,04:19:00,1.0,07:42:00,1215.0,Banglore,New Delhi,7984
+2024-09-15,Go First,G8-2519,Economy,18:56:00,1.0,22:17:00,850.2,Delhi,Cochin,6873
+2024-03-22,Vistara,UK-855,Economy,00:07:00,1.0,07:46:00,334.8,Banglore,New Delhi,14985
+2024-02-27,Air India,AI-839,Economy,07:55:00,1.0,13:08:00,745.2,Delhi,Cochin,9909
+2024-08-23,Vistara,UK-627,Premium Economy,10:50:00,2.0,23:46:00,1590.0,Delhi,Cochin,18198
+2024-06-11,Vistara,UK-933,Economy,11:22:00,2.0,21:14:00,124.80000000000001,Delhi,Cochin,6218
+2024-10-04,Vistara,UK-879,Business,06:34:00,0.0,15:13:00,334.8,Banglore,Delhi,55696
+2024-12-08,Air India,AI-429,Business,01:57:00,0.0,12:39:00,750.0,Mumbai,Hyderabad,50969
+2024-10-21,Vistara,UK-879,Business,15:32:00,0.0,07:50:00,985.2,Mumbai,Hyderabad,55696
+2024-04-04,Air Asia,I5-779,Economy,10:52:00,0.0,22:35:00,544.8,Kolkata,Banglore,8580
+2024-05-12,Air India,AI-813,Economy,03:13:00,1.0,22:59:00,919.8,Delhi,Cochin,7194
+2024-06-19,Vistara,UK-727,Economy,14:01:00,0.0,13:45:00,990.0,Mumbai,Hyderabad,18450
+2024-11-25,Air Asia,I5-740,Economy,23:46:00,1.0,03:52:00,990.0,Kolkata,Banglore,5291
+2024-08-23,Vistara,UK-829,Economy,22:55:00,0.0,16:36:00,574.8,Banglore,Delhi,9840
+2024-11-23,Vistara,UK-817,Premium Economy,07:42:00,1.0,12:47:00,435.0,Delhi,Cochin,11758
+2024-05-18,Air Asia,I5-740,Economy,16:23:00,2.0,22:37:00,769.8,Delhi,Cochin,4827
+2024-05-05,Air India,AI-805,First,06:07:00,1.0,14:10:00,130.2,Kolkata,Banglore,51443
+2024-08-14,Air India,AI-813,Business,03:12:00,2.0,23:51:00,810.0,Delhi,Cochin,58025
+2024-02-19,Air India,AI-554,Business,00:11:00,0.0,05:30:00,625.2,Kolkata,Banglore,50969
+2024-07-11,Vistara,UK-945,Premium Economy,02:35:00,0.0,05:52:00,135.0,Kolkata,Banglore,7278
+2024-12-04,Vistara,UK-817,Premium Economy,16:51:00,2.0,23:07:00,975.0,Delhi,Cochin,29224
+2024-11-29,Air Asia,I5-784,Economy,23:50:00,0.0,04:14:00,490.2,Kolkata,Banglore,6872
+2024-02-06,Air Asia,I5-784,Economy,18:44:00,1.0,06:09:00,490.2,Kolkata,Banglore,6375
+2024-03-11,Vistara,UK-707,Economy,22:13:00,2.0,14:45:00,364.8,Delhi,Cochin,18765
+2024-06-11,Air India,AI-665,Economy,19:53:00,0.0,17:45:00,139.8,Chennai,Kolkata,5955
+2024-02-06,Vistara,UK-979,Premium Economy,00:50:00,1.0,12:01:00,1215.0,Delhi,Cochin,15635
+2024-10-25,Vistara,UK-705,Economy,00:10:00,2.0,20:34:00,330.0,Delhi,Cochin,17033
+2024-07-11,Air India,AI-767,Business,01:35:00,1.0,23:08:00,499.8,Kolkata,Banglore,59033
+2024-03-23,Indigo,6E-319,Economy,10:33:00,0.0,05:04:00,375.0,Banglore,New Delhi,11729
+2024-08-20,Vistara,UK-819,Economy,05:05:00,1.0,09:14:00,550.2,Delhi,Cochin,15090
+2024-03-23,Air India,AI-429,Economy,20:14:00,1.0,01:34:00,490.2,Kolkata,Banglore,11121
+2024-01-12,Air India,AI-439,Business,21:48:00,0.0,03:27:00,730.2,Mumbai,Hyderabad,71525
+2024-03-25,Air India,AI-537,Economy,01:31:00,1.0,08:20:00,450.0,Delhi,Cochin,8958
+2024-05-20,Go First,G8-194,Economy,12:03:00,0.0,23:39:00,630.0,Banglore,Delhi,8740
+2024-02-16,Air Asia,I5-798,Economy,10:57:00,0.0,19:09:00,814.8,Kolkata,Banglore,15251
+2024-11-13,Vistara,UK-979,Premium Economy,03:01:00,1.0,14:00:00,1215.0,Delhi,Cochin,22432
+2024-05-27,Air India,AI-481,Business,12:24:00,1.0,16:44:00,814.8,Kolkata,Banglore,31462
+2024-04-29,Go First,G8-530,Economy,01:35:00,1.0,12:43:00,130.2,Delhi,Cochin,5899
+2024-07-31,Indigo,6E-5615,Economy,04:35:00,1.0,21:48:00,600.0,Kolkata,Banglore,11047
+2024-01-07,Spicejet,SG-8241,Economy,15:53:00,1.0,01:54:00,250.2,Mumbai,Hyderabad,8185
+2024-09-04,Air India,AI-803,Business,10:47:00,2.0,08:36:00,919.8,Delhi,Cochin,53164
+2024-04-21,Air India,AI-621,Business,01:27:00,1.0,16:09:00,295.2,Delhi,Cochin,36342
+2024-03-24,Air India,AI-512,Business,15:34:00,2.0,08:49:00,964.8,Delhi,Cochin,60489
+2024-10-31,Air India,AI-636,Economy,19:09:00,1.0,06:10:00,225.0,Kolkata,Banglore,6480
+2024-01-20,Indigo,6E-5218,Economy,10:31:00,1.0,09:33:00,135.0,Delhi,Cochin,5794
+2024-03-15,Vistara,UK-833,Economy,16:47:00,2.0,22:06:00,409.8,Kolkata,Banglore,12833
+2024-10-18,Air India,AI-439,Economy,22:05:00,1.0,13:49:00,694.8,Kolkata,Banglore,12549
+2024-06-18,Vistara,UK-819,Business,19:25:00,2.0,07:02:00,390.0,Delhi,Cochin,60713
+2024-09-21,Indigo,6E-2025,Economy,07:26:00,1.0,11:57:00,370.2,Kolkata,Banglore,9367
+2024-07-01,Vistara,UK-959,Economy,19:59:00,1.0,14:35:00,735.0,Mumbai,Hyderabad,14612
+2024-03-29,Indigo,6E-6187,Economy,16:36:00,1.0,07:32:00,285.0,Delhi,Cochin,8243
+2024-09-25,Vistara,UK-829,Premium Economy,17:53:00,1.0,10:51:00,949.8,Delhi,Cochin,15842
+2024-02-14,Vistara,UK-706,Economy,20:19:00,1.0,05:27:00,495.0,Delhi,Cochin,12990
+2024-06-09,Vistara,UK-706,Economy,17:40:00,1.0,15:23:00,495.0,Delhi,Cochin,11940
+2024-11-27,Vistara,UK-977,Premium Economy,23:38:00,2.0,19:30:00,135.0,Mumbai,Hyderabad,8622
+2024-06-04,Vistara,UK-871,Economy,20:54:00,1.0,05:59:00,799.8,Delhi,Cochin,18933
+2024-10-20,Go First,G8-336,Economy,16:09:00,0.0,06:01:00,130.2,Chennai,Kolkata,5899
+2024-01-02,Vistara,UK-817,Economy,00:20:00,0.0,11:30:00,334.8,Kolkata,Banglore,12255
+2024-03-22,Air India,AI-542,Economy,08:29:00,1.0,22:46:00,1450.2,Delhi,Cochin,9909
+2024-04-25,Air Asia,I5-1228,Economy,18:14:00,2.0,13:55:00,570.0,Delhi,Cochin,6872
+2024-05-24,Vistara,UK-981,Business,23:14:00,0.0,22:53:00,120.0,Delhi,Cochin,22152
+2024-02-26,Vistara,UK-929,Economy,13:08:00,1.0,20:27:00,535.2,Delhi,Cochin,5876
+2024-10-23,Vistara,UK-737,Economy,06:18:00,1.0,09:58:00,465.0,Delhi,Cochin,20550
+2024-09-12,Air India,AI-815,Economy,05:12:00,1.0,09:59:00,465.0,Delhi,Cochin,7415
+2024-10-29,Air India,AI-883,Business,06:30:00,2.0,19:55:00,610.2,Delhi,Cochin,48225
+2024-04-11,Air Asia,I5-773,Economy,12:16:00,1.0,19:28:00,379.8,Banglore,New Delhi,6872
+2024-03-17,Vistara,UK-977,Business,03:01:00,1.0,01:21:00,135.0,Delhi,Cochin,41528
+2024-07-29,Vistara,UK-957,Business,01:27:00,1.0,03:03:00,135.0,Delhi,Cochin,30104
+2024-11-26,Vistara,UK-955,Economy,12:15:00,1.0,21:15:00,130.2,Kolkata,Banglore,7320
+2024-11-20,Air India,AI-767,Business,12:28:00,1.0,00:08:00,499.8,Kolkata,Banglore,59033
+2024-04-19,Vistara,UK-959,Economy,00:50:00,1.0,00:14:00,1425.0,Delhi,Cochin,7084
+2024-05-03,Go First,G8-213,Economy,05:37:00,0.0,03:09:00,379.8,Kolkata,Banglore,21310
+2024-12-05,Air India,AI-817,Business,11:13:00,1.0,00:54:00,1030.2,Kolkata,Banglore,31462
+2024-08-14,Air India,AI-481,Economy,00:35:00,1.0,08:22:00,814.8,Kolkata,Banglore,14114
+2024-08-05,Vistara,UK-781,Business,17:40:00,0.0,14:19:00,1035.0,Kolkata,Banglore,39870
+2024-03-16,Indigo,6E-2204,Economy,18:50:00,1.0,20:22:00,415.2,Mumbai,Hyderabad,11677
+2024-07-07,Vistara,UK-627,Business,19:20:00,2.0,12:47:00,1485.0,Delhi,Cochin,37417
+2024-02-09,Air India,AI-560,Business,06:34:00,0.0,07:12:00,465.0,Kolkata,Banglore,41113
+2024-10-28,Air India,AI-542,Business,11:13:00,2.0,19:20:00,310.2,Delhi,Cochin,41113
+2024-12-31,Vistara,UK-969,Premium Economy,00:52:00,0.0,00:25:00,735.0,Banglore,Delhi,7984
+2024-07-02,Air India,AI-544,Business,12:54:00,0.0,16:46:00,435.0,Mumbai,Hyderabad,41113
+2024-07-03,Vistara,UK-815,Premium Economy,06:25:00,2.0,12:06:00,1450.2,Delhi,Cochin,10823
+2024-11-06,Vistara,UK-673,Premium Economy,15:31:00,2.0,19:37:00,310.2,Kolkata,Banglore,35838
+2024-04-10,Air India,AI-815,Economy,11:19:00,1.0,11:12:00,1020.0,Kolkata,Banglore,9042
+2024-07-21,Air India,AI-815,Economy,14:24:00,1.0,23:11:00,1195.2,Delhi,Cochin,9882
+2024-03-24,Go First,G8-286,Economy,13:52:00,2.0,02:11:00,865.2,Banglore,New Delhi,9267
+2024-06-11,Air India,AI-411,Business,11:25:00,0.0,10:30:00,559.8,Chennai,Kolkata,32646
+2024-06-19,Vistara,UK-879,Premium Economy,15:45:00,0.0,10:37:00,880.2,Banglore,Delhi,12822
+2024-03-10,Air India,AI-453,Business,14:38:00,1.0,02:01:00,775.2,Delhi,Cochin,35532
+2024-10-30,Vistara,UK-945,Economy,09:52:00,1.0,07:15:00,135.0,Delhi,Cochin,5955
+2024-05-04,Air Asia,I5-857,Economy,17:57:00,0.0,22:57:00,334.8,Chennai,Kolkata,7933
+2024-03-10,Vistara,UK-899,Premium Economy,03:43:00,1.0,03:22:00,505.2,Banglore,New Delhi,23753
+2024-02-16,Indigo,6E-2084,Economy,20:55:00,1.0,23:35:00,135.0,Delhi,Cochin,6374
+2024-02-29,Vistara,UK-819,Economy,17:43:00,1.0,13:14:00,450.0,Delhi,Cochin,7451
+2024-04-09,Air India,AI-813,Business,13:57:00,0.0,14:52:00,810.0,Mumbai,Hyderabad,53164
+2024-09-30,Vistara,UK-879,Premium Economy,17:05:00,0.0,17:34:00,334.8,Banglore,Delhi,15842
+2024-04-20,Air India,AI-678,Economy,22:09:00,0.0,12:39:00,139.8,Kolkata,Banglore,7320
+2024-12-07,Indigo,6E-6187,Economy,11:27:00,0.0,12:14:00,285.0,Banglore,New Delhi,8243
+2024-12-19,Vistara,UK-819,Premium Economy,06:19:00,1.0,22:46:00,1200.0,Delhi,Cochin,10638
+2024-12-24,Air India,AI-805,Economy,14:23:00,2.0,06:43:00,130.2,Delhi,Cochin,5955
+2024-08-27,Vistara,UK-977,Economy,07:45:00,1.0,09:53:00,135.0,Kolkata,Banglore,6795
+2024-01-02,Air Asia,I5-779,Economy,09:04:00,1.0,05:02:00,544.8,Kolkata,Banglore,12696
+2024-04-16,Vistara,UK-977,Business,12:34:00,1.0,22:38:00,135.0,Delhi,Cochin,30104
+2024-02-18,Air India,AI-803,Business,10:38:00,1.0,12:09:00,919.8,Delhi,Cochin,53164
+2024-01-30,Indigo,6E-2526,Economy,12:35:00,0.0,07:14:00,145.2,Banglore,Delhi,6164
+2024-06-01,Vistara,UK-747,Economy,06:53:00,0.0,03:30:00,390.0,Banglore,Delhi,23700
+2024-01-07,Air Asia,I5-773,Economy,21:30:00,2.0,01:42:00,480.0,Kolkata,Banglore,6872
+2024-05-06,Vistara,UK-871,Premium Economy,01:25:00,1.0,17:09:00,799.8,Kolkata,Banglore,23753
+2024-07-31,Air India,AI-429,Economy,03:44:00,1.0,22:41:00,454.8,Delhi,Cochin,9630
+2024-12-23,Vistara,UK-969,Economy,09:14:00,1.0,08:16:00,1485.0,Banglore,New Delhi,14612
+2024-03-30,Vistara,UK-747,Economy,09:03:00,0.0,19:49:00,829.8,Delhi,Cochin,21390
+2024-02-22,Vistara,UK-781,Premium Economy,18:08:00,1.0,09:53:00,1035.0,Kolkata,Banglore,21222
+2024-05-19,Vistara,UK-809,Premium Economy,05:13:00,1.0,23:19:00,745.2,Kolkata,Banglore,14558
+2024-01-24,Vistara,UK-975,Business,04:21:00,0.0,12:05:00,135.0,Banglore,Delhi,37048
+2024-05-16,Indigo,6E-6475,Economy,11:31:00,2.0,05:38:00,274.8,Delhi,Cochin,8501
+2024-06-23,Vistara,UK-839,Economy,06:57:00,1.0,02:50:00,529.8,Kolkata,Banglore,13904
+2024-04-16,Air India,AI-502,Economy,16:31:00,1.0,04:18:00,589.8,Kolkata,Banglore,14922
+2024-05-16,Indigo,6E-2049,Economy,15:20:00,1.0,02:11:00,274.8,Kolkata,Banglore,9583
+2024-04-11,Air India,AI-544,Economy,06:53:00,1.0,22:26:00,1324.8,Kolkata,Banglore,9489
+2024-03-09,Air India,AI-439,Business,13:41:00,1.0,17:30:00,990.0,Delhi,Cochin,57074
+2024-05-20,Vistara,UK-817,Premium Economy,14:59:00,0.0,16:54:00,334.8,Mumbai,Hyderabad,10638
+2024-12-05,Vistara,UK-815,Premium Economy,21:05:00,0.0,06:47:00,1450.2,Mumbai,Hyderabad,18646
+2024-10-29,Vistara,UK-933,Business,02:21:00,1.0,17:36:00,124.80000000000001,Delhi,Cochin,41528
+2024-10-30,Air India,AI-815,Economy,11:49:00,2.0,08:24:00,465.0,Delhi,Cochin,7194
+2024-10-24,Air India,AI-815,Business,17:45:00,0.0,12:03:00,1020.0,Banglore,Delhi,53164
+2024-07-16,Vistara,UK-635,Premium Economy,00:43:00,1.0,21:29:00,289.8,Delhi,Cochin,24840
+2024-01-22,Air India,AI-554,Business,02:25:00,1.0,02:00:00,709.8,Delhi,Cochin,50969
+2024-02-23,Indigo,6E-6187,Economy,05:33:00,1.0,15:47:00,285.0,Delhi,Cochin,14039
+2024-09-20,Air India,AI-767,Economy,17:02:00,2.0,11:51:00,439.8,Delhi,Cochin,17085
+2024-01-03,Indigo,6E-2117,Economy,22:29:00,0.0,01:58:00,340.2,Banglore,New Delhi,6417
+2024-01-28,Air Asia,I5-745,Economy,10:17:00,1.0,08:01:00,784.8,Delhi,Cochin,7846
+2024-04-05,Vistara,UK-959,Business,08:18:00,0.0,04:03:00,1425.0,Banglore,New Delhi,22297
+2024-10-27,Vistara,UK-809,Premium Economy,08:11:00,1.0,04:27:00,745.2,Kolkata,Banglore,10638
+2024-08-04,Air India,AI-429,Business,08:46:00,2.0,07:05:00,750.0,Kolkata,Banglore,50969
+2024-09-03,Vistara,UK-785,Premium Economy,22:27:00,1.0,05:48:00,1065.0,Kolkata,Banglore,18534
+2024-06-16,Vistara,UK-813,Economy,07:43:00,1.0,01:46:00,349.8,Delhi,Cochin,10365
+2024-04-12,Air India,AI-540,Economy,03:45:00,1.0,02:29:00,690.0,Banglore,New Delhi,10281
+2024-09-15,Vistara,UK-781,Economy,10:07:00,2.0,00:37:00,1035.0,Delhi,Cochin,13935
+2024-03-13,Air India,AI-805,Business,01:37:00,0.0,05:14:00,130.2,Kolkata,Banglore,22152
+2024-11-13,Vistara,UK-747,Business,03:38:00,0.0,00:46:00,390.0,Kolkata,Banglore,69113
+2024-11-05,Air Asia,I5-784,Economy,22:36:00,1.0,20:56:00,490.2,Delhi,Cochin,12344
+2024-08-22,Vistara,UK-957,Business,21:24:00,1.0,02:48:00,135.0,Kolkata,Banglore,30104
+2024-08-05,Air India,AI-767,Economy,21:51:00,1.0,13:40:00,439.8,Kolkata,Banglore,15090
+2024-11-24,Air India,AI-506,Business,00:10:00,0.0,01:13:00,705.0,Banglore,Delhi,53164
+2024-05-28,Vistara,UK-941,Business,23:29:00,0.0,17:26:00,150.0,Mumbai,Hyderabad,41528
+2024-09-16,Vistara,UK-899,Business,03:22:00,1.0,00:23:00,1050.0,Delhi,Cochin,41281
+2024-10-27,Air India,AI-883,Economy,04:16:00,1.0,13:45:00,1129.8,Kolkata,Banglore,11344
+2024-12-22,Vistara,UK-955,Premium Economy,07:52:00,0.0,12:08:00,130.2,Banglore,New Delhi,7838
+2024-10-25,Vistara,UK-879,Business,22:15:00,2.0,10:40:00,1260.0,Delhi,Cochin,41281
+2024-05-28,Air Asia,I5-745,Economy,20:11:00,0.0,16:51:00,784.8,Banglore,New Delhi,7846
+2024-02-29,Vistara,UK-811,Premium Economy,15:01:00,1.0,13:40:00,904.8,Delhi,Cochin,11758
+2024-12-02,Vistara,UK-959,Premium Economy,16:10:00,1.0,18:52:00,735.0,Mumbai,Hyderabad,15992
+2024-12-04,Go First,G8-286,Economy,09:28:00,0.0,05:35:00,514.8,Mumbai,Hyderabad,17006
+2024-01-31,Vistara,UK-979,Premium Economy,09:49:00,1.0,03:58:00,1009.8,Delhi,Cochin,7984
+2024-09-24,Vistara,UK-941,Economy,19:47:00,0.0,13:01:00,150.0,Kolkata,Banglore,7635
+2024-12-23,Air India,AI-814,Business,06:49:00,1.0,08:21:00,135.0,Delhi,Cochin,22152
+2024-03-24,Air India,AI-833,Business,18:02:00,1.0,16:56:00,1050.0,Delhi,Cochin,50109
+2024-07-16,Air India,AI-411,Economy,03:54:00,1.0,03:25:00,559.8,Kolkata,Banglore,7604
+2024-11-01,Vistara,UK-635,Premium Economy,09:18:00,0.0,16:03:00,1624.8,Banglore,Delhi,14838
+2024-12-07,Vistara,UK-815,Premium Economy,13:25:00,1.0,21:19:00,1450.2,Delhi,Cochin,14558
+2024-11-06,Air India,AI-636,Economy,06:23:00,1.0,22:51:00,225.0,Delhi,Cochin,7320
+2024-12-18,Go First,G8-113,Economy,21:19:00,0.0,03:27:00,889.8,Banglore,Delhi,6947
+2024-08-01,Indigo,6E-2084,Economy,14:49:00,1.0,01:10:00,135.0,Kolkata,Banglore,7319
+2024-02-26,Vistara,UK-871,Premium Economy,03:35:00,1.0,08:53:00,694.8,Delhi,Cochin,12822
+2024-06-20,Air India,AI-883,Economy,23:40:00,1.0,05:17:00,1579.8,Delhi,Cochin,9349
+2024-08-08,Air India,AI-512,Business,10:53:00,2.0,19:51:00,964.8,Kolkata,Banglore,53164
+2024-04-12,Air India,AI-560,Economy,12:52:00,0.0,23:34:00,1605.0,Banglore,Delhi,7704
+2024-04-19,Air India,AI-429,Economy,09:21:00,1.0,14:02:00,835.2,Delhi,Cochin,11121
+2024-08-17,Vistara,UK-943,Business,20:51:00,1.0,12:03:00,130.2,Delhi,Cochin,22152
+2024-07-14,Air India,AI-443,Economy,15:56:00,2.0,20:36:00,304.8,Delhi,Cochin,7151
+2024-05-27,Spicejet,SG-8709,Economy,01:27:00,1.0,02:58:00,115.19999999999999,Banglore,New Delhi,6215
+2024-08-08,Air India,AI-560,Economy,00:52:00,1.0,13:33:00,1605.0,Banglore,New Delhi,7704
+2024-10-23,Vistara,UK-627,Economy,04:36:00,0.0,09:16:00,1590.0,Kolkata,Banglore,9210
+2024-08-05,Vistara,UK-969,Business,11:19:00,0.0,03:34:00,940.2,Chennai,Kolkata,22297
+2024-02-21,Indigo,6E-2049,Economy,18:44:00,1.0,05:00:00,345.0,Banglore,New Delhi,9419
+2024-11-08,Air India,AI-406,Economy,06:42:00,0.0,15:21:00,334.8,Kolkata,Banglore,14355
+2024-02-10,Indigo,6E-6475,Economy,02:36:00,2.0,03:13:00,390.0,Delhi,Cochin,8798
+2024-10-23,Indigo,UK-855,Economy,01:25:00,1.0,00:33:00,270.0,Delhi,Cochin,11782
+2024-09-05,Vistara,UK-737,Business,23:49:00,1.0,11:45:00,465.0,Kolkata,Banglore,69113
+2024-11-28,Vistara,UK-785,Business,22:17:00,2.0,04:50:00,1065.0,Delhi,Cochin,39870
+2024-02-07,Air India,AI-605,Business,04:25:00,1.0,18:36:00,135.0,Delhi,Cochin,22152
+2024-06-11,Vistara,UK-813,Business,08:42:00,1.0,07:16:00,349.8,Delhi,Cochin,53164
+2024-09-21,Vistara,UK-637,Economy,03:18:00,0.0,23:50:00,315.0,Kolkata,Banglore,10050
+2024-01-18,Air India,AI-815,Economy,20:09:00,1.0,23:36:00,465.0,Kolkata,Banglore,7415
+2024-07-24,Vistara,UK-839,Premium Economy,21:04:00,0.0,11:03:00,529.8,Delhi,Cochin,20136
+2024-08-20,Indigo,6E-2411,Economy,15:23:00,2.0,03:13:00,550.2,Delhi,Cochin,8233
+2024-02-01,Air India,AI-865,Economy,03:52:00,0.0,06:25:00,145.2,Banglore,New Delhi,5955
+2024-05-11,Air India,AI-803,Business,14:14:00,1.0,02:05:00,919.8,Kolkata,Banglore,54284
+2024-04-06,Vistara,UK-985,Premium Economy,09:55:00,0.0,18:02:00,135.0,Banglore,Delhi,7838
+2024-01-19,Air India,AI-433,Business,12:21:00,1.0,17:33:00,1620.0,Delhi,Cochin,29805
+2024-07-17,Vistara,UK-855,Premium Economy,21:49:00,2.0,04:52:00,334.8,Delhi,Cochin,20046
+2024-01-09,Indigo,UK-929,Economy,05:46:00,1.0,20:16:00,270.0,Banglore,New Delhi,17347
+2024-10-19,Vistara,UK-951,Economy,23:39:00,0.0,19:21:00,130.2,Kolkata,Banglore,5955
+2024-11-17,Vistara,UK-705,Economy,17:44:00,0.0,13:33:00,769.8,Kolkata,Banglore,14933
+2024-06-25,Air India,AI-814,Business,21:37:00,1.0,05:29:00,135.0,Delhi,Cochin,22152
+2024-04-16,Indigo,6E-6103,Economy,15:06:00,1.0,07:27:00,604.8,Delhi,Cochin,10102
+2024-06-20,Air India,AI-805,Economy,02:37:00,1.0,21:44:00,130.2,Kolkata,Banglore,5955
+2024-07-23,Indigo,6E-2112,Economy,09:48:00,1.0,15:08:00,150.0,Delhi,Cochin,5794
+2024-10-20,Air India,AI-814,Economy,09:32:00,0.0,02:48:00,135.0,Chennai,Kolkata,5955
+2024-10-29,Indigo,6E-2519,Economy,06:15:00,2.0,01:19:00,139.8,Delhi,Cochin,6277
+2024-06-22,Air India,AI-554,Economy,19:02:00,1.0,14:03:00,625.2,Kolkata,Banglore,9609
+2024-04-05,Vistara,UK-747,Economy,13:53:00,1.0,12:05:00,390.0,Delhi,Cochin,18765
+2024-03-02,Vistara,UK-781,Economy,02:14:00,0.0,04:04:00,1035.0,Mumbai,Hyderabad,12570
+2024-09-12,Air India,AI-624,Business,18:59:00,0.0,07:46:00,145.2,Delhi,Cochin,22152
+2024-07-03,Air India,AI-560,Economy,22:39:00,0.0,21:59:00,1015.2,Kolkata,Banglore,9069
+2024-09-08,Go First,G8-143,Economy,20:44:00,0.0,15:34:00,360.0,Banglore,Delhi,11362
+2024-08-20,Air Asia,I5-745,Economy,06:50:00,1.0,13:36:00,400.2,Kolkata,Banglore,4827
+2024-04-15,Vistara,UK-959,Economy,18:52:00,2.0,23:46:00,735.0,Delhi,Cochin,17505
+2024-02-14,Air India,AI-544,Economy,15:04:00,1.0,12:45:00,1024.8,Kolkata,Banglore,7704
+2024-08-24,Air India,AI-605,Business,20:07:00,1.0,08:28:00,135.0,Delhi,Cochin,22152
+2024-04-26,Vistara,UK-995,Economy,23:52:00,0.0,08:06:00,135.0,Banglore,New Delhi,7635
+2024-08-29,Vistara,UK-879,Business,03:01:00,1.0,01:42:00,1260.0,Delhi,Cochin,41281
+2024-10-10,Air India,AI-767,Economy,23:36:00,1.0,20:32:00,499.8,Delhi,Cochin,15825
+2024-09-02,Air India,AI-605,Economy,10:07:00,0.0,03:56:00,135.0,Kolkata,Banglore,5955
+2024-08-02,Air India,AI-767,Business,15:25:00,2.0,01:29:00,499.8,Delhi,Cochin,59033
+2024-08-10,Air India,AI-811,Business,07:45:00,2.0,08:05:00,1305.0,Banglore,New Delhi,32646
+2024-02-22,Indigo,6E-2176,Economy,17:17:00,0.0,09:08:00,135.0,Kolkata,Banglore,7319
+2024-07-22,Air India,AI-624,Economy,04:51:00,1.0,06:13:00,145.2,Delhi,Cochin,7320
+2024-12-06,Indigo,6E-2208,Economy,09:17:00,1.0,05:22:00,520.2,Kolkata,Banglore,8842
+2024-02-15,Air India,AI-544,Economy,21:35:00,0.0,01:05:00,1324.8,Banglore,New Delhi,7704
+2024-03-16,Air India,AI-817,Business,10:45:00,1.0,23:17:00,1030.2,Delhi,Cochin,31462
+2024-06-14,Vistara,UK-813,Economy,17:28:00,0.0,09:02:00,349.8,Kolkata,Banglore,8948
+2024-01-19,Go First,G8-113,Economy,08:39:00,0.0,19:22:00,990.0,Mumbai,Hyderabad,10347
+2024-04-10,Air India,AI-814,Business,19:49:00,2.0,10:18:00,135.0,Delhi,Cochin,22152
+2024-10-17,Air India,AI-560,Business,11:27:00,0.0,15:13:00,465.0,Kolkata,Banglore,41113
+2024-05-08,Air India,AI-544,Business,12:54:00,1.0,19:45:00,1324.8,Delhi,Cochin,41113
+2024-04-01,Air India,AI-506,Economy,22:57:00,1.0,00:50:00,705.0,Kolkata,Banglore,7940
+2024-09-27,Vistara,UK-945,Business,15:45:00,0.0,02:37:00,135.0,Banglore,New Delhi,41528
+2024-10-02,Air India,AI-506,Economy,21:26:00,1.0,07:42:00,814.8,Delhi,Cochin,8297
+2024-12-13,Vistara,UK-819,Premium Economy,11:16:00,1.0,10:37:00,364.8,Kolkata,Banglore,10638
+2024-05-29,Air India,AI-542,Business,21:09:00,0.0,16:48:00,310.2,Banglore,Delhi,41113
+2024-05-08,Air India,AI-839,Business,22:00:00,1.0,13:16:00,1045.2,Kolkata,Banglore,41113
+2024-08-15,Indigo,6E-6034,Economy,13:40:00,1.0,04:19:00,304.8,Delhi,Cochin,9955
+2024-03-21,Vistara,UK-787,Business,00:45:00,1.0,19:02:00,859.8,Banglore,New Delhi,39870
+2024-11-19,Akasa Air,QP-1128,Economy,04:12:00,1.0,19:48:00,130.2,Delhi,Cochin,5890
+2024-05-19,Vistara,UK-899,Premium Economy,14:31:00,2.0,23:16:00,1155.0,Delhi,Cochin,12822
+2024-06-03,Vistara,UK-811,Premium Economy,20:03:00,1.0,15:08:00,1065.0,Delhi,Cochin,10823
+2024-04-23,Vistara,UK-871,Premium Economy,00:06:00,1.0,23:40:00,694.8,Delhi,Cochin,12262
+2024-06-08,Vistara,UK-847,Premium Economy,12:24:00,1.0,19:19:00,784.8,Kolkata,Banglore,18366
+2024-03-01,Vistara,UK-959,Premium Economy,17:50:00,0.0,03:32:00,1425.0,Banglore,Delhi,7984
+2024-08-28,Vistara,UK-975,Economy,06:31:00,2.0,02:39:00,135.0,Delhi,Cochin,5955
+2024-05-28,Air India,AI-814,Economy,01:24:00,0.0,23:44:00,135.0,Banglore,Delhi,5955
+2024-05-16,Indigo,6E-2084,Economy,22:41:00,1.0,20:46:00,135.0,Delhi,Cochin,7319
+2024-07-30,Vistara,UK-829,Premium Economy,12:13:00,1.0,08:33:00,1600.2,Kolkata,Banglore,15842
+2024-01-15,Air Asia,I5-798,Economy,17:07:00,0.0,08:53:00,814.8,Banglore,Delhi,6872
+2024-08-17,Indigo,6E-902,Economy,11:56:00,0.0,17:15:00,375.0,Kolkata,Banglore,11257
+2024-12-06,Vistara,UK-951,Premium Economy,10:40:00,0.0,15:15:00,130.2,Kolkata,Banglore,11646
+2024-07-27,Air India,AI-558,Business,11:38:00,0.0,17:41:00,750.0,Banglore,New Delhi,50969
+2024-10-12,Air Asia,I5-743,Economy,00:30:00,0.0,19:22:00,880.2,Banglore,Delhi,6872
+2024-03-31,Air India,AI-807,Business,03:32:00,1.0,02:02:00,934.8,Delhi,Cochin,53164
+2024-11-20,Air India,AI-813,Economy,03:24:00,1.0,14:56:00,919.8,Kolkata,Banglore,6944
+2024-08-24,Vistara,UK-879,Economy,16:29:00,1.0,00:33:00,880.2,Kolkata,Banglore,13935
+2024-12-18,Indigo,6E-2117,Economy,02:04:00,0.0,20:51:00,340.2,Kolkata,Banglore,5358
+2024-09-18,Air India,AI-531,Business,12:56:00,1.0,11:32:00,1615.2,Delhi,Cochin,31462
+2024-02-04,Vistara,UK-705,Economy,15:03:00,1.0,00:42:00,330.0,Delhi,Cochin,16613
+2024-09-04,Vistara,UK-801,Economy,18:38:00,1.0,19:28:00,694.8,Delhi,Cochin,8948
+2024-12-01,Vistara,UK-955,Premium Economy,10:23:00,0.0,10:28:00,130.2,Banglore,Delhi,30260
+2024-09-04,Go First,G8-286,Economy,18:30:00,0.0,06:10:00,760.2,Banglore,Delhi,16834
+2024-12-22,Indigo,6E-2016,Economy,05:15:00,0.0,23:36:00,135.0,Kolkata,Banglore,6374
+2024-10-18,Go First,G8-334,Economy,19:45:00,1.0,12:38:00,130.2,Delhi,Cochin,5899
+2024-12-30,Air India,AI-537,Economy,08:24:00,2.0,18:28:00,364.8,Delhi,Cochin,11121
+2024-10-13,Air India,AI-441,Business,10:14:00,1.0,20:08:00,145.2,Delhi,Cochin,22152
+2024-09-27,Air India,AI-512,Economy,17:27:00,0.0,09:35:00,964.8,Banglore,New Delhi,9137
+2024-04-13,Go First,G8-194,Economy,20:38:00,1.0,05:08:00,630.0,Banglore,New Delhi,12472
+2024-09-21,Vistara,UK-899,Premium Economy,19:49:00,1.0,15:21:00,1429.8,Delhi,Cochin,15118
+2024-03-15,Air India,AI-485,Business,03:17:00,1.0,13:52:00,655.2,Kolkata,Banglore,39622
+2024-06-18,Indigo,6E-6475,Economy,08:26:00,1.0,11:07:00,589.8,Delhi,Cochin,4937
+2024-12-18,Indigo,6E-6475,Economy,02:59:00,0.0,18:35:00,589.8,Mumbai,Hyderabad,8620
+2024-05-18,Air India,AI-506,Economy,16:53:00,0.0,09:54:00,814.8,Kolkata,Banglore,9357
+2024-04-03,Air India,AI-544,Economy,10:27:00,1.0,00:30:00,1024.8,Kolkata,Banglore,7704
+2024-06-11,Vistara,UK-801,Premium Economy,01:59:00,1.0,16:29:00,670.2,Kolkata,Banglore,10638
+2024-08-23,Vistara,UK-859,Business,17:50:00,0.0,12:47:00,760.2,Delhi,Cochin,45156
+2024-02-13,Air India,AI-560,Business,16:05:00,0.0,03:56:00,465.0,Mumbai,Hyderabad,41113
+2024-11-24,Vistara,UK-977,Economy,04:06:00,0.0,01:36:00,135.0,Banglore,Delhi,5955
+2024-04-13,Air Asia,I5-745,Economy,09:23:00,1.0,15:35:00,784.8,Kolkata,Banglore,7846
+2024-11-06,Vistara,UK-819,Business,05:45:00,1.0,05:46:00,550.2,Delhi,Cochin,53164
+2024-01-29,Air India,AI-767,Economy,06:29:00,2.0,03:21:00,439.8,Kolkata,Banglore,16455
+2024-11-14,Vistara,UK-829,Premium Economy,09:01:00,0.0,11:50:00,435.0,Delhi,Cochin,12822
+2024-02-07,Air India,AI-401,Economy,10:29:00,2.0,22:16:00,760.2,Delhi,Cochin,14460
+2024-05-04,Vistara,UK-855,Business,02:30:00,0.0,14:39:00,334.8,Mumbai,Hyderabad,48225
+2024-10-19,Air Asia,I5-745,Economy,11:30:00,2.0,18:07:00,885.0,Delhi,Cochin,10624
+2024-05-07,Vistara,UK-837,Premium Economy,14:28:00,0.0,07:28:00,1090.2,Banglore,Delhi,13254
+2024-02-09,Vistara,UK-855,Business,09:49:00,1.0,00:59:00,915.0,Banglore,New Delhi,48225
+2024-12-30,Vistara,UK-833,Economy,04:59:00,1.0,21:08:00,889.8,Delhi,Cochin,12203
+2024-04-05,Vistara,UK-979,Economy,12:24:00,2.0,16:14:00,1215.0,Delhi,Cochin,7772
+2024-07-02,Vistara,UK-819,Economy,11:25:00,1.0,06:26:00,450.0,Kolkata,Banglore,8580
+2024-01-11,Vistara,UK-927,Business,15:05:00,0.0,12:44:00,124.80000000000001,Banglore,Delhi,22152
+2024-09-18,Vistara,UK-951,Economy,19:49:00,1.0,12:05:00,130.2,Kolkata,Banglore,5955
+2024-12-11,Air India,AI-411,Economy,23:23:00,0.0,08:26:00,559.8,Kolkata,Banglore,7950
+2024-07-08,Vistara,UK-945,Economy,23:08:00,1.0,16:00:00,135.0,Delhi,Cochin,13830
+2024-12-03,Vistara,UK-979,Business,02:47:00,1.0,17:35:00,319.8,Kolkata,Banglore,22297
+2024-04-14,Air India,AI-605,Economy,04:16:00,0.0,06:02:00,135.0,Mumbai,Hyderabad,7320
+2024-01-23,Vistara,UK-813,Economy,20:23:00,1.0,22:04:00,349.8,Banglore,New Delhi,12150
+2024-10-20,Air India,AI-415,Economy,06:38:00,0.0,18:55:00,1470.0,Banglore,Delhi,12286
+2024-03-06,Air India,AI-814,Business,03:21:00,1.0,21:50:00,135.0,Delhi,Cochin,22152
+2024-12-04,Vistara,UK-977,Business,10:10:00,1.0,04:22:00,135.0,Delhi,Cochin,56860
+2024-01-12,Go First,G8-113,Economy,04:07:00,1.0,16:11:00,975.0,Delhi,Cochin,16711
+2024-12-20,Spicejet,SG-8701,Economy,18:51:00,1.0,15:03:00,135.0,Kolkata,Banglore,5021
+2024-07-09,Air India,AI-803,Economy,11:22:00,0.0,14:03:00,919.8,Banglore,Delhi,9357
+2024-01-18,Vistara,UK-819,Premium Economy,10:16:00,1.0,21:34:00,1200.0,Kolkata,Banglore,10638
+2024-01-16,Vistara,UK-979,Business,02:55:00,1.0,17:21:00,1009.8,Delhi,Cochin,22297
+2024-07-09,Go First,G8-286,Economy,09:34:00,1.0,11:13:00,525.0,Delhi,Cochin,12596
+2024-05-13,Vistara,UK-813,Economy,19:05:00,1.0,18:16:00,349.8,Delhi,Cochin,10365
+2024-11-19,Air India,AI-471,Economy,04:23:00,0.0,20:29:00,289.8,Banglore,Delhi,10890
+2024-08-09,Vistara,UK-829,Business,04:00:00,0.0,02:14:00,435.0,Mumbai,Hyderabad,55696
+2024-01-12,Vistara,UK-811,Economy,22:23:00,1.0,17:46:00,349.8,Delhi,Cochin,9788
+2024-07-30,Vistara,UK-811,Economy,06:30:00,1.0,06:28:00,450.0,Kolkata,Banglore,7478
+2024-07-03,Vistara,UK-871,Economy,01:07:00,0.0,00:52:00,799.8,Kolkata,Banglore,38915
+2024-05-25,Air India,AI-883,Business,01:47:00,0.0,06:30:00,610.2,Banglore,Delhi,48225
+2024-11-14,Indigo,6E-319,Economy,05:19:00,1.0,10:28:00,375.0,Kolkata,Banglore,12254
+2024-04-17,Air India,AI-865,Economy,23:24:00,0.0,21:44:00,145.2,Banglore,Delhi,7320
+2024-02-20,Vistara,UK-785,Business,23:40:00,0.0,11:16:00,1690.2,Delhi,Cochin,39870
+2024-08-17,Go First,G8-354,Economy,23:10:00,0.0,18:08:00,130.2,Banglore,Delhi,5801
+2024-06-19,Vistara,UK-815,Premium Economy,21:13:00,1.0,11:53:00,910.2,Delhi,Cochin,10638
+2024-11-12,Vistara,UK-707,Business,02:23:00,0.0,20:51:00,364.8,Banglore,Delhi,69113
+2024-12-27,Vistara,UK-941,Business,15:25:00,1.0,20:26:00,150.0,Delhi,Cochin,22152
+2024-07-18,Vistara,UK-833,Business,14:46:00,1.0,13:56:00,409.8,Kolkata,Banglore,72070
+2024-08-03,Air India,AI-403,Business,09:27:00,0.0,23:37:00,1560.0,Banglore,Delhi,39326
+2024-05-11,Indigo,6E-607,Economy,04:18:00,1.0,11:56:00,469.8,Mumbai,Hyderabad,5398
+2024-12-30,Air India,AI-839,Economy,22:15:00,1.0,16:29:00,745.2,Delhi,Cochin,9489
+2024-09-24,Vistara,UK-975,Business,05:41:00,0.0,16:05:00,135.0,Banglore,New Delhi,37048
+2024-12-31,Vistara,UK-879,Premium Economy,05:49:00,1.0,19:31:00,1260.0,Delhi,Cochin,12822
+2024-12-13,Vistara,UK-627,Economy,04:51:00,1.0,15:50:00,1485.0,Delhi,Cochin,10365
+2024-08-26,Go First,G8-194,Economy,07:09:00,0.0,21:21:00,630.0,Banglore,Delhi,8740
+2024-03-31,Vistara,UK-819,Premium Economy,12:21:00,1.0,06:45:00,390.0,Kolkata,Banglore,11758
+2024-06-02,Vistara,UK-801,Premium Economy,01:23:00,1.0,19:47:00,694.8,Delhi,Cochin,10638
+2024-09-15,Vistara,UK-781,Economy,11:20:00,1.0,02:19:00,1035.0,Kolkata,Banglore,14670
+2024-02-10,Air India,AI-429,Business,08:38:00,0.0,02:57:00,454.8,Delhi,Cochin,50969
+2024-12-16,Indigo,6E-6187,Economy,23:03:00,1.0,08:15:00,285.0,Delhi,Cochin,14564
+2024-02-09,Air India,AI-504,Economy,00:50:00,1.0,04:19:00,859.8,Delhi,Cochin,8297
+2024-06-28,Air Asia,I5-548,Economy,19:16:00,2.0,23:23:00,765.0,Delhi,Cochin,5291
+2024-11-24,Indigo,6E-7403,Economy,04:00:00,1.0,22:59:00,390.0,Delhi,Cochin,10312
+2024-06-06,Air India,AI-425,Business,12:36:00,0.0,04:33:00,1579.8,Mumbai,Hyderabad,53822
+2024-01-25,Vistara,UK-899,Business,20:51:00,1.0,15:06:00,505.2,Delhi,Cochin,55696
+2024-08-01,Air India,AI-473,Business,21:35:00,2.0,05:03:00,1035.0,Delhi,Cochin,45459
+2024-03-24,Air India,AI-839,Economy,08:18:00,1.0,09:25:00,1594.8,Delhi,Cochin,9069
+2024-11-24,Air India,AI-814,Business,00:32:00,0.0,23:15:00,135.0,Banglore,Delhi,22152
+2024-09-27,Air India,AI-887,Business,13:00:00,1.0,16:58:00,135.0,Kolkata,Banglore,22152
+2024-06-04,Air Asia,I5-743,Economy,13:44:00,2.0,17:24:00,880.2,Delhi,Cochin,5431
+2024-09-20,Indigo,6E-2505,Economy,16:45:00,0.0,19:10:00,139.8,Mumbai,Hyderabad,6374
+2024-09-27,Indigo,6E-6814,Economy,02:28:00,1.0,09:37:00,145.2,Delhi,Cochin,6374
+2024-08-13,Vistara,UK-969,Business,04:35:00,0.0,03:13:00,735.0,Kolkata,Banglore,30249
+2024-12-05,Vistara,UK-809,Premium Economy,18:45:00,1.0,04:23:00,745.2,Delhi,Cochin,11943
+2024-11-27,Vistara,UK-977,Economy,00:50:00,1.0,20:15:00,135.0,Delhi,Cochin,5955
+2024-08-04,Vistara,UK-817,Economy,23:38:00,1.0,06:00:00,435.0,Kolkata,Banglore,10208
+2024-09-08,Indigo,6E-902,Economy,15:30:00,1.0,12:08:00,375.0,Kolkata,Banglore,9734
+2024-01-18,Vistara,UK-819,Economy,00:28:00,1.0,00:30:00,550.2,Delhi,Cochin,11888
+2024-08-05,Air India,AI-678,Business,11:10:00,2.0,17:12:00,139.8,Delhi,Cochin,22152
+2024-04-03,Air India,AI-877,Business,04:48:00,0.0,02:29:00,1489.8,Delhi,Cochin,39859
+2024-03-17,Vistara,UK-933,Economy,23:04:00,0.0,12:19:00,124.80000000000001,Mumbai,Hyderabad,6218
+2024-04-02,Indigo,6E-2204,Economy,19:58:00,1.0,10:07:00,415.2,Kolkata,Banglore,11152
+2024-01-15,Vistara,UK-707,Business,13:07:00,1.0,01:21:00,364.8,Banglore,New Delhi,59033
+2024-10-18,Air India,AI-678,Business,06:23:00,0.0,13:00:00,139.8,Kolkata,Banglore,22152
+2024-06-07,Vistara,UK-975,Premium Economy,15:16:00,0.0,21:01:00,135.0,Banglore,Delhi,8622
+2024-10-30,Vistara,UK-747,Business,20:22:00,1.0,14:25:00,390.0,Delhi,Cochin,59033
+2024-06-29,Air India,AI-814,Business,01:46:00,1.0,23:08:00,135.0,Kolkata,Banglore,22152
+2024-01-02,Vistara,UK-781,Premium Economy,22:44:00,1.0,11:50:00,1035.0,Kolkata,Banglore,20046
+2024-05-10,Vistara,UK-813,Premium Economy,14:22:00,2.0,07:56:00,889.8,Delhi,Cochin,11943
+2024-08-13,Air India,AI-678,Economy,03:19:00,1.0,05:51:00,139.8,Kolkata,Banglore,5955
+2024-07-24,Indigo,6E-6034,Economy,07:03:00,0.0,23:23:00,304.8,Kolkata,Banglore,7241
+2024-10-22,Indigo,6E-319,Economy,17:55:00,0.0,11:05:00,375.0,Banglore,Delhi,11257
+2024-04-20,Vistara,UK-747,Economy,08:15:00,0.0,21:05:00,390.0,Delhi,Cochin,16770
+2024-07-25,Air India,AI-504,Economy,09:10:00,1.0,14:28:00,1570.2,Kolkata,Banglore,7677
+2024-01-03,Air Asia,I5-1228,Economy,12:46:00,0.0,20:23:00,910.2,Banglore,Delhi,9287
+2024-06-12,Indigo,6E-6231,Economy,20:57:00,1.0,06:42:00,270.0,Delhi,Cochin,9472
+2024-01-30,Vistara,UK-899,Premium Economy,22:46:00,1.0,06:59:00,1050.0,Kolkata,Banglore,12822
+2024-09-27,Air India,AI-665,Business,07:19:00,2.0,14:38:00,139.8,Delhi,Cochin,25612
+2024-03-28,Vistara,UK-975,Business,19:36:00,1.0,02:26:00,135.0,Delhi,Cochin,22152
+2024-07-04,Air India,AI-453,Economy,11:42:00,0.0,11:02:00,775.2,Banglore,Delhi,13475
+2024-12-13,Akasa Air,QP-1128,Economy,13:44:00,0.0,03:15:00,130.2,Banglore,Delhi,5890
+2024-07-06,Go First,G8-717,Economy,23:07:00,0.0,09:59:00,300.0,Banglore,New Delhi,6608
+2024-04-29,Air India,AI-814,Business,20:10:00,1.0,11:06:00,135.0,Delhi,Cochin,22152
+2024-02-12,Indigo,6E-2216,Economy,01:23:00,2.0,10:31:00,505.2,Delhi,Cochin,6931
+2024-02-24,Vistara,UK-635,Premium Economy,01:21:00,1.0,02:10:00,289.8,Kolkata,Banglore,23350
+2024-11-13,Vistara,UK-969,Business,17:49:00,1.0,19:11:00,735.0,Kolkata,Banglore,22297
+2024-05-11,Vistara,UK-959,Economy,07:12:00,1.0,04:58:00,735.0,Kolkata,Banglore,14612
+2024-01-23,Air India,AI-441,Business,10:45:00,0.0,01:28:00,145.2,Kolkata,Banglore,22152
+2024-04-09,Air India,AI-453,Economy,04:13:00,1.0,12:36:00,775.2,Kolkata,Banglore,8824
+2024-12-31,Air India,AI-502,Business,21:21:00,0.0,09:22:00,480.0,Banglore,Delhi,53164
+2024-03-16,Vistara,UK-781,Business,15:32:00,1.0,10:15:00,1035.0,Delhi,Cochin,39870
+2024-10-28,Vistara,UK-995,Economy,21:21:00,1.0,01:24:00,135.0,Banglore,New Delhi,5955
+2024-09-26,Vistara,UK-955,Economy,09:16:00,1.0,20:30:00,130.2,Delhi,Cochin,5955
+2024-05-09,Vistara,UK-977,Economy,13:22:00,1.0,03:38:00,135.0,Delhi,Cochin,7320
+2024-01-08,Vistara,UK-819,Business,11:08:00,0.0,05:44:00,450.0,Banglore,Delhi,91435
+2024-08-06,Vistara,UK-899,Premium Economy,11:51:00,1.0,13:04:00,505.2,Banglore,New Delhi,12822
+2024-01-28,Vistara,UK-637,Business,03:21:00,1.0,06:42:00,1110.0,Kolkata,Banglore,36577
+2024-06-06,Air India,AI-537,Economy,21:38:00,0.0,16:00:00,450.0,Banglore,Delhi,10281
+2024-10-13,Air India,AI-512,Business,12:16:00,1.0,11:58:00,790.2,Delhi,Cochin,53164
+2024-11-26,Vistara,UK-985,Premium Economy,04:23:00,1.0,05:35:00,135.0,Delhi,Cochin,8622
+2024-10-18,Vistara,UK-815,Premium Economy,09:41:00,0.0,04:12:00,810.0,Banglore,Delhi,11758
+2024-04-13,Air India,AI-453,Business,19:14:00,1.0,12:16:00,775.2,Kolkata,Banglore,35532
+2024-12-26,Vistara,UK-705,Business,06:40:00,2.0,09:10:00,330.0,Delhi,Cochin,59033
+2024-07-30,Go First,G8-323,Economy,01:01:00,1.0,07:49:00,130.2,Delhi,Cochin,5899
+2024-01-30,Go First,G8-530,Economy,07:52:00,0.0,19:33:00,130.2,Banglore,Delhi,5899
+2024-02-27,Vistara,UK-813,Economy,05:47:00,1.0,07:22:00,349.8,Banglore,New Delhi,10208
+2024-07-29,Vistara,UK-871,Business,13:25:00,0.0,13:24:00,1075.2,Kolkata,Banglore,41281
+2024-01-01,Vistara,UK-899,Business,12:39:00,0.0,19:37:00,1429.8,Banglore,Delhi,41281
+2024-01-13,Vistara,UK-879,Business,04:03:00,0.0,12:20:00,880.2,Mumbai,Hyderabad,41281
+2024-04-12,Vistara,UK-815,Premium Economy,02:27:00,1.0,23:19:00,810.0,Delhi,Cochin,14743
+2024-10-25,Air India,AI-762,Economy,21:18:00,1.0,05:52:00,985.2,Banglore,New Delhi,15825
+2024-06-03,Go First,G8-2519,Economy,17:06:00,0.0,23:31:00,850.2,Banglore,New Delhi,6007
+2024-11-17,Vistara,UK-835,Business,13:11:00,1.0,06:47:00,769.8,Delhi,Cochin,72070
+2024-11-02,Air India,AI-805,Economy,16:10:00,0.0,18:28:00,130.2,Banglore,Delhi,5955
+2024-08-22,Air India,AI-502,Economy,08:53:00,2.0,05:13:00,1144.8,Delhi,Cochin,7415
+2024-10-24,Indigo,6E-6201,Economy,12:29:00,2.0,06:08:00,270.0,Delhi,Cochin,7634
+2024-11-24,Air India,AI-540,Business,22:46:00,0.0,10:01:00,690.0,Banglore,Delhi,50969
+2024-03-24,Vistara,UK-929,Economy,21:11:00,2.0,19:39:00,739.8,Kolkata,Banglore,9872
+2024-09-05,Air India,AI-554,Economy,17:30:00,0.0,16:40:00,709.8,Banglore,Delhi,12276
+2024-09-05,Vistara,UK-801,Business,02:22:00,1.0,14:06:00,754.8,Kolkata,Banglore,53164
+2024-07-13,Go First,G8-719,Economy,17:01:00,1.0,13:10:00,615.0,Delhi,Cochin,5741
+2024-04-18,Vistara,UK-981,Premium Economy,05:16:00,0.0,07:25:00,120.0,Banglore,Delhi,11646
+2024-02-18,Air India,AI-475,Business,06:56:00,1.0,21:44:00,1489.8,Delhi,Cochin,29805
+2024-10-02,Vistara,UK-871,Economy,17:02:00,1.0,22:33:00,694.8,Kolkata,Banglore,9840
+2024-01-09,Vistara,UK-981,Premium Economy,20:06:00,0.0,09:10:00,120.0,Delhi,Cochin,15846
+2024-03-25,Vistara,UK-879,Economy,03:57:00,1.0,14:44:00,334.8,Delhi,Cochin,16833
+2024-06-08,Vistara,UK-835,Economy,17:38:00,1.0,17:38:00,769.8,Delhi,Cochin,22125
+2024-07-07,Vistara,UK-833,Economy,02:57:00,1.0,20:59:00,889.8,Kolkata,Banglore,13904
+2024-11-30,Vistara,UK-737,Business,03:08:00,0.0,03:05:00,465.0,Chennai,Kolkata,76953
+2024-02-05,Indigo,6E-864,Economy,15:41:00,0.0,07:01:00,135.0,Kolkata,Banglore,6374
+2024-08-12,Go First,G8-717,Economy,12:47:00,2.0,01:26:00,235.2,Delhi,Cochin,5962
+2024-04-05,Vistara,UK-981,Business,16:57:00,1.0,12:38:00,120.0,Delhi,Cochin,41528
+2024-06-03,Indigo,6E-2033,Economy,13:00:00,1.0,23:37:00,370.2,Delhi,Cochin,5367
+2024-11-16,Air India,AI-453,Business,09:01:00,1.0,20:30:00,775.2,Kolkata,Banglore,35532
+2024-07-12,Air India,AI-605,Business,06:02:00,1.0,20:43:00,135.0,Delhi,Cochin,22152
+2024-04-28,Go First,G8-323,Economy,20:13:00,1.0,04:51:00,130.2,Delhi,Cochin,5899
+2024-10-29,Vistara,UK-969,Economy,05:56:00,1.0,04:21:00,735.0,Delhi,Cochin,5351
+2024-08-30,Go First,G8-719,Economy,06:28:00,1.0,13:57:00,285.0,Kolkata,Banglore,4805
+2024-09-12,Vistara,UK-829,Economy,10:19:00,1.0,10:20:00,435.0,Delhi,Cochin,9840
+2024-02-07,Air India,AI-813,Economy,15:22:00,1.0,14:18:00,810.0,Banglore,New Delhi,7690
+2024-08-19,Indigo,6E-2033,Economy,21:38:00,1.0,11:09:00,370.2,Banglore,New Delhi,6731
+2024-12-15,Vistara,UK-977,Business,07:46:00,0.0,22:29:00,135.0,Kolkata,Banglore,41528
+2024-02-05,Go First,G8-213,Economy,15:43:00,0.0,02:54:00,379.8,Banglore,Delhi,14272
+2024-06-30,Vistara,UK-941,Economy,22:02:00,0.0,10:02:00,150.0,Banglore,Delhi,5955
+2024-07-05,Air India,AI-817,Business,09:21:00,0.0,01:58:00,1030.2,Kolkata,Banglore,31462
+2024-07-21,Go First,G8-184,Economy,20:04:00,1.0,11:56:00,385.2,Delhi,Cochin,9619
+2024-07-03,Go First,G8-101,Economy,08:40:00,1.0,05:56:00,825.0,Kolkata,Banglore,21124
+2024-07-24,Vistara,UK-705,Economy,10:07:00,1.0,20:07:00,330.0,Kolkata,Banglore,17084
+2024-03-16,Air India,AI-833,Business,11:24:00,1.0,20:20:00,1050.0,Delhi,Cochin,60189
+2024-12-06,Air India,AI-471,Economy,16:09:00,1.0,00:33:00,289.8,Kolkata,Banglore,8580
+2024-11-12,Go First,G8-101,Economy,19:37:00,0.0,14:34:00,825.0,Banglore,New Delhi,6873
+2024-10-22,Go First,G8-2519,Economy,00:17:00,1.0,20:20:00,850.2,Delhi,Cochin,6873
+2024-12-24,Vistara,UK-855,Business,06:53:00,1.0,05:29:00,915.0,Delhi,Cochin,56250
+2024-11-16,Vistara,UK-815,Premium Economy,01:01:00,1.0,04:31:00,750.0,Kolkata,Banglore,10638
+2024-12-07,Air India,AI-814,Economy,18:35:00,0.0,16:07:00,135.0,Mumbai,Hyderabad,7320
+2024-10-14,Indigo,6E-5603,Economy,19:11:00,0.0,09:36:00,289.8,Delhi,Cochin,6932
+2024-03-25,Air India,AI-406,Business,19:19:00,1.0,09:04:00,334.8,Kolkata,Banglore,46825
+2024-01-09,Air India,AI-537,Business,09:38:00,1.0,10:20:00,960.0,Kolkata,Banglore,50969
+2024-10-08,Go First,G8-113,Economy,23:55:00,1.0,13:49:00,979.8,Kolkata,Banglore,6007
+2024-08-14,Vistara,UK-977,Economy,13:29:00,1.0,17:07:00,135.0,Kolkata,Banglore,10155
+2024-03-02,Indigo,6E-2075,Economy,06:47:00,1.0,02:55:00,115.19999999999999,Delhi,Cochin,7319
+2024-03-03,Vistara,UK-899,Business,16:25:00,1.0,19:39:00,505.2,Delhi,Cochin,70356
+2024-08-14,Vistara,UK-871,Premium Economy,12:54:00,1.0,10:00:00,799.8,Kolkata,Banglore,12168
+2024-03-10,Vistara,UK-819,Business,04:05:00,1.0,06:14:00,390.0,Kolkata,Banglore,66621
+2024-09-02,Air India,AI-439,Business,09:33:00,1.0,09:13:00,990.0,Delhi,Cochin,63065
+2024-10-04,Air India,AI-678,Economy,08:15:00,1.0,12:12:00,139.8,Kolkata,Banglore,4792
+2024-10-31,Air India,AI-471,Business,14:36:00,0.0,09:50:00,319.8,Banglore,Delhi,37256
+2024-11-26,Vistara,UK-927,Premium Economy,12:40:00,2.0,01:43:00,124.80000000000001,Kolkata,Banglore,11646
+2024-06-24,Indigo,6E-2112,Economy,20:27:00,1.0,07:49:00,570.0,Delhi,Cochin,5283
+2024-06-21,Vistara,UK-969,Premium Economy,14:54:00,1.0,23:29:00,940.2,Delhi,Cochin,11288
+2024-03-07,Air India,AI-815,Economy,00:31:00,1.0,12:18:00,1020.0,Banglore,New Delhi,7677
+2024-01-14,Vistara,UK-871,Business,19:34:00,0.0,20:29:00,799.8,Banglore,Delhi,41281
+2024-02-20,Vistara,UK-815,Business,18:03:00,0.0,03:35:00,810.0,Banglore,Delhi,68150
+2024-10-05,Vistara,UK-747,Business,12:33:00,1.0,08:53:00,829.8,Kolkata,Banglore,62057
+2024-04-03,Air India,AI-439,Business,07:02:00,0.0,21:56:00,1075.2,Delhi,Cochin,50969
+2024-10-23,Air India,AI-865,Economy,21:18:00,0.0,08:54:00,145.2,Banglore,Delhi,5955
+2024-02-16,Air India,AI-678,Economy,23:37:00,0.0,17:58:00,139.8,Banglore,New Delhi,5955
+2024-08-11,Air India,AI-473,Business,15:27:00,0.0,09:00:00,1035.0,Banglore,Delhi,39859
+2024-06-26,Air India,AI-883,Business,15:27:00,2.0,06:15:00,1579.8,Delhi,Cochin,52268
+2024-06-17,Air India,AI-624,Business,23:16:00,1.0,08:17:00,145.2,Banglore,New Delhi,22152
+2024-03-31,Indigo,6E-2411,Economy,08:43:00,1.0,19:04:00,480.0,Delhi,Cochin,9426
+2024-08-31,Go First,G8-2519,Economy,05:37:00,0.0,12:50:00,850.2,Banglore,Delhi,6007
+2024-03-15,Air Asia,I5-560,Economy,16:24:00,1.0,20:48:00,865.2,Kolkata,Banglore,7816
+2024-04-04,Air India,AI-487,Business,17:09:00,1.0,04:06:00,655.2,Delhi,Cochin,39622
+2024-02-22,Indigo,6E-2033,Economy,13:40:00,0.0,17:31:00,370.2,Chennai,Kolkata,8914
+2024-11-26,Air India,AI-883,Business,03:55:00,0.0,20:17:00,610.2,Chennai,Kolkata,48225
+2024-10-13,Vistara,UK-801,Premium Economy,02:36:00,1.0,16:37:00,670.2,Delhi,Cochin,15863
+2024-03-22,Air India,AI-537,Business,01:12:00,1.0,20:12:00,450.0,Delhi,Cochin,50969
+2024-08-27,Vistara,UK-899,Premium Economy,08:19:00,1.0,18:50:00,1155.0,Kolkata,Banglore,23753
+2024-11-10,Vistara,UK-955,Premium Economy,23:30:00,2.0,00:10:00,130.2,Delhi,Cochin,7838
+2024-05-22,Go First,G8-336,Economy,13:21:00,2.0,09:34:00,130.2,Kolkata,Banglore,7321
+2024-02-26,Indigo,6E-864,Economy,20:14:00,1.0,05:07:00,135.0,Banglore,New Delhi,6374
+2024-06-09,Go First,G8-113,Economy,00:52:00,1.0,17:23:00,889.8,Delhi,Cochin,7247
+2024-07-07,Go First,G8-286,Economy,16:36:00,0.0,23:25:00,760.2,Banglore,Delhi,19286
+2024-11-17,Vistara,UK-941,Business,06:12:00,1.0,03:04:00,150.0,Kolkata,Banglore,41528
+2024-07-20,Vistara,UK-943,Economy,20:44:00,2.0,03:44:00,130.2,Delhi,Cochin,5955
+2024-10-18,Air Asia,I5-773,Economy,08:05:00,2.0,05:58:00,655.2,Delhi,Cochin,6872
+2024-07-18,Vistara,UK-951,Business,01:53:00,1.0,22:29:00,130.2,Delhi,Cochin,56860
+2024-03-17,Vistara,UK-969,Premium Economy,16:24:00,1.0,14:48:00,735.0,Delhi,Cochin,7984
+2024-05-07,Go First,G8-354,Economy,04:28:00,1.0,22:50:00,130.2,Delhi,Cochin,9735
+2024-08-21,Vistara,UK-985,Economy,14:42:00,0.0,15:45:00,135.0,Banglore,Delhi,7635
+2024-06-14,Indigo,6E-5345,Economy,05:40:00,1.0,20:49:00,544.8,Kolkata,Banglore,5688
+2024-11-16,Vistara,UK-637,Premium Economy,23:51:00,1.0,16:42:00,315.0,Kolkata,Banglore,12486
+2024-08-12,Vistara,UK-781,Premium Economy,20:35:00,2.0,07:01:00,1035.0,Delhi,Cochin,15286
+2024-06-22,Vistara,UK-929,Business,08:11:00,1.0,02:33:00,739.8,Delhi,Cochin,22297
+2024-11-22,Vistara,UK-985,Business,07:53:00,0.0,10:43:00,135.0,Delhi,Cochin,56860
+2024-10-06,Vistara,UK-637,Business,21:11:00,0.0,04:30:00,315.0,Kolkata,Banglore,47665
+2024-04-18,Air India,AI-803,Economy,20:41:00,1.0,12:40:00,919.8,Delhi,Cochin,6944
+2024-03-16,Air India,AI-554,Business,09:02:00,2.0,13:55:00,709.8,Delhi,Cochin,50969
+2024-09-06,Vistara,UK-855,Premium Economy,09:58:00,1.0,02:17:00,1204.8,Delhi,Cochin,17302
+2024-11-17,Air India,AI-560,Business,23:14:00,1.0,16:27:00,465.0,Delhi,Cochin,41113
+2024-02-03,Vistara,UK-855,Premium Economy,03:09:00,0.0,17:07:00,334.8,Mumbai,Hyderabad,18366
+2024-09-21,Indigo,6E-2716,Economy,18:50:00,0.0,13:57:00,135.0,Banglore,Delhi,5899
+2024-11-29,Air India,AI-803,Business,12:22:00,0.0,07:29:00,919.8,Kolkata,Banglore,53164
+2024-10-27,Vistara,UK-801,Economy,02:37:00,2.0,16:51:00,670.2,Delhi,Cochin,11310
+2024-09-12,Air Asia,I5-1228,Economy,19:30:00,0.0,00:24:00,690.0,Banglore,Delhi,16933
+2024-01-17,Air India,AI-429,Business,14:10:00,1.0,08:40:00,835.2,Delhi,Cochin,50969
+2024-08-05,Vistara,UK-871,Business,07:44:00,2.0,05:02:00,799.8,Kolkata,Banglore,45156
+2024-06-08,Indigo,6E-864,Economy,21:23:00,2.0,22:36:00,135.0,Delhi,Cochin,6374
+2024-03-18,Vistara,UK-933,Premium Economy,23:12:00,2.0,17:51:00,124.80000000000001,Delhi,Cochin,7278
+2024-03-05,Vistara,UK-787,Premium Economy,23:15:00,0.0,18:42:00,859.8,Kolkata,Banglore,21222
+2024-01-03,Vistara,UK-929,Economy,12:21:00,0.0,07:36:00,1285.2,Banglore,Delhi,19217
+2024-11-14,Air India,AI-504,Economy,12:08:00,0.0,12:03:00,1459.8,Delhi,Cochin,9357
+2024-03-05,Air India,AI-453,Economy,00:09:00,2.0,05:00:00,775.2,Delhi,Cochin,14525
+2024-11-22,Vistara,UK-705,Business,23:46:00,1.0,08:59:00,769.8,Delhi,Cochin,96217
+2024-06-08,Indigo,6E-6022,Economy,10:44:00,0.0,14:21:00,330.0,Banglore,Delhi,23752
+2024-01-01,Akasa Air,QP-1128,Economy,07:31:00,0.0,00:47:00,130.2,Chennai,Kolkata,5590
+2024-09-06,Air India,AI-560,Economy,12:11:00,2.0,23:25:00,465.0,Kolkata,Banglore,9489
+2024-11-24,Go First,G8-717,Economy,05:16:00,1.0,21:11:00,300.0,Banglore,New Delhi,6007
+2024-05-10,Air India,AI-429,Business,17:43:00,1.0,13:08:00,835.2,Kolkata,Banglore,50969
+2024-07-24,Air Asia,I5-1228,Economy,12:06:00,1.0,20:33:00,910.2,Delhi,Cochin,4827
+2024-10-04,Air India,AI-814,Business,00:44:00,1.0,07:21:00,135.0,Delhi,Cochin,22152
+2024-08-20,Air India,AI-425,Business,00:49:00,0.0,19:11:00,1600.2,Banglore,New Delhi,42622
+2024-05-28,Vistara,UK-635,Business,05:17:00,1.0,19:35:00,289.8,Kolkata,Banglore,57062
+2024-04-12,Air Asia,I5-548,Economy,18:29:00,2.0,02:14:00,765.0,Delhi,Cochin,4827
+2024-12-28,Go First,G8-143,Economy,06:57:00,1.0,03:15:00,364.8,Kolkata,Banglore,11528
+2024-07-09,Air India,AI-813,Economy,19:29:00,0.0,21:31:00,919.8,Mumbai,Hyderabad,7415
+2024-07-31,Indigo,6E-6034,Economy,03:54:00,0.0,05:30:00,355.2,Banglore,Delhi,4937
+2024-08-21,Vistara,UK-955,Business,23:41:00,1.0,19:14:00,130.2,Kolkata,Banglore,41528
+2024-01-07,Air India,AI-537,Business,06:54:00,2.0,20:06:00,364.8,Delhi,Cochin,57074
+2024-04-30,Vistara,UK-929,Premium Economy,23:02:00,0.0,10:23:00,739.8,Banglore,Delhi,15635
+2024-07-06,Vistara,UK-819,Business,16:27:00,0.0,07:13:00,550.2,Kolkata,Banglore,72938
+2024-07-15,Go First,G8-119,Economy,00:07:00,0.0,23:41:00,799.8,Banglore,Delhi,8747
+2024-09-11,Air India,AI-453,Business,12:15:00,2.0,17:23:00,775.2,Delhi,Cochin,35532
+2024-01-25,Vistara,UK-959,Premium Economy,16:06:00,1.0,02:30:00,1425.0,Kolkata,Banglore,7082
+2024-07-06,Air India,AI-558,Business,18:33:00,2.0,22:54:00,750.0,Delhi,Cochin,50969
+2024-04-27,Vistara,UK-969,Premium Economy,06:23:00,1.0,22:26:00,940.2,Delhi,Cochin,7984
+2024-07-27,Air India,AI-554,Economy,05:10:00,2.0,20:26:00,625.2,Delhi,Cochin,10449
+2024-03-31,Vistara,UK-993,Economy,14:40:00,1.0,20:16:00,130.2,Delhi,Cochin,5955
+2024-11-14,Vistara,UK-871,Business,13:03:00,0.0,18:21:00,1590.0,Kolkata,Banglore,55696
+2024-01-27,Indigo,6E-2016,Economy,09:51:00,0.0,08:23:00,135.0,Kolkata,Banglore,6374
+2024-04-24,Air India,AI-544,Business,10:18:00,0.0,14:38:00,435.0,Banglore,Delhi,41113
+2024-01-25,Go First,G8-530,Economy,23:03:00,1.0,03:59:00,130.2,Delhi,Cochin,5899
+2024-08-23,Vistara,UK-957,Economy,14:14:00,0.0,14:38:00,135.0,Banglore,Delhi,5955
+2024-04-14,Air Asia,I5-740,Economy,08:29:00,1.0,14:51:00,649.8,Banglore,New Delhi,6872
+2024-07-22,Vistara,UK-627,Business,03:21:00,0.0,19:41:00,1485.0,Banglore,Delhi,37417
+2024-08-05,Air India,AI-542,Business,09:10:00,1.0,20:01:00,310.2,Kolkata,Banglore,45033
+2024-07-04,Air India,AI-863,Economy,20:54:00,0.0,05:44:00,139.8,Chennai,Kolkata,7320
+2024-07-19,Vistara,UK-819,Economy,21:19:00,1.0,17:16:00,364.8,Delhi,Cochin,23312
+2024-06-02,Go First,G8-717,Economy,02:07:00,0.0,15:52:00,235.2,Kolkata,Banglore,7756
+2024-07-08,Vistara,UK-977,Premium Economy,10:17:00,0.0,15:02:00,135.0,Mumbai,Hyderabad,7278
+2024-01-05,Go First,G8-719,Economy,16:46:00,1.0,00:18:00,285.0,Kolkata,Banglore,5931
+2024-02-26,Vistara,UK-929,Economy,19:20:00,0.0,02:18:00,739.8,Banglore,Delhi,11730
+2024-08-03,Vistara,UK-979,Business,18:52:00,0.0,22:14:00,1009.8,Banglore,New Delhi,22297
+2024-03-25,Vistara,UK-833,Business,23:48:00,2.0,11:28:00,409.8,Kolkata,Banglore,63816
+2024-06-03,Vistara,UK-993,Premium Economy,16:58:00,0.0,07:12:00,130.2,Mumbai,Hyderabad,7278
+2024-04-07,Air India,AI-811,Economy,08:09:00,1.0,11:54:00,1305.0,Banglore,New Delhi,9315
+2024-01-29,Vistara,UK-899,Premium Economy,00:37:00,0.0,06:53:00,505.2,Delhi,Cochin,16238
+2024-02-25,Go First,G8-713,Economy,01:37:00,0.0,17:15:00,735.0,Banglore,Delhi,5962
+2024-03-30,Air India,AI-465,Business,12:39:00,2.0,04:18:00,1050.0,Delhi,Cochin,50109
+2024-05-28,Go First,G8-530,Economy,07:32:00,2.0,16:36:00,130.2,Kolkata,Banglore,5899
+2024-01-02,Vistara,UK-811,Premium Economy,04:15:00,1.0,06:14:00,1065.0,Delhi,Cochin,10638
+2024-10-14,Vistara,UK-837,Economy,12:58:00,0.0,01:04:00,925.2,Banglore,Delhi,18450
+2024-01-18,Vistara,UK-833,Economy,11:30:00,1.0,02:15:00,889.8,Kolkata,Banglore,9594
+2024-03-19,Air India,AI-439,Economy,20:34:00,1.0,18:22:00,694.8,Delhi,Cochin,11604
+2024-03-19,Air India,AI-439,Business,20:14:00,1.0,17:57:00,1075.2,Kolkata,Banglore,57074
+2024-10-07,Air India,AI-540,Economy,07:23:00,0.0,00:53:00,799.8,Delhi,Cochin,8958
+2024-04-16,Air India,AI-487,Business,02:50:00,1.0,20:23:00,655.2,Delhi,Cochin,39622
+2024-12-06,Vistara,UK-637,Premium Economy,01:35:00,1.0,06:41:00,315.0,Banglore,New Delhi,40094
+2024-04-15,Vistara,UK-807,Economy,18:12:00,0.0,07:36:00,700.2,Delhi,Cochin,10208
+2024-11-26,Vistara,UK-635,Business,11:28:00,1.0,06:43:00,1624.8,Delhi,Cochin,37417
+2024-03-04,Vistara,UK-855,Economy,20:56:00,1.0,02:17:00,334.8,Delhi,Cochin,11205
+2024-09-03,Air India,AI-558,Business,02:19:00,0.0,10:12:00,750.0,Kolkata,Banglore,50969
+2024-01-19,Vistara,UK-819,Premium Economy,22:15:00,0.0,16:01:00,390.0,Banglore,New Delhi,11758
+2024-06-20,Air India,AI-473,Economy,00:25:00,1.0,04:41:00,1035.0,Delhi,Cochin,11052
+2024-03-02,Indigo,6E-2033,Economy,17:55:00,0.0,06:41:00,370.2,Banglore,Delhi,5987
+2024-03-04,Vistara,UK-955,Economy,15:36:00,2.0,07:07:00,130.2,Delhi,Cochin,6795
+2024-01-27,Vistara,UK-737,Economy,23:20:00,2.0,22:40:00,465.0,Delhi,Cochin,21705
+2024-10-16,Vistara,UK-705,Economy,20:21:00,0.0,06:15:00,769.8,Banglore,Delhi,14933
+2024-08-25,Air Asia,I5-740,Economy,15:00:00,0.0,03:59:00,769.8,Mumbai,Hyderabad,4827
+2024-06-15,Spicejet,SG-8701,Economy,10:05:00,2.0,17:10:00,124.80000000000001,Delhi,Cochin,5794
+2024-11-23,Go First,G8-719,Economy,20:22:00,2.0,01:55:00,615.0,Banglore,New Delhi,8276
+2024-08-17,Vistara,UK-637,Business,03:37:00,0.0,06:59:00,315.0,Banglore,Delhi,36577
+2024-04-19,Air India,AI-887,Business,09:49:00,2.0,12:57:00,135.0,Delhi,Cochin,22152
+2024-01-25,Indigo,6E-6814,Economy,07:42:00,0.0,13:59:00,145.2,Banglore,New Delhi,6374
+2024-02-02,Air India,AI-544,Business,16:05:00,0.0,20:16:00,435.0,Banglore,Delhi,41113
+2024-03-24,Vistara,UK-706,Business,14:17:00,1.0,09:46:00,495.0,Delhi,Cochin,40945
+2024-08-19,Vistara,UK-985,Economy,01:46:00,1.0,07:16:00,135.0,Delhi,Cochin,13830
+2024-04-30,Air India,AI-815,Business,00:28:00,1.0,05:27:00,355.2,Delhi,Cochin,76169
+2024-06-12,Vistara,UK-981,Premium Economy,01:40:00,0.0,06:56:00,120.0,Mumbai,Hyderabad,7278
+2024-01-04,Air India,AI-504,Economy,13:38:00,1.0,17:02:00,685.2,Kolkata,Banglore,9882
+2024-10-03,Vistara,UK-941,Premium Economy,20:39:00,1.0,19:22:00,150.0,Delhi,Cochin,7278
+2024-04-19,Air Asia,I5-1228,Economy,04:23:00,1.0,02:04:00,570.0,Kolkata,Banglore,5291
+2024-03-02,Air India,AI-560,Economy,18:41:00,1.0,17:06:00,1015.2,Delhi,Cochin,7704
+2024-06-12,Vistara,UK-707,Business,13:48:00,0.0,12:05:00,364.8,Kolkata,Banglore,87257
+2024-12-31,Indigo,6E-607,Economy,05:56:00,0.0,07:54:00,595.2,Banglore,Delhi,8899
+2024-01-02,Vistara,UK-957,Premium Economy,07:17:00,0.0,10:18:00,135.0,Banglore,Delhi,8622
+2024-04-22,Go First,G8-286,Economy,00:58:00,0.0,21:58:00,760.2,Mumbai,Hyderabad,24925
+2024-01-31,Vistara,UK-839,Business,01:02:00,0.0,00:31:00,529.8,Mumbai,Hyderabad,51384
+2024-06-16,Go First,G8-330,Economy,07:35:00,2.0,09:35:00,135.0,Delhi,Cochin,5801
+2024-05-01,Vistara,UK-829,Economy,12:28:00,0.0,06:24:00,949.8,Banglore,Delhi,10890
+2024-01-19,Vistara,UK-737,Economy,22:22:00,1.0,08:29:00,465.0,Delhi,Cochin,16403
+2024-02-11,Vistara,UK-815,Business,20:19:00,0.0,08:24:00,724.8,Kolkata,Banglore,65501
+2024-12-25,Vistara,UK-929,Premium Economy,00:21:00,0.0,23:03:00,739.8,Delhi,Cochin,12312
+2024-06-05,Go First,G8-719,Economy,16:30:00,1.0,16:45:00,315.0,Banglore,New Delhi,4950
+2024-08-03,Indigo,AI-429,Economy,05:17:00,0.0,12:55:00,390.0,Banglore,Delhi,10408
+2024-01-18,Vistara,UK-957,Business,15:16:00,1.0,19:33:00,135.0,Delhi,Cochin,41528
+2024-08-31,Vistara,UK-785,Business,15:38:00,0.0,05:30:00,1690.2,Chennai,Kolkata,39870
+2024-12-27,Vistara,UK-941,Premium Economy,07:59:00,1.0,13:36:00,150.0,Delhi,Cochin,7838
+2024-11-08,Vistara,UK-899,Business,00:19:00,0.0,22:20:00,505.2,Chennai,Kolkata,70356
+2024-11-09,Air India,AI-485,Economy,13:54:00,0.0,13:27:00,655.2,Kolkata,Banglore,12360
+2024-11-28,Indigo,6E-607,Economy,21:57:00,1.0,18:33:00,595.2,Kolkata,Banglore,9199
+2024-01-04,Air India,AI-887,Economy,18:03:00,1.0,19:11:00,135.0,Delhi,Cochin,4792
+2024-03-18,Vistara,UK-819,Economy,13:50:00,2.0,13:30:00,364.8,Kolkata,Banglore,8291
+2024-10-31,Vistara,UK-781,Premium Economy,15:37:00,1.0,05:49:00,1035.0,Delhi,Cochin,15286
+2024-06-23,Air India,AI-429,Business,08:09:00,1.0,01:30:00,750.0,Delhi,Cochin,57074
+2024-05-24,Air India,AI-407,Economy,20:34:00,0.0,12:38:00,1635.0,Banglore,Delhi,11446
+2024-08-03,Spicejet,SG-8169,Economy,04:08:00,0.0,21:56:00,124.80000000000001,Banglore,New Delhi,5794
+2024-11-07,Vistara,UK-785,Premium Economy,18:20:00,1.0,09:37:00,1690.2,Kolkata,Banglore,15286
+2024-01-01,Vistara,UK-829,Economy,02:08:00,1.0,09:25:00,435.0,Delhi,Cochin,9840
+2024-04-29,Vistara,UK-859,Premium Economy,02:19:00,1.0,02:40:00,1305.0,Kolkata,Banglore,21200
+2024-02-02,Vistara,UK-929,Premium Economy,19:01:00,1.0,20:48:00,535.2,Kolkata,Banglore,10168
+2024-12-07,Vistara,UK-929,Business,19:26:00,0.0,21:57:00,535.2,Mumbai,Hyderabad,30249
+2024-02-05,Vistara,UK-879,Business,15:36:00,1.0,00:40:00,880.2,Kolkata,Banglore,66481
+2024-05-12,Vistara,UK-637,Premium Economy,23:56:00,1.0,11:47:00,315.0,Kolkata,Banglore,14110
+2024-07-28,Air India,AI-877,Business,08:28:00,1.0,07:54:00,1489.8,Delhi,Cochin,39859
+2024-07-06,Go First,G8-719,Economy,18:48:00,1.0,13:24:00,255.0,Delhi,Cochin,15596
+2024-05-15,Vistara,UK-801,Premium Economy,07:38:00,1.0,20:41:00,694.8,Delhi,Cochin,14558
+2024-04-25,Go First,G8-2501,Economy,05:55:00,1.0,07:53:00,130.2,Delhi,Cochin,5801
+2024-03-10,Air India,AI-817,Economy,09:15:00,1.0,23:59:00,1030.2,Delhi,Cochin,5956
+2024-05-23,Vistara,UK-747,Economy,20:45:00,2.0,08:24:00,390.0,Kolkata,Banglore,15510
+2024-06-04,Air India,AI-605,Economy,11:56:00,1.0,12:35:00,135.0,Delhi,Cochin,5955
+2024-03-15,Air Asia,I5-798,Economy,10:02:00,0.0,08:21:00,915.0,Kolkata,Banglore,11575
+2024-01-25,Go First,G8-323,Economy,03:48:00,0.0,06:16:00,130.2,Kolkata,Banglore,5899
+2024-01-25,Air Asia,I5-745,Economy,06:09:00,0.0,18:09:00,885.0,Delhi,Cochin,10965
+2024-01-26,Vistara,UK-817,Economy,11:19:00,1.0,22:20:00,435.0,Kolkata,Banglore,8108
+2024-05-18,Vistara,UK-801,Business,21:25:00,1.0,18:55:00,694.8,Delhi,Cochin,53164
+2024-12-22,Vistara,UK-929,Premium Economy,15:11:00,1.0,04:52:00,535.2,Delhi,Cochin,22432
+2024-06-03,Air Asia,I5-1228,Economy,08:40:00,0.0,05:44:00,690.0,Banglore,Delhi,5291
+2024-05-16,Air India,AI-537,Business,18:51:00,1.0,13:53:00,364.8,Delhi,Cochin,63065
+2024-10-16,Vistara,UK-815,Premium Economy,05:41:00,0.0,10:38:00,910.2,Banglore,Delhi,10638
+2024-03-21,Vistara,UK-705,Business,17:32:00,1.0,13:39:00,330.0,Banglore,New Delhi,59033
+2024-06-24,Vistara,UK-985,Premium Economy,12:42:00,0.0,20:52:00,135.0,Chennai,Kolkata,8622
+2024-12-03,Indigo,6E-7403,Economy,22:09:00,0.0,00:35:00,390.0,Kolkata,Banglore,9472
+2024-11-27,Vistara,UK-811,Premium Economy,14:59:00,0.0,12:11:00,1605.0,Banglore,New Delhi,10638
+2024-07-29,Vistara,UK-855,Business,07:23:00,1.0,10:38:00,334.8,Delhi,Cochin,77778
+2024-02-23,Vistara,UK-787,Business,05:28:00,0.0,20:22:00,1485.0,Delhi,Cochin,39870
+2024-05-15,Vistara,UK-829,Premium Economy,16:07:00,1.0,23:59:00,949.8,Delhi,Cochin,13382
+2024-05-14,Air India,AI-624,Economy,23:38:00,0.0,18:06:00,145.2,Chennai,Kolkata,5955
+2024-02-08,Vistara,UK-927,Premium Economy,16:18:00,1.0,07:58:00,124.80000000000001,Banglore,New Delhi,22286
+2024-05-08,Air India,AI-401,Economy,16:21:00,1.0,06:43:00,760.2,Banglore,New Delhi,17295
+2024-04-01,Air India,AI-839,Economy,06:40:00,0.0,23:21:00,745.2,Chennai,Kolkata,9489
+2024-01-18,Indigo,6E-2033,Economy,13:36:00,2.0,00:15:00,495.0,Delhi,Cochin,8599
+2024-10-07,Go First,G8-237,Economy,19:35:00,1.0,16:03:00,585.0,Banglore,New Delhi,6007
+2024-08-13,Vistara,UK-819,Economy,14:43:00,1.0,20:53:00,450.0,Delhi,Cochin,22367
+2024-08-22,Vistara,UK-819,Economy,20:22:00,2.0,22:55:00,550.2,Delhi,Cochin,9788
+2024-03-07,Air Asia,I5-740,Economy,12:35:00,1.0,16:28:00,769.8,Delhi,Cochin,6872
+2024-06-06,Air India,AI-473,Economy,15:27:00,0.0,17:30:00,1035.0,Banglore,Delhi,9999
+2024-03-21,Vistara,UK-957,Premium Economy,13:35:00,1.0,05:08:00,135.0,Delhi,Cochin,8622
+2024-10-31,Air India,AI-811,Economy,00:11:00,0.0,19:01:00,1305.0,Kolkata,Banglore,8759
+2024-09-09,Indigo,6E-2519,Economy,12:59:00,1.0,15:57:00,139.8,Delhi,Cochin,6374
+2024-07-26,Indigo,6E-6201,Economy,08:25:00,1.0,06:45:00,295.2,Kolkata,Banglore,20065
+2024-08-07,Indigo,UK-673,Economy,19:00:00,1.0,03:54:00,540.0,Delhi,Cochin,13308
+2024-11-14,Vistara,UK-957,Premium Economy,10:22:00,2.0,16:49:00,135.0,Delhi,Cochin,7278
+2024-12-20,Vistara,UK-637,Business,09:53:00,0.0,07:09:00,315.0,Banglore,Delhi,54044
+2024-07-05,Indigo,6E-5318,Economy,21:27:00,0.0,18:28:00,135.0,Kolkata,Banglore,5794
+2024-01-20,Vistara,UK-981,Economy,23:43:00,1.0,05:50:00,120.0,Delhi,Cochin,6375
+2024-07-22,Go First,G8-119,Economy,22:18:00,1.0,13:50:00,874.8,Kolkata,Banglore,6007
+2024-04-15,Go First,G8-719,Economy,04:16:00,0.0,06:31:00,285.0,Delhi,Cochin,4592
+2024-12-14,Vistara,UK-951,Premium Economy,03:49:00,0.0,20:18:00,130.2,Kolkata,Banglore,7278
+2024-06-28,Vistara,UK-959,Premium Economy,06:29:00,1.0,21:31:00,1425.0,Delhi,Cochin,15992
+2024-02-06,Indigo,6E-2112,Economy,21:20:00,0.0,02:54:00,150.0,Mumbai,Hyderabad,5794
+2024-09-08,Air India,AI-504,Economy,20:01:00,1.0,11:00:00,1459.8,Delhi,Cochin,9137
+2024-03-17,Air India,AI-451,Business,08:50:00,0.0,03:27:00,1545.0,Banglore,Delhi,50822
+2024-05-13,Go First,G8-717,Economy,18:22:00,2.0,05:03:00,235.2,Kolkata,Banglore,19945
+2024-08-31,Vistara,UK-829,Economy,21:47:00,0.0,00:27:00,949.8,Mumbai,Hyderabad,9594
+2024-06-06,Vistara,UK-959,Economy,11:36:00,2.0,05:34:00,735.0,Kolkata,Banglore,19605
+2024-07-12,Indigo,6E-6187,Economy,20:37:00,0.0,07:09:00,285.0,Kolkata,Banglore,8243
+2024-12-10,Vistara,UK-819,Economy,10:21:00,1.0,17:28:00,390.0,Kolkata,Banglore,12150
+2024-09-12,Vistara,UK-859,Premium Economy,20:14:00,2.0,03:31:00,1305.0,Delhi,Cochin,12822
+2024-05-18,Vistara,UK-705,Economy,21:35:00,1.0,01:34:00,330.0,Delhi,Cochin,14933
+2024-08-08,Vistara,UK-635,Business,02:30:00,0.0,09:55:00,289.8,Banglore,New Delhi,37417
+2024-07-21,Vistara,UK-801,Business,18:55:00,1.0,02:57:00,694.8,Delhi,Cochin,69673
+2024-02-25,Vistara,UK-817,Business,16:26:00,0.0,12:03:00,334.8,Kolkata,Banglore,66621
+2024-04-28,Vistara,UK-839,Economy,20:12:00,2.0,18:51:00,529.8,Delhi,Cochin,9594
+2024-11-25,Air India,AI-624,Economy,02:15:00,1.0,13:31:00,145.2,Delhi,Cochin,5955
+2024-05-07,Air India,AI-425,Business,02:02:00,1.0,05:49:00,1620.0,Delhi,Cochin,42622
+2024-07-04,Vistara,UK-969,Premium Economy,13:46:00,1.0,19:27:00,940.2,Delhi,Cochin,15992
+2024-03-25,Vistara,UK-957,Premium Economy,09:01:00,1.0,18:42:00,135.0,Delhi,Cochin,7278
+2024-08-23,Go First,G8-184,Economy,14:38:00,0.0,14:52:00,385.2,Mumbai,Hyderabad,6007
+2024-02-09,Vistara,UK-747,Economy,14:12:00,1.0,00:33:00,390.0,Kolkata,Banglore,17084
+2024-09-11,Air India,AI-624,Economy,12:08:00,1.0,19:18:00,145.2,Kolkata,Banglore,5955
+2024-10-21,Air India,AI-805,Economy,02:49:00,0.0,07:11:00,130.2,Chennai,Kolkata,5955
+2024-07-10,Air India,AI-863,Business,14:33:00,2.0,08:15:00,139.8,Kolkata,Banglore,22152
+2024-10-13,Vistara,UK-829,Business,17:55:00,0.0,04:18:00,1600.2,Banglore,Delhi,43521
+2024-06-10,Air India,AI-473,Economy,03:25:00,0.0,23:51:00,1035.0,Banglore,Delhi,9999
+2024-01-22,Go First,G8-213,Economy,05:03:00,0.0,12:50:00,379.8,Kolkata,Banglore,18057
+2024-10-03,Vistara,UK-959,Premium Economy,06:13:00,1.0,03:16:00,1425.0,Delhi,Cochin,7984
+2024-04-30,Air Asia,I5-773,Economy,12:11:00,1.0,11:10:00,655.2,Kolkata,Banglore,6375
+2024-04-06,Air Asia,I5-1228,Economy,04:04:00,1.0,21:58:00,690.0,Kolkata,Banglore,5291
+2024-12-26,Air India,AI-485,Business,17:44:00,0.0,00:50:00,655.2,Banglore,Delhi,39622
+2024-05-16,Vistara,UK-811,Economy,10:55:00,1.0,02:04:00,450.0,Delhi,Cochin,7845
+2024-12-27,Air India,AI-665,Economy,09:44:00,2.0,08:23:00,139.8,Delhi,Cochin,5955
+2024-08-15,Vistara,UK-785,Business,19:04:00,2.0,08:43:00,1065.0,Delhi,Cochin,39870
+2024-10-11,Indigo,6E-2016,Economy,21:53:00,2.0,04:41:00,135.0,Delhi,Cochin,7319
+2024-05-21,Air India,AI-537,Business,22:45:00,0.0,13:26:00,450.0,Banglore,New Delhi,50969
+2024-05-22,Vistara,UK-929,Business,05:11:00,0.0,01:54:00,535.2,Banglore,Delhi,22297
+2024-04-08,Vistara,UK-933,Premium Economy,13:20:00,2.0,15:59:00,124.80000000000001,Delhi,Cochin,7278
+2024-11-19,Vistara,UK-855,Economy,07:09:00,1.0,07:57:00,334.8,Delhi,Cochin,11940
+2024-12-11,Air India,AI-411,Economy,16:53:00,1.0,06:51:00,559.8,Kolkata,Banglore,6764
+2024-02-25,Indigo,6E-6492,Economy,08:03:00,1.0,09:44:00,319.8,Delhi,Cochin,7288
+2024-08-06,Air Asia,I5-548,Economy,03:58:00,2.0,05:06:00,765.0,Delhi,Cochin,6872
+2024-08-20,Air India,AI-883,Economy,14:20:00,1.0,13:02:00,610.2,Kolkata,Banglore,10714
+2024-03-31,Vistara,UK-817,Business,11:53:00,1.0,08:14:00,334.8,Kolkata,Banglore,60713
+2024-06-30,Vistara,UK-871,Business,22:47:00,2.0,00:59:00,799.8,Delhi,Cochin,55696
+2024-11-23,Vistara,UK-829,Premium Economy,04:31:00,0.0,09:23:00,1600.2,Kolkata,Banglore,12262
+2024-12-30,Air Asia,I5-1228,Economy,06:58:00,1.0,14:46:00,910.2,Delhi,Cochin,6872
+2024-04-07,Go First,G8-143,Economy,05:44:00,1.0,23:04:00,364.8,Delhi,Cochin,6873
+2024-09-10,Vistara,UK-933,Premium Economy,20:01:00,1.0,23:09:00,124.80000000000001,Delhi,Cochin,11646
+2024-01-27,Vistara,UK-959,Business,18:50:00,1.0,15:17:00,735.0,Delhi,Cochin,30249
+2024-01-17,Vistara,UK-899,Premium Economy,04:43:00,1.0,08:35:00,1050.0,Delhi,Cochin,15118
+2024-08-27,Air Asia,I5-711,Economy,00:51:00,0.0,15:11:00,915.0,Mumbai,Hyderabad,11818
+2024-11-15,Indigo,6E-6187,Economy,16:49:00,2.0,08:01:00,285.0,Delhi,Cochin,9608
+2024-12-21,Air India,AI-502,Business,17:58:00,2.0,06:12:00,480.0,Delhi,Cochin,53164
+2024-11-16,Indigo,6E-6822,Economy,12:23:00,0.0,23:15:00,520.2,Banglore,Delhi,8002
+2024-10-05,Vistara,UK-941,Premium Economy,22:55:00,0.0,17:30:00,150.0,Banglore,New Delhi,7278
+2024-12-05,Vistara,UK-879,Premium Economy,04:36:00,1.0,20:31:00,1260.0,Kolkata,Banglore,20080
+2024-11-15,Vistara,UK-819,Premium Economy,14:28:00,2.0,01:53:00,364.8,Delhi,Cochin,11758
+2024-09-07,Air India,AI-554,Business,07:48:00,0.0,00:43:00,709.8,Banglore,Delhi,50969
+2024-01-15,Vistara,UK-781,Business,19:59:00,1.0,21:11:00,409.8,Delhi,Cochin,39870
+2024-09-02,Vistara,UK-927,Business,00:13:00,1.0,15:55:00,124.80000000000001,Kolkata,Banglore,49020
+2024-06-26,Vistara,UK-879,Premium Economy,04:03:00,1.0,11:18:00,334.8,Delhi,Cochin,16238
+2024-03-21,Indigo,6E-5318,Economy,00:03:00,1.0,07:29:00,135.0,Delhi,Cochin,7319
+2024-12-09,Vistara,UK-706,Premium Economy,13:14:00,1.0,01:54:00,495.0,Kolkata,Banglore,17582
+2024-03-20,Vistara,UK-891,Premium Economy,00:53:00,0.0,15:06:00,454.8,Kolkata,Banglore,34214
+2024-07-26,Vistara,UK-833,Premium Economy,15:18:00,0.0,05:37:00,1684.8,Banglore,Delhi,17448
+2024-06-26,Air India,AI-542,Economy,00:02:00,0.0,09:54:00,1450.2,Kolkata,Banglore,8895
+2024-09-12,Go First,G8-286,Economy,23:09:00,1.0,01:04:00,525.0,Delhi,Cochin,8740
+2024-05-21,Vistara,UK-879,Premium Economy,15:37:00,1.0,19:14:00,334.8,Delhi,Cochin,19632
+2024-03-23,Vistara,UK-959,Business,15:40:00,1.0,16:25:00,1425.0,Kolkata,Banglore,22297
+2024-06-30,Vistara,UK-871,Business,20:26:00,1.0,01:56:00,694.8,Kolkata,Banglore,55696
+2024-04-27,Vistara,UK-781,Economy,22:12:00,0.0,17:10:00,1035.0,Mumbai,Hyderabad,15668
+2024-08-05,Air India,AI-815,Business,22:19:00,1.0,14:22:00,1020.0,Banglore,New Delhi,53164
+2024-06-02,Spicejet,SG-2976,Economy,07:55:00,2.0,11:04:00,859.8,Delhi,Cochin,4364
+2024-11-09,Vistara,UK-706,Business,19:58:00,2.0,11:43:00,495.0,Delhi,Cochin,63289
+2024-03-09,Indigo,6E-6814,Economy,00:51:00,2.0,01:39:00,145.2,Delhi,Cochin,7319
+2024-01-20,Vistara,UK-801,Business,23:58:00,0.0,22:21:00,670.2,Kolkata,Banglore,60713
+2024-11-13,Vistara,UK-811,Economy,11:51:00,0.0,13:24:00,349.8,Banglore,Delhi,7845
+2024-03-31,Vistara,UK-627,Premium Economy,18:04:00,2.0,07:04:00,1590.0,Delhi,Cochin,10918
+2024-05-12,Go First,G8-113,Economy,05:20:00,1.0,12:23:00,990.0,Delhi,Cochin,6007
+2024-08-05,Vistara,UK-829,Premium Economy,18:13:00,1.0,00:03:00,949.8,Delhi,Cochin,13288
+2024-05-12,Vistara,UK-985,Premium Economy,15:29:00,1.0,06:45:00,135.0,Delhi,Cochin,7838
+2024-03-12,Vistara,UK-985,Premium Economy,17:57:00,1.0,12:49:00,135.0,Kolkata,Banglore,7278
+2024-04-19,Indigo,6E-7403,Economy,02:29:00,0.0,06:57:00,390.0,Kolkata,Banglore,7582
+2024-01-26,Vistara,UK-985,Economy,13:40:00,1.0,08:52:00,135.0,Kolkata,Banglore,5955
+2024-08-21,Indigo,6E-6492,Economy,05:16:00,1.0,02:07:00,540.0,Delhi,Cochin,14500
+2024-03-26,Vistara,UK-833,Premium Economy,15:34:00,1.0,11:53:00,889.8,Delhi,Cochin,20136
+2024-08-30,Air India,AI-885,Economy,16:13:00,0.0,15:15:00,355.2,Banglore,Delhi,14775
+2024-11-15,Vistara,UK-993,Premium Economy,04:03:00,0.0,15:50:00,130.2,Kolkata,Banglore,22286
+2024-08-06,Air India,AI-544,Business,19:59:00,2.0,15:22:00,1324.8,Delhi,Cochin,41113
+2024-08-21,Air India,AI-560,Economy,20:10:00,0.0,05:22:00,1015.2,Chennai,Kolkata,7704
+2024-09-30,Vistara,UK-855,Economy,09:53:00,1.0,09:04:00,334.8,Delhi,Cochin,11132
+2024-01-06,Air Asia,I5-743,Economy,19:06:00,1.0,02:55:00,490.2,Delhi,Cochin,5431
+2024-05-15,Vistara,UK-975,Premium Economy,00:38:00,2.0,09:02:00,135.0,Delhi,Cochin,7278
+2024-07-29,Vistara,UK-811,Premium Economy,17:13:00,1.0,22:47:00,880.2,Delhi,Cochin,10638
+2024-02-07,Air India,AI-433,Business,22:14:00,0.0,07:13:00,1620.0,Banglore,Delhi,29805
+2024-01-07,Vistara,UK-981,Business,11:29:00,1.0,00:15:00,120.0,Delhi,Cochin,41528
+2024-03-23,Vistara,UK-929,Economy,00:37:00,1.0,19:04:00,1285.2,Kolkata,Banglore,17505
+2024-07-13,Air India,AI-540,Economy,00:10:00,0.0,13:35:00,1534.8,Banglore,Delhi,10281
+2024-01-14,Air India,AI-429,Economy,00:10:00,1.0,00:43:00,750.0,Delhi,Cochin,11646
+2024-05-14,Indigo,6E-607,Economy,23:33:00,1.0,08:06:00,595.2,Delhi,Cochin,11699
+2024-08-01,Vistara,UK-979,Premium Economy,22:34:00,0.0,12:54:00,1215.0,Chennai,Kolkata,13376
+2024-10-08,Vistara,UK-637,Premium Economy,02:27:00,1.0,02:00:00,315.0,Kolkata,Banglore,15230
+2024-12-17,Vistara,UK-871,Business,03:32:00,1.0,15:32:00,694.8,Kolkata,Banglore,55696
+2024-02-07,Vistara,UK-977,Business,02:45:00,1.0,14:11:00,135.0,Delhi,Cochin,30104
+2024-09-02,Go First,G8-330,Economy,07:16:00,2.0,19:41:00,135.0,Kolkata,Banglore,5801
+2024-09-11,Go First,G8-143,Economy,18:08:00,1.0,12:30:00,364.8,Delhi,Cochin,6007
+2024-03-01,Air India,AI-481,Business,08:26:00,1.0,02:49:00,814.8,Delhi,Cochin,31462
+2024-01-15,Vistara,UK-811,Economy,12:52:00,1.0,09:38:00,450.0,Banglore,New Delhi,9525
+2024-07-06,Indigo,6E-6475,Economy,22:46:00,1.0,11:57:00,589.8,Delhi,Cochin,14303
+2024-09-13,Vistara,UK-811,Economy,09:12:00,0.0,06:38:00,880.2,Banglore,Delhi,7189
+2024-11-07,Air India,AI-475,Business,06:09:00,1.0,11:40:00,1489.8,Kolkata,Banglore,29805
+2024-09-04,Go First,G8-143,Economy,07:02:00,0.0,17:53:00,364.8,Banglore,Delhi,6007
+2024-09-07,Vistara,UK-975,Premium Economy,14:02:00,2.0,07:02:00,135.0,Delhi,Cochin,7278
+2024-01-23,Air India,AI-803,Business,09:39:00,2.0,10:19:00,919.8,Mumbai,Hyderabad,53164
+2024-02-16,Indigo,6E-5318,Economy,07:07:00,2.0,07:22:00,135.0,Delhi,Cochin,5794
+2024-08-09,Air Asia,I5-1228,Economy,23:46:00,0.0,17:53:00,910.2,Kolkata,Banglore,6872
+2024-10-14,Vistara,UK-829,Economy,19:08:00,0.0,10:40:00,435.0,Banglore,New Delhi,9840
+2024-02-27,Air India,AI-439,Economy,21:19:00,2.0,14:49:00,694.8,Kolkata,Banglore,12549
+2024-06-13,Air India,AI-544,Business,02:17:00,0.0,00:20:00,435.0,Banglore,Delhi,41113
+2024-11-06,Vistara,UK-635,Premium Economy,21:31:00,1.0,17:44:00,289.8,Delhi,Cochin,10078
+2024-12-12,Indigo,6E-2016,Economy,10:05:00,1.0,17:53:00,135.0,Kolkata,Banglore,6374
+2024-10-21,Air India,AI-537,Economy,13:11:00,1.0,03:15:00,364.8,Kolkata,Banglore,8958
+2024-12-09,Vistara,UK-813,Business,03:09:00,0.0,14:42:00,349.8,Banglore,New Delhi,53164
+2024-02-08,Air India,AI-803,Economy,15:02:00,1.0,21:36:00,919.8,Delhi,Cochin,7677
+2024-08-11,Vistara,UK-941,Business,03:07:00,2.0,18:07:00,150.0,Delhi,Cochin,56860
+2024-12-31,Go First,G8-354,Economy,05:38:00,2.0,03:43:00,130.2,Delhi,Cochin,5801
+2024-11-20,Air India,AI-636,Business,09:55:00,1.0,22:30:00,225.0,Delhi,Cochin,22152
+2024-11-10,Go First,G8-213,Economy,16:33:00,1.0,22:27:00,505.2,Delhi,Cochin,19946
+2024-02-19,Vistara,UK-899,Premium Economy,11:02:00,0.0,01:13:00,505.2,Banglore,Delhi,15842
+2024-04-22,Vistara,UK-993,Economy,17:25:00,1.0,10:31:00,130.2,Delhi,Cochin,8580
+2024-04-18,Vistara,UK-899,Economy,00:27:00,2.0,04:41:00,505.2,Kolkata,Banglore,10103
+2024-07-13,Indigo,6E-2204,Economy,03:35:00,1.0,22:42:00,415.2,Banglore,New Delhi,9225
+2024-01-13,Indigo,6E-607,Economy,14:15:00,1.0,14:52:00,595.2,Delhi,Cochin,9684
+2024-02-23,Air India,AI-451,Business,06:34:00,1.0,00:15:00,1545.0,Banglore,New Delhi,39622
+2024-06-22,Air India,AI-803,Economy,18:03:00,0.0,08:37:00,919.8,Banglore,Delhi,9042
+2024-11-19,Air India,AI-805,First,17:15:00,0.0,23:56:00,130.2,Banglore,New Delhi,51443
+2024-01-18,Vistara,UK-637,Premium Economy,03:47:00,0.0,22:20:00,315.0,Banglore,Delhi,35838
+2024-05-17,Vistara,UK-787,Business,21:28:00,1.0,17:31:00,1485.0,Delhi,Cochin,39870
+2024-03-25,Indigo,6E-2138,Economy,19:01:00,0.0,14:27:00,139.8,Chennai,Kolkata,7319
+2024-07-09,Vistara,UK-855,Economy,10:24:00,1.0,02:25:00,915.0,Delhi,Cochin,17820
+2024-03-03,Go First,G8-717,Economy,22:53:00,2.0,13:32:00,235.2,Delhi,Cochin,6007
+2024-11-05,Vistara,UK-833,Economy,08:28:00,1.0,21:42:00,889.8,Delhi,Cochin,11033
+2024-06-11,Indigo,6E-2016,Economy,02:18:00,1.0,00:02:00,135.0,Kolkata,Banglore,7319
+2024-04-08,Air India,AI-863,Economy,22:54:00,0.0,01:56:00,139.8,Chennai,Kolkata,7320
+2024-08-08,Air India,AI-815,Business,18:05:00,0.0,04:07:00,355.2,Banglore,Delhi,53164
+2024-12-10,Air India,AI-537,Economy,20:29:00,0.0,15:47:00,364.8,Kolkata,Banglore,24120
+2024-02-18,Vistara,UK-801,Premium Economy,03:09:00,0.0,22:02:00,855.0,Banglore,Delhi,10638
+2024-10-30,Vistara,UK-635,Premium Economy,22:12:00,2.0,06:03:00,1624.8,Kolkata,Banglore,13998
+2024-04-17,Indigo,6E-2204,Economy,03:06:00,1.0,19:16:00,415.2,Kolkata,Banglore,11152
+2024-02-05,Vistara,UK-899,Premium Economy,12:24:00,0.0,20:36:00,1429.8,Banglore,Delhi,21200
+2024-04-29,Air Asia,I5-743,Economy,00:27:00,1.0,10:26:00,490.2,Kolkata,Banglore,17266
+2024-05-26,Vistara,UK-859,Economy,06:16:00,2.0,23:17:00,760.2,Kolkata,Banglore,11205
+2024-05-26,Air India,AI-887,Economy,10:00:00,2.0,12:04:00,135.0,Delhi,Cochin,11730
+2024-11-25,Vistara,UK-801,Business,16:30:00,0.0,00:06:00,670.2,Banglore,Delhi,65501
+2024-11-08,Indigo,6E-2033,Economy,13:44:00,0.0,11:01:00,370.2,Banglore,Delhi,4967
+2024-02-05,Air India,AI-475,Business,18:09:00,1.0,17:27:00,1489.8,Delhi,Cochin,29805
+2024-04-11,Vistara,UK-899,Business,13:54:00,0.0,10:24:00,505.2,Mumbai,Hyderabad,55696
+2024-10-02,Vistara,UK-975,Premium Economy,17:25:00,1.0,15:00:00,135.0,Delhi,Cochin,8622
+2024-01-29,Air India,AI-560,Economy,12:18:00,2.0,22:36:00,1605.0,Delhi,Cochin,9489
+2024-11-24,Vistara,UK-737,Business,12:55:00,1.0,19:23:00,465.0,Delhi,Cochin,59033
+2024-10-09,Vistara,UK-933,Economy,13:35:00,1.0,15:06:00,124.80000000000001,Banglore,New Delhi,5955
+2024-08-24,Vistara,UK-933,Economy,00:41:00,1.0,18:29:00,124.80000000000001,Kolkata,Banglore,5955
+2024-04-01,Go First,G8-336,Economy,00:59:00,1.0,19:27:00,130.2,Delhi,Cochin,5899
+2024-05-02,Air India,AI-544,Economy,09:28:00,1.0,10:18:00,1024.8,Kolkata,Banglore,9489
+2024-06-18,Vistara,UK-637,Business,20:52:00,2.0,01:23:00,1110.0,Kolkata,Banglore,36577
+2024-04-04,Vistara,UK-839,Economy,08:17:00,1.0,05:13:00,529.8,Kolkata,Banglore,22776
+2024-04-07,Air India,AI-887,Economy,17:17:00,1.0,01:36:00,135.0,Delhi,Cochin,5955
+2024-04-10,Vistara,UK-781,Business,21:09:00,0.0,21:23:00,409.8,Kolkata,Banglore,39870
+2024-02-26,Air India,AI-813,Economy,01:23:00,2.0,08:04:00,919.8,Delhi,Cochin,9042
+2024-04-22,Vistara,UK-951,Economy,05:57:00,1.0,11:45:00,130.2,Banglore,New Delhi,7320
+2024-07-30,Vistara,UK-879,Premium Economy,13:06:00,0.0,15:57:00,334.8,Mumbai,Hyderabad,13382
+2024-04-02,Air Asia,I5-1228,Economy,17:36:00,0.0,15:32:00,690.0,Mumbai,Hyderabad,4827
+2024-07-20,Air India,AI-877,Business,10:59:00,1.0,11:46:00,1489.8,Mumbai,Hyderabad,39859
+2024-01-05,Air India,AI-558,Economy,19:53:00,2.0,22:24:00,859.8,Delhi,Cochin,9630
+2024-11-12,Air India,AI-863,Economy,05:50:00,2.0,13:18:00,139.8,Delhi,Cochin,5955
+2024-02-20,Vistara,UK-979,Economy,16:18:00,2.0,11:29:00,319.8,Delhi,Cochin,27480
+2024-02-20,Vistara,UK-941,Business,15:32:00,1.0,12:36:00,150.0,Banglore,New Delhi,41528
+2024-05-19,Vistara,UK-837,Economy,08:48:00,1.0,13:32:00,925.2,Delhi,Cochin,11295
+2024-09-18,Vistara,UK-627,Premium Economy,21:45:00,0.0,12:06:00,1485.0,Banglore,New Delhi,10526
+2024-02-22,Indigo,6E-2016,Economy,14:07:00,1.0,08:57:00,135.0,Delhi,Cochin,7319
+2024-06-04,Vistara,UK-819,Business,14:16:00,0.0,07:25:00,450.0,Mumbai,Hyderabad,68150
+2024-10-10,Air India,AI-865,Economy,00:46:00,1.0,13:06:00,145.2,Delhi,Cochin,5955
+2024-04-17,Air India,AI-807,Economy,18:12:00,0.0,02:13:00,385.2,Mumbai,Hyderabad,8297
+2024-02-07,Air India,AI-560,Economy,10:55:00,1.0,03:14:00,1605.0,Delhi,Cochin,8895
+2024-04-25,Air India,AI-429,Business,12:10:00,1.0,19:34:00,490.2,Delhi,Cochin,50969
+2024-01-07,Vistara,UK-943,Business,00:20:00,1.0,13:42:00,130.2,Delhi,Cochin,30104
+2024-02-26,Vistara,UK-929,Economy,04:33:00,0.0,10:20:00,739.8,Mumbai,Hyderabad,12722
+2024-06-12,Vistara,UK-811,Premium Economy,13:17:00,1.0,13:39:00,1605.0,Banglore,New Delhi,10823
+2024-10-27,Indigo,6E-6201,Economy,15:15:00,1.0,20:57:00,295.2,Delhi,Cochin,8299
+2024-06-16,Vistara,UK-705,Business,17:55:00,0.0,20:21:00,769.8,Mumbai,Hyderabad,62057
+2024-06-14,Indigo,6E-607,Economy,22:51:00,1.0,22:24:00,469.8,Delhi,Cochin,6473
+2024-05-06,Vistara,UK-837,Business,09:04:00,0.0,22:00:00,925.2,Kolkata,Banglore,72070
+2024-03-19,Vistara,UK-835,Business,22:37:00,1.0,14:25:00,769.8,Kolkata,Banglore,72070
+2024-08-24,Vistara,UK-637,Business,09:40:00,0.0,03:31:00,1075.2,Kolkata,Banglore,36577
+2024-02-05,Indigo,6E-607,Economy,22:33:00,0.0,18:47:00,595.2,Banglore,Delhi,5798
+2024-12-15,Air India,AI-678,Economy,07:04:00,2.0,15:29:00,139.8,Delhi,Cochin,5955
+2024-12-07,Vistara,UK-855,Economy,08:44:00,1.0,11:55:00,1204.8,Banglore,New Delhi,11415
+2024-05-11,Vistara,UK-879,Business,16:29:00,1.0,08:09:00,334.8,Kolkata,Banglore,41281
+2024-09-05,Go First,G8-334,Economy,04:39:00,1.0,09:59:00,130.2,Delhi,Cochin,5899
+2024-09-03,Vistara,UK-927,Business,15:32:00,2.0,23:41:00,124.80000000000001,Delhi,Cochin,37048
+2024-04-24,Vistara,UK-815,Premium Economy,01:29:00,2.0,12:07:00,750.0,Kolkata,Banglore,15863
+2024-09-08,Air India,AI-814,Business,05:47:00,1.0,01:57:00,135.0,Delhi,Cochin,22152
+2024-09-29,Go First,G8-119,Economy,00:19:00,1.0,13:32:00,810.0,Delhi,Cochin,11012
+2024-03-05,Vistara,UK-943,Business,15:23:00,0.0,21:11:00,130.2,Banglore,Delhi,22152
+2024-09-30,Vistara,UK-879,Economy,02:04:00,1.0,19:59:00,985.2,Delhi,Cochin,9840
+2024-10-21,Air India,AI-537,Business,05:48:00,0.0,12:27:00,364.8,Kolkata,Banglore,50969
+2024-06-05,Vistara,UK-673,Premium Economy,23:24:00,1.0,14:41:00,310.2,Kolkata,Banglore,12822
+2024-03-27,Vistara,UK-811,Premium Economy,06:25:00,1.0,11:51:00,880.2,Kolkata,Banglore,18646
+2024-02-07,Indigo,6E-2411,Economy,12:44:00,1.0,03:39:00,480.0,Delhi,Cochin,9125
+2024-05-28,Air India,AI-814,Economy,18:57:00,1.0,21:46:00,135.0,Kolkata,Banglore,6480
+2024-04-14,Air India,AI-560,Business,21:12:00,1.0,22:51:00,465.0,Kolkata,Banglore,41113
+2024-07-28,Air India,AI-814,Economy,05:23:00,0.0,06:08:00,135.0,Chennai,Kolkata,7320
+2024-01-16,Air India,AI-883,Business,17:19:00,1.0,23:37:00,610.2,Delhi,Cochin,48225
+2024-09-16,Vistara,UK-637,Premium Economy,20:53:00,0.0,02:28:00,315.0,Mumbai,Hyderabad,18366
+2024-06-12,Go First,G8-713,Economy,02:55:00,1.0,12:21:00,859.8,Delhi,Cochin,6007
+2024-03-23,Vistara,UK-707,Business,05:03:00,0.0,18:32:00,364.8,Kolkata,Banglore,59033
+2024-12-11,Vistara,UK-705,Economy,17:50:00,1.0,13:18:00,330.0,Delhi,Cochin,18765
+2024-12-08,Vistara,UK-627,Premium Economy,12:13:00,1.0,11:15:00,1485.0,Delhi,Cochin,14278
+2024-05-02,Vistara,UK-927,Premium Economy,07:56:00,1.0,09:18:00,124.80000000000001,Delhi,Cochin,15846
+2024-03-20,Vistara,UK-943,Business,04:12:00,2.0,08:27:00,130.2,Banglore,New Delhi,30104
+2024-12-31,Air India,AI-624,Economy,07:58:00,0.0,06:31:00,145.2,Kolkata,Banglore,5955
+2024-01-01,Vistara,UK-933,Economy,13:36:00,1.0,23:40:00,124.80000000000001,Delhi,Cochin,8580
+2024-09-01,Go First,G8-286,Economy,09:19:00,1.0,12:35:00,865.2,Delhi,Cochin,11367
+2024-02-17,Vistara,UK-829,Economy,07:32:00,2.0,02:55:00,435.0,Delhi,Cochin,10628
+2024-09-28,Go First,G8-719,Economy,03:31:00,1.0,18:29:00,615.0,Kolkata,Banglore,5447
+2024-10-26,Vistara,UK-879,Economy,06:00:00,0.0,01:35:00,334.8,Kolkata,Banglore,18198
+2024-10-09,Indigo,6E-2117,Economy,08:12:00,1.0,08:28:00,570.0,Kolkata,Banglore,5493
+2024-04-29,Air India,AI-767,Business,19:35:00,0.0,20:04:00,499.8,Mumbai,Hyderabad,59033
+2024-05-18,Vistara,UK-969,Business,07:00:00,1.0,20:15:00,1485.0,Delhi,Cochin,30249
+2024-11-12,Vistara,UK-899,Economy,17:14:00,1.0,12:04:00,505.2,Kolkata,Banglore,18198
+2024-05-12,Air India,AI-887,Economy,10:44:00,2.0,21:20:00,135.0,Delhi,Cochin,5955
+2024-04-23,Air India,AI-605,Business,12:31:00,1.0,19:24:00,135.0,Delhi,Cochin,22152
+2024-07-15,Air India,AI-815,Business,12:31:00,0.0,02:28:00,1020.0,Banglore,Delhi,53164
+2024-06-24,Air India,AI-435,Business,19:46:00,1.0,21:03:00,505.2,Kolkata,Banglore,39649
+2024-10-01,Vistara,UK-817,Business,06:25:00,0.0,20:20:00,435.0,Banglore,Delhi,53164
+2024-01-07,Indigo,6E-607,Economy,08:17:00,0.0,19:01:00,469.8,Mumbai,Hyderabad,8894
+2024-03-28,Indigo,6E-864,Economy,22:26:00,0.0,23:43:00,135.0,Chennai,Kolkata,6374
+2024-04-02,Air Asia,I5-1228,Economy,21:21:00,2.0,14:11:00,910.2,Delhi,Cochin,5291
+2024-01-07,Air India,AI-544,Economy,10:32:00,1.0,18:12:00,1324.8,Kolkata,Banglore,7704
+2024-02-21,Vistara,UK-981,Premium Economy,04:44:00,2.0,13:54:00,120.0,Delhi,Cochin,8622
+2024-09-09,Indigo,6E-2114,Economy,07:59:00,1.0,20:29:00,135.0,Kolkata,Banglore,7319
+2024-11-21,Indigo,6E-2084,Economy,12:10:00,1.0,10:17:00,135.0,Delhi,Cochin,6374
+2024-03-01,Air India,AI-833,Business,17:48:00,1.0,19:23:00,1050.0,Kolkata,Banglore,50109
+2024-04-28,Vistara,UK-811,Economy,00:28:00,1.0,13:35:00,450.0,Kolkata,Banglore,9263
+2024-09-18,Air India,AI-814,Economy,22:50:00,1.0,04:51:00,135.0,Banglore,New Delhi,7320
+2024-12-29,Indigo,6E-607,Economy,09:19:00,2.0,21:57:00,595.2,Delhi,Cochin,6094
+2024-07-16,Vistara,UK-941,Premium Economy,10:09:00,1.0,01:51:00,150.0,Delhi,Cochin,7278
+2024-04-28,Go First,G8-717,Economy,03:47:00,1.0,17:03:00,300.0,Kolkata,Banglore,15680
+2024-12-23,Vistara,UK-835,Business,00:28:00,1.0,18:57:00,934.8,Kolkata,Banglore,85096
+2024-08-13,Go First,G8-346,Economy,01:03:00,1.0,07:50:00,124.80000000000001,Banglore,New Delhi,5899
+2024-08-22,Air India,AI-512,Business,13:55:00,0.0,08:03:00,790.2,Banglore,Delhi,53164
+2024-09-25,Air India,AI-805,Economy,22:52:00,1.0,22:19:00,130.2,Delhi,Cochin,5955
+2024-11-10,Air India,AI-624,Economy,12:58:00,1.0,13:31:00,145.2,Kolkata,Banglore,5955
+2024-12-02,Vistara,UK-879,Business,02:51:00,1.0,08:09:00,334.8,Delhi,Cochin,41281
+2024-05-02,Vistara,UK-835,Economy,10:36:00,1.0,02:28:00,934.8,Delhi,Cochin,15321
+2024-09-13,Vistara,UK-899,Premium Economy,21:08:00,2.0,00:48:00,1050.0,Delhi,Cochin,15118
+2024-11-29,Air India,AI-512,Economy,21:44:00,0.0,01:15:00,790.2,Mumbai,Hyderabad,7194
+2024-04-14,Air India,AI-439,Economy,17:02:00,1.0,06:57:00,694.8,Kolkata,Banglore,8958
+2024-12-25,Air Asia,I5-745,Economy,11:41:00,1.0,23:38:00,784.8,Delhi,Cochin,9761
+2024-09-08,Air India,AI-678,Economy,20:34:00,1.0,19:40:00,139.8,Delhi,Cochin,5955
+2024-12-14,Vistara,UK-829,Premium Economy,22:16:00,1.0,10:36:00,949.8,Delhi,Cochin,12822
+2024-08-21,Air Asia,I5-773,Economy,11:53:00,1.0,02:37:00,480.0,Kolkata,Banglore,6872
+2024-01-01,Air India,AI-624,Business,06:19:00,1.0,02:33:00,145.2,Delhi,Cochin,30092
+2024-03-05,Air India,AI-429,Economy,19:59:00,1.0,16:24:00,454.8,Kolkata,Banglore,13221
+2024-02-17,Go First,G8-286,Economy,09:52:00,1.0,22:12:00,450.0,Kolkata,Banglore,18056
+2024-12-03,Air India,AI-815,Economy,05:31:00,0.0,09:13:00,465.0,Mumbai,Hyderabad,8517
+2024-08-08,Vistara,UK-879,Business,08:08:00,1.0,22:23:00,985.2,Mumbai,Hyderabad,47856
+2024-03-06,Air India,AI-807,Economy,12:18:00,1.0,12:46:00,1114.8,Delhi,Cochin,14082
+2024-05-29,Air India,AI-435,Business,01:20:00,1.0,04:16:00,505.2,Kolkata,Banglore,29805
+2024-04-05,Vistara,UK-811,Premium Economy,20:33:00,1.0,23:27:00,1065.0,Delhi,Cochin,10823
+2024-03-29,Air Asia,I5-1228,Economy,07:43:00,2.0,20:46:00,570.0,Delhi,Cochin,6872
+2024-06-09,Vistara,UK-839,Business,06:40:00,1.0,07:20:00,529.8,Delhi,Cochin,68441
+2024-05-14,Spicejet,SG-8709,Economy,08:03:00,0.0,08:06:00,115.19999999999999,Banglore,Delhi,5794
+2024-05-30,Air India,AI-540,Economy,15:41:00,1.0,16:11:00,690.0,Delhi,Cochin,10281
+2024-11-17,Go First,G8-336,Economy,16:14:00,1.0,13:51:00,130.2,Delhi,Cochin,5899
+2024-09-13,Air Asia,I5-773,Economy,21:23:00,0.0,13:39:00,655.2,Banglore,Delhi,6375
+2024-10-12,Vistara,UK-969,Premium Economy,07:01:00,1.0,06:55:00,735.0,Kolkata,Banglore,7082
+2024-07-05,Vistara,UK-995,Premium Economy,18:35:00,1.0,15:32:00,135.0,Banglore,New Delhi,15846
+2024-02-17,Air India,AI-502,Business,01:48:00,0.0,07:00:00,480.0,Banglore,Delhi,53164
+2024-10-27,Go First,G8-719,Economy,23:20:00,1.0,22:05:00,255.0,Kolkata,Banglore,7616
+2024-05-10,Air Asia,I5-773,Economy,05:47:00,1.0,06:06:00,379.8,Kolkata,Banglore,6375
+2024-12-22,Vistara,UK-879,Premium Economy,08:55:00,0.0,21:49:00,985.2,Banglore,New Delhi,12822
+2024-06-03,Air India,AI-815,Business,14:53:00,0.0,22:30:00,355.2,Banglore,Delhi,58025
+2024-03-24,Indigo,6E-2075,Economy,01:44:00,1.0,04:47:00,115.19999999999999,Delhi,Cochin,7319
+2024-07-22,Vistara,UK-829,Premium Economy,16:40:00,0.0,01:33:00,1600.2,Banglore,Delhi,28474
+2024-03-11,Indigo,G8-286,Economy,11:56:00,1.0,17:07:00,270.0,Delhi,Cochin,9314
+2024-06-04,Vistara,UK-801,Premium Economy,03:49:00,0.0,01:40:00,694.8,Kolkata,Banglore,11943
+2024-02-04,Air India,AI-833,Business,05:02:00,1.0,09:23:00,1050.0,Delhi,Cochin,50109
+2024-06-16,Vistara,UK-673,Economy,15:14:00,2.0,15:57:00,310.2,Kolkata,Banglore,15195
+2024-11-18,Air India,AI-537,Economy,15:12:00,0.0,02:20:00,450.0,Mumbai,Hyderabad,9609
+2024-08-28,Air Asia,I5-745,Economy,16:14:00,0.0,02:37:00,784.8,Banglore,Delhi,7846
+2024-03-05,Indigo,6E-2411,Economy,11:26:00,1.0,23:16:00,480.0,Delhi,Cochin,8233
+2024-01-03,Vistara,UK-933,Economy,09:26:00,1.0,03:12:00,124.80000000000001,Delhi,Cochin,5955
+2024-11-30,Air India,AI-439,Business,20:30:00,0.0,03:12:00,694.8,Banglore,New Delhi,50969
+2024-05-07,Vistara,UK-979,Business,09:37:00,2.0,11:00:00,319.8,Delhi,Cochin,22297
+2024-01-14,Indigo,6E-6814,Economy,10:38:00,1.0,11:25:00,145.2,Delhi,Cochin,5954
+2024-09-30,Vistara,UK-957,Business,20:44:00,0.0,19:04:00,135.0,Kolkata,Banglore,56860
+2024-03-22,Air India,AI-554,Business,14:06:00,1.0,05:17:00,709.8,Banglore,New Delhi,50969
+2024-03-18,Air India,AI-803,Business,17:37:00,0.0,12:07:00,919.8,Mumbai,Hyderabad,53164
+2024-09-11,Air India,AI-542,Economy,08:26:00,1.0,10:33:00,1450.2,Banglore,New Delhi,9489
+2024-06-06,Vistara,UK-859,Business,10:19:00,2.0,23:35:00,760.2,Banglore,New Delhi,41281
+2024-06-02,Indigo,6E-2016,Economy,15:10:00,2.0,17:01:00,135.0,Delhi,Cochin,6374
+2024-12-03,Vistara,UK-963,Economy,05:10:00,2.0,05:16:00,145.2,Delhi,Cochin,5955
+2024-11-02,Vistara,UK-635,Economy,01:31:00,1.0,16:39:00,1624.8,Delhi,Cochin,8580
+2024-09-08,Vistara,UK-933,Premium Economy,08:12:00,1.0,20:52:00,124.80000000000001,Kolkata,Banglore,7278
+2024-12-19,Vistara,UK-813,Premium Economy,23:25:00,1.0,23:11:00,1075.2,Delhi,Cochin,11943
+2024-12-28,Vistara,UK-815,Business,19:45:00,2.0,03:09:00,724.8,Delhi,Cochin,96223
+2024-06-29,Air India,AI-554,Business,18:39:00,2.0,05:20:00,625.2,Kolkata,Banglore,50969
+2024-06-28,Indigo,6E-2084,Economy,07:51:00,1.0,08:01:00,135.0,Kolkata,Banglore,6374
+2024-06-29,Indigo,6E-864,Economy,12:19:00,1.0,20:22:00,135.0,Kolkata,Banglore,6164
+2024-01-08,Air India,AI-540,Economy,14:18:00,2.0,03:48:00,799.8,Delhi,Cochin,9630
+2024-09-07,Air Asia,I5-743,Economy,23:47:00,1.0,22:28:00,880.2,Delhi,Cochin,6375
+2024-07-17,Vistara,UK-979,Premium Economy,12:59:00,1.0,13:48:00,1215.0,Delhi,Cochin,15992
+2024-02-13,Vistara,UK-995,Economy,06:26:00,0.0,12:38:00,135.0,Kolkata,Banglore,5955
+2024-11-24,Air India,AI-877,Business,01:28:00,0.0,19:15:00,1489.8,Mumbai,Hyderabad,39859
+2024-01-16,Vistara,UK-977,Premium Economy,06:58:00,1.0,15:46:00,135.0,Delhi,Cochin,7838
+2024-10-28,Indigo,6E-2075,Economy,04:53:00,0.0,18:51:00,115.19999999999999,Banglore,Delhi,6164
+2024-11-27,Vistara,UK-975,Business,04:27:00,0.0,00:39:00,135.0,Kolkata,Banglore,49020
+2024-03-26,Vistara,UK-969,Business,08:53:00,0.0,03:39:00,940.2,Kolkata,Banglore,22297
+2024-11-12,Indigo,6E-5345,Economy,06:08:00,0.0,23:57:00,465.0,Banglore,Delhi,5643
+2024-08-20,Vistara,UK-945,Premium Economy,00:53:00,0.0,12:30:00,135.0,Banglore,Delhi,22286
+2024-04-21,Air India,AI-636,Business,14:09:00,1.0,16:25:00,225.0,Delhi,Cochin,25612
+2024-06-30,Vistara,UK-819,Business,03:17:00,0.0,10:57:00,450.0,Chennai,Kolkata,82010
+2024-11-11,Vistara,UK-819,Premium Economy,13:43:00,1.0,05:23:00,550.2,Delhi,Cochin,10638
+2024-03-25,Vistara,UK-837,Economy,04:36:00,1.0,15:15:00,925.2,Kolkata,Banglore,13076
+2024-01-30,Air India,AI-811,Business,05:52:00,0.0,11:48:00,1305.0,Mumbai,Hyderabad,34982
+2024-08-11,Vistara,UK-945,Premium Economy,10:30:00,1.0,12:09:00,135.0,Kolkata,Banglore,22286
+2024-06-04,Air India,AI-833,Economy,14:09:00,1.0,10:54:00,1050.0,Kolkata,Banglore,15093
+2024-10-24,Air India,AI-807,Economy,04:08:00,1.0,21:43:00,379.8,Delhi,Cochin,7194
+2024-02-13,Vistara,UK-817,Premium Economy,08:05:00,1.0,18:19:00,334.8,Banglore,New Delhi,10638
+2024-06-30,Vistara,UK-945,Business,03:03:00,1.0,19:24:00,135.0,Delhi,Cochin,22152
+2024-04-28,Air India,AI-540,Business,14:07:00,0.0,20:35:00,690.0,Kolkata,Banglore,50969
+2024-05-07,Vistara,UK-637,Economy,18:44:00,2.0,12:47:00,315.0,Delhi,Cochin,11573
+2024-04-12,Vistara,UK-829,Business,05:50:00,1.0,18:06:00,435.0,Delhi,Cochin,55696
+2024-06-07,Vistara,UK-801,Business,14:03:00,1.0,13:51:00,694.8,Delhi,Cochin,72938
+2024-11-13,Vistara,UK-817,Economy,17:26:00,1.0,23:09:00,334.8,Delhi,Cochin,12150
+2024-04-14,Air India,AI-401,Business,14:08:00,1.0,09:27:00,820.2,Delhi,Cochin,59033
+2024-12-06,Indigo,6E-5603,Economy,06:38:00,1.0,20:59:00,289.8,Kolkata,Banglore,11551
+2024-02-20,Vistara,UK-809,Business,20:22:00,2.0,06:26:00,745.2,Kolkata,Banglore,91435
+2024-12-04,Air India,AI-803,Economy,06:58:00,1.0,12:11:00,919.8,Delhi,Cochin,7415
+2024-06-25,Vistara,UK-747,Economy,08:52:00,0.0,18:28:00,829.8,Mumbai,Hyderabad,14933
+2024-08-04,Vistara,UK-979,Economy,02:10:00,0.0,19:11:00,1009.8,Kolkata,Banglore,27480
+2024-02-23,Air India,AI-558,Business,11:44:00,0.0,10:10:00,750.0,Banglore,Delhi,50969
+2024-12-25,Air India,AI-678,Business,00:05:00,1.0,23:25:00,139.8,Banglore,New Delhi,22152
+2024-09-05,Vistara,UK-811,Premium Economy,16:44:00,1.0,20:33:00,904.8,Kolkata,Banglore,10638
+2024-05-23,Vistara,UK-977,Economy,15:49:00,0.0,17:05:00,135.0,Banglore,Delhi,6375
+2024-06-27,Air India,AI-767,Economy,08:10:00,2.0,17:06:00,499.8,Kolkata,Banglore,16350
+2024-02-12,Vistara,UK-781,Business,21:30:00,0.0,06:09:00,1035.0,Delhi,Cochin,39870
+2024-11-19,Go First,G8-101,Economy,03:08:00,1.0,09:32:00,934.8,Delhi,Cochin,6873
+2024-08-10,Vistara,UK-951,Premium Economy,14:35:00,1.0,04:45:00,130.2,Delhi,Cochin,7278
+2024-04-21,Vistara,UK-801,Business,18:29:00,0.0,18:14:00,694.8,Kolkata,Banglore,82010
+2024-10-01,Air India,AI-537,Economy,18:05:00,0.0,17:41:00,364.8,Chennai,Kolkata,18996
+2024-01-18,Vistara,UK-995,Premium Economy,14:41:00,1.0,22:42:00,135.0,Kolkata,Banglore,11646
+2024-06-26,Air India,AI-411,Economy,08:36:00,1.0,12:39:00,559.8,Delhi,Cochin,9315
+2024-12-03,Air India,AI-883,Economy,17:56:00,0.0,06:22:00,1579.8,Banglore,Delhi,9349
+2024-09-11,Vistara,UK-837,Economy,03:37:00,2.0,04:57:00,1090.2,Delhi,Cochin,12203
+2024-07-16,Vistara,UK-981,Business,02:58:00,0.0,05:20:00,120.0,Kolkata,Banglore,41528
+2024-05-14,Vistara,UK-815,Business,17:49:00,2.0,20:34:00,750.0,Delhi,Cochin,72938
+2024-01-10,Vistara,UK-929,Business,13:27:00,1.0,09:29:00,535.2,Banglore,New Delhi,22297
+2024-03-15,Vistara,UK-815,Business,00:09:00,2.0,21:33:00,724.8,Delhi,Cochin,93798
+2024-11-06,Vistara,UK-959,Economy,00:50:00,1.0,21:44:00,1425.0,Delhi,Cochin,4984
+2024-02-06,Vistara,UK-833,Business,09:28:00,1.0,20:31:00,409.8,Banglore,New Delhi,63816
+2024-04-23,Air India,AI-678,Economy,11:52:00,1.0,13:11:00,139.8,Delhi,Cochin,5955
+2024-06-17,Vistara,UK-637,Premium Economy,13:05:00,1.0,12:13:00,1110.0,Delhi,Cochin,11982
+2024-07-24,Go First,G8-717,Economy,16:22:00,1.0,13:17:00,250.2,Delhi,Cochin,8245
+2024-05-14,Indigo,6E-6232,Economy,17:14:00,1.0,22:17:00,520.2,Kolkata,Banglore,8317
+2024-03-11,Vistara,UK-957,Premium Economy,07:53:00,2.0,16:34:00,135.0,Kolkata,Banglore,15846
+2024-08-08,Indigo,6E-6492,Economy,06:15:00,2.0,03:21:00,319.8,Kolkata,Banglore,19665
+2024-11-05,Vistara,UK-943,Premium Economy,16:44:00,1.0,02:23:00,130.2,Kolkata,Banglore,7838
+2024-07-20,Indigo,6E-2112,Economy,19:14:00,0.0,18:24:00,150.0,Banglore,Delhi,6374
+2024-06-18,Vistara,UK-637,Business,11:58:00,2.0,13:23:00,1110.0,Delhi,Cochin,47665
+2024-03-01,Air India,AI-544,Economy,16:53:00,1.0,05:10:00,1024.8,Delhi,Cochin,9489
+2024-08-28,Air India,AI-814,Business,21:30:00,1.0,04:15:00,135.0,Delhi,Cochin,25612
+2024-01-03,Go First,G8-2519,Economy,11:27:00,1.0,15:57:00,850.2,Delhi,Cochin,6007
+2024-06-14,Air India,AI-512,Business,20:14:00,1.0,11:30:00,790.2,Banglore,New Delhi,53164
+2024-02-03,Vistara,UK-705,Economy,17:13:00,1.0,03:24:00,769.8,Delhi,Cochin,14670
+2024-07-10,Air India,AI-883,Business,07:50:00,0.0,11:22:00,1579.8,Banglore,Delhi,48225
+2024-03-13,Air India,AI-883,Business,03:29:00,1.0,18:16:00,610.2,Delhi,Cochin,52268
+2024-08-13,Air India,AI-485,Business,15:04:00,0.0,15:33:00,655.2,Banglore,Delhi,39622
+2024-04-14,Vistara,UK-855,Premium Economy,00:09:00,2.0,10:48:00,334.8,Kolkata,Banglore,13046
+2024-11-13,Vistara,UK-879,Economy,21:13:00,2.0,04:58:00,880.2,Delhi,Cochin,9840
+2024-07-13,Vistara,UK-637,Business,13:19:00,1.0,16:43:00,315.0,Delhi,Cochin,63289
+2024-05-14,Go First,G8-113,Economy,16:56:00,0.0,00:04:00,975.0,Kolkata,Banglore,14511
+2024-08-02,Go First,G8-119,Economy,02:22:00,1.0,06:43:00,874.8,Kolkata,Banglore,6007
+2024-11-18,Air Asia,I5-773,Economy,10:55:00,0.0,00:14:00,379.8,Chennai,Kolkata,6375
+2024-02-27,Vistara,UK-829,Premium Economy,17:27:00,2.0,04:10:00,435.0,Banglore,New Delhi,12262
+2024-11-04,Air India,AI-544,Economy,00:14:00,1.0,00:48:00,1024.8,Delhi,Cochin,8895
+2024-12-29,Vistara,UK-747,Economy,23:44:00,1.0,18:07:00,829.8,Kolkata,Banglore,15248
+2024-07-06,Vistara,UK-819,Business,19:38:00,0.0,17:21:00,364.8,Banglore,Delhi,84726
+2024-09-19,Air Asia,I5-745,Economy,23:24:00,1.0,19:35:00,400.2,Banglore,New Delhi,4827
+2024-09-25,Air India,AI-542,Economy,00:28:00,0.0,00:04:00,310.2,Mumbai,Hyderabad,7704
+2024-12-04,Vistara,UK-706,Premium Economy,02:12:00,2.0,08:31:00,1290.0,Delhi,Cochin,15454
+2024-08-24,Air India,AI-624,Business,05:25:00,0.0,18:15:00,145.2,Banglore,Delhi,22152
+2024-05-27,Indigo,6E-6201,Economy,16:35:00,1.0,00:24:00,295.2,Delhi,Cochin,7599
+2024-05-06,Indigo,6E-5318,Economy,19:50:00,0.0,11:35:00,135.0,Chennai,Kolkata,5794
+2024-03-03,Indigo,6E-6475,Economy,09:52:00,1.0,07:48:00,589.8,Delhi,Cochin,22870
+2024-04-18,Vistara,UK-951,Premium Economy,01:33:00,1.0,17:12:00,130.2,Kolkata,Banglore,8622
+2024-11-22,Air India,AI-636,Economy,02:20:00,0.0,00:44:00,225.0,Banglore,Delhi,6480
+2024-02-13,Vistara,UK-993,Economy,17:25:00,2.0,06:21:00,130.2,Kolkata,Banglore,7320
+2024-12-27,Go First,G8-2501,Economy,12:18:00,0.0,07:21:00,130.2,Banglore,Delhi,5801
+2024-03-16,Air India,AI-678,Economy,17:43:00,1.0,23:37:00,139.8,Banglore,New Delhi,5955
+2024-10-21,Air Asia,I5-740,Economy,06:25:00,1.0,13:37:00,769.8,Delhi,Cochin,6872
+2024-08-14,Vistara,UK-801,Business,09:40:00,0.0,19:52:00,670.2,Kolkata,Banglore,96223
+2024-07-31,Air India,AI-542,Business,08:27:00,2.0,16:39:00,859.8,Delhi,Cochin,41113
+2024-06-11,Vistara,UK-959,Premium Economy,12:53:00,1.0,17:57:00,1425.0,Delhi,Cochin,7082
+2024-08-25,Indigo,6E-2176,Economy,21:45:00,1.0,09:55:00,135.0,Delhi,Cochin,6374
+2024-11-19,Vistara,UK-941,Premium Economy,07:30:00,2.0,23:06:00,150.0,Delhi,Cochin,15846
+2024-09-29,Air India,AI-425,Business,03:43:00,0.0,13:15:00,1579.8,Banglore,New Delhi,42622
+2024-09-03,Air India,AI-544,Economy,13:53:00,2.0,04:22:00,1024.8,Delhi,Cochin,7704
+2024-05-05,Vistara,UK-811,Premium Economy,03:24:00,0.0,22:16:00,964.8,Mumbai,Hyderabad,11943
+2024-09-11,Air India,AI-411,Economy,07:33:00,2.0,19:03:00,559.8,Kolkata,Banglore,8580
+2024-12-13,Air India,AI-805,Economy,21:15:00,2.0,05:04:00,130.2,Delhi,Cochin,5955
+2024-10-07,Air India,AI-865,Economy,15:02:00,1.0,01:01:00,145.2,Delhi,Cochin,5955
+2024-01-03,Air Asia,I5-745,Economy,00:33:00,1.0,22:54:00,400.2,Kolkata,Banglore,5291
+2024-02-29,Air India,AI-471,Economy,17:23:00,0.0,15:10:00,319.8,Delhi,Cochin,20834
+2024-01-13,Vistara,UK-627,Business,08:48:00,1.0,05:41:00,1590.0,Kolkata,Banglore,37417
+2024-10-13,Vistara,UK-979,Economy,09:11:00,1.0,09:15:00,319.8,Delhi,Cochin,19862
+2024-03-24,Vistara,UK-819,Economy,21:52:00,1.0,01:43:00,390.0,Delhi,Cochin,8291
+2024-08-15,Spicejet,SG-8169,Economy,11:25:00,0.0,10:22:00,124.80000000000001,Kolkata,Banglore,6951
+2024-04-12,Vistara,UK-781,Business,01:14:00,1.0,17:42:00,409.8,Kolkata,Banglore,50163
+2024-08-26,Indigo,6E-6492,Economy,13:30:00,0.0,09:06:00,319.8,Banglore,Delhi,7888
+2024-10-08,Vistara,UK-959,Business,17:26:00,1.0,08:25:00,735.0,Delhi,Cochin,22297
+2024-08-07,Vistara,UK-855,Premium Economy,21:05:00,2.0,15:18:00,1204.8,Delhi,Cochin,27494
+2024-02-17,Spicejet,SG-8169,Economy,04:20:00,1.0,22:35:00,124.80000000000001,Delhi,Cochin,5021
+2024-10-25,Indigo,6E-2033,Economy,05:46:00,2.0,21:09:00,370.2,Delhi,Cochin,5315
+2024-11-25,Vistara,UK-871,Economy,12:11:00,0.0,00:54:00,799.8,Chennai,Kolkata,12150
+2024-02-27,Air India,AI-807,Business,05:51:00,1.0,17:00:00,934.8,Kolkata,Banglore,53164
+2024-08-20,Vistara,UK-871,Premium Economy,10:04:00,1.0,13:13:00,1075.2,Delhi,Cochin,12262
+2024-05-26,Vistara,UK-951,Economy,14:22:00,0.0,13:31:00,130.2,Banglore,Delhi,6375
+2024-07-13,Air India,AI-636,Business,20:37:00,0.0,19:51:00,225.0,Kolkata,Banglore,22152
+2024-06-08,Air India,AI-863,Economy,12:38:00,1.0,04:22:00,139.8,Delhi,Cochin,5955
+2024-09-21,Air India,AI-605,Business,10:29:00,1.0,21:49:00,135.0,Banglore,New Delhi,22152
+2024-02-24,Indigo,6E-2016,Economy,08:55:00,1.0,00:15:00,135.0,Kolkata,Banglore,6374
+2024-05-15,Air India,AI-815,Business,00:56:00,0.0,02:23:00,355.2,Mumbai,Hyderabad,53164
+2024-05-05,Vistara,UK-839,Business,07:22:00,2.0,18:31:00,529.8,Delhi,Cochin,110441
+2024-11-29,Vistara,UK-979,Economy,14:34:00,1.0,02:37:00,319.8,Kolkata,Banglore,12722
+2024-04-24,Indigo,6E-2411,Economy,20:02:00,1.0,05:05:00,480.0,Delhi,Cochin,10858
+2024-12-25,Indigo,6E-2204,Economy,21:01:00,1.0,00:19:00,415.2,Kolkata,Banglore,13252
+2024-07-04,Vistara,UK-943,Premium Economy,09:08:00,1.0,06:21:00,130.2,Delhi,Cochin,7278
+2024-04-20,Air India,AI-767,Economy,10:56:00,2.0,04:45:00,439.8,Delhi,Cochin,14670
+2024-08-31,Air India,AI-485,Economy,00:12:00,0.0,06:45:00,655.2,Mumbai,Hyderabad,12360
+2024-09-03,Air India,AI-537,Economy,23:23:00,2.0,09:27:00,1069.8,Delhi,Cochin,8958
+2024-12-24,Vistara,UK-955,Economy,16:35:00,2.0,14:06:00,130.2,Kolkata,Banglore,13830
+2024-03-05,Vistara,UK-815,Business,12:08:00,0.0,16:46:00,750.0,Mumbai,Hyderabad,96223
+2024-11-29,Indigo,6E-5318,Economy,06:17:00,1.0,16:53:00,135.0,Delhi,Cochin,5794
+2024-07-22,Vistara,UK-969,Premium Economy,23:38:00,1.0,20:56:00,735.0,Kolkata,Banglore,10168
+2024-10-13,Air India,AI-544,Economy,16:14:00,1.0,07:34:00,1324.8,Banglore,New Delhi,9489
+2024-09-18,Indigo,6E-2114,Economy,03:27:00,2.0,21:07:00,135.0,Delhi,Cochin,6374
+2024-05-07,Vistara,UK-809,Premium Economy,06:16:00,1.0,01:07:00,745.2,Delhi,Cochin,10638
+2024-01-31,Air India,AI-805,Business,11:31:00,0.0,20:36:00,130.2,Chennai,Kolkata,22152
+2024-09-08,Air Asia,I5-743,Economy,06:17:00,0.0,13:24:00,880.2,Mumbai,Hyderabad,9180
+2024-10-24,Go First,G8-113,Economy,06:15:00,0.0,02:23:00,889.8,Chennai,Kolkata,6007
+2024-02-01,Indigo,6E-2017,Economy,22:58:00,1.0,10:02:00,130.2,Delhi,Cochin,7319
+2024-03-01,Vistara,UK-627,Economy,10:21:00,1.0,16:15:00,1485.0,Delhi,Cochin,9210
+2024-06-01,Vistara,UK-879,Economy,11:09:00,1.0,18:47:00,334.8,Delhi,Cochin,15195
+2024-07-28,Air India,AI-502,Business,05:01:00,1.0,12:30:00,480.0,Delhi,Cochin,53164
+2024-06-20,Air India,AI-512,Business,04:12:00,1.0,23:17:00,964.8,Banglore,New Delhi,53164
+2024-06-26,Vistara,UK-975,Business,18:08:00,2.0,13:38:00,135.0,Kolkata,Banglore,30104
+2024-04-27,Vistara,UK-635,Economy,01:22:00,1.0,12:00:00,1624.8,Delhi,Cochin,9838
+2024-11-07,Air India,AI-883,Economy,01:47:00,1.0,04:55:00,1129.8,Delhi,Cochin,8614
+2024-04-21,Air Asia,I5-743,Economy,11:44:00,2.0,01:33:00,490.2,Delhi,Cochin,5431
+2024-08-30,Air India,AI-504,Economy,17:35:00,1.0,23:17:00,859.8,Kolkata,Banglore,9357
+2024-03-26,Air India,AI-441,Economy,00:38:00,0.0,20:52:00,145.2,Banglore,New Delhi,5955
+2024-04-04,Vistara,UK-819,Business,14:39:00,0.0,03:36:00,450.0,Kolkata,Banglore,68150
+2024-07-25,Air Asia,I5-773,Economy,04:09:00,0.0,02:07:00,480.0,Mumbai,Hyderabad,6375
+2024-12-08,Air India,AI-542,Business,09:36:00,2.0,06:01:00,310.2,Delhi,Cochin,41113
+2024-07-20,Air India,AI-636,Economy,01:17:00,1.0,20:53:00,225.0,Kolkata,Banglore,7320
+2024-03-11,Vistara,UK-817,Economy,18:10:00,1.0,10:06:00,435.0,Delhi,Cochin,17820
+2024-10-04,Vistara,UK-855,Premium Economy,03:43:00,2.0,18:13:00,334.8,Delhi,Cochin,13606
+2024-10-11,Air India,AI-560,Economy,01:37:00,1.0,23:46:00,1015.2,Delhi,Cochin,8895
+2024-02-11,Vistara,UK-943,Economy,17:10:00,1.0,07:22:00,130.2,Kolkata,Banglore,7635
+2024-05-20,Indigo,6E-2216,Economy,14:12:00,1.0,11:29:00,505.2,Delhi,Cochin,10259
+2024-11-29,Vistara,UK-829,Premium Economy,10:17:00,1.0,05:55:00,949.8,Delhi,Cochin,12262
+2024-03-23,Air India,AI-537,Business,13:38:00,1.0,00:30:00,364.8,Delhi,Cochin,50969
+2024-01-20,Vistara,UK-929,Economy,13:48:00,0.0,01:34:00,535.2,Banglore,Delhi,5876
+2024-03-30,Vistara,UK-811,Premium Economy,07:43:00,1.0,10:15:00,349.8,Banglore,New Delhi,10638
+2024-06-04,Vistara,UK-673,Premium Economy,19:58:00,1.0,14:55:00,310.2,Delhi,Cochin,21278
+2024-05-04,Air Asia,I5-743,Economy,17:40:00,1.0,14:15:00,880.2,Banglore,New Delhi,4827
+2024-11-23,Air India,AI-544,Business,06:03:00,1.0,23:15:00,435.0,Banglore,New Delhi,41113
+2024-12-17,Air India,AI-865,Business,11:41:00,0.0,18:36:00,145.2,Banglore,Delhi,22152
+2024-07-28,Go First,G8-119,Economy,09:59:00,0.0,06:37:00,810.0,Delhi,Cochin,9111
+2024-06-30,Vistara,UK-811,Premium Economy,06:00:00,1.0,13:01:00,964.8,Kolkata,Banglore,10638
+2024-05-08,Vistara,UK-975,Economy,19:58:00,1.0,08:58:00,135.0,Delhi,Cochin,7635
+2024-07-28,Vistara,UK-979,Premium Economy,06:52:00,0.0,06:36:00,1009.8,Chennai,Kolkata,15635
+2024-02-29,Indigo,6E-2519,Economy,09:03:00,0.0,05:03:00,139.8,Banglore,New Delhi,5899
+2024-03-07,Air India,AI-839,Business,12:07:00,1.0,06:18:00,1045.2,Delhi,Cochin,41113
+2024-11-12,Vistara,UK-707,Economy,16:17:00,0.0,04:04:00,364.8,Banglore,Delhi,17819
+2024-11-09,Vistara,UK-839,Business,14:07:00,0.0,03:43:00,529.8,Banglore,Delhi,68441
+2024-08-02,Indigo,6E-607,Economy,19:17:00,1.0,01:08:00,469.8,Delhi,Cochin,5798
+2024-08-08,Vistara,UK-995,Business,19:50:00,1.0,09:11:00,135.0,Kolkata,Banglore,41528
+2024-01-19,Vistara,UK-929,Premium Economy,18:21:00,1.0,00:43:00,739.8,Kolkata,Banglore,11288
+2024-08-04,Air India,AI-839,Business,19:04:00,0.0,09:21:00,1045.2,Chennai,Kolkata,41113
+2024-12-26,Vistara,UK-707,Business,18:31:00,1.0,10:01:00,364.8,Kolkata,Banglore,59033
+2024-02-20,Air Asia,I5-745,Economy,08:02:00,1.0,04:58:00,784.8,Kolkata,Banglore,11805
+2024-02-24,Vistara,UK-879,Business,18:18:00,0.0,02:20:00,334.8,Banglore,New Delhi,55696
+2024-07-08,Vistara,UK-979,Premium Economy,17:23:00,2.0,05:31:00,1215.0,Delhi,Cochin,15992
+2024-04-24,Go First,G8-286,Economy,23:30:00,0.0,01:39:00,874.8,Mumbai,Hyderabad,8740
+2024-05-28,Vistara,UK-819,Premium Economy,04:40:00,3.0,21:12:00,450.0,Banglore,New Delhi,10638
+2024-09-02,Vistara,UK-837,Economy,07:01:00,1.0,10:09:00,925.2,Kolkata,Banglore,13496
+2024-09-17,Air India,AI-815,Economy,06:11:00,1.0,10:52:00,465.0,Delhi,Cochin,16182
+2024-12-06,Go First,G8-530,Economy,17:41:00,1.0,01:36:00,130.2,Delhi,Cochin,5899
+2024-12-12,Air India,AI-433,Business,15:51:00,1.0,19:19:00,1620.0,Delhi,Cochin,29805
+2024-02-14,Air India,AI-512,Business,09:00:00,1.0,17:31:00,964.8,Kolkata,Banglore,53164
+2024-07-04,Indigo,6E-2204,Economy,14:21:00,0.0,07:47:00,415.2,Kolkata,Banglore,9750
+2024-06-27,Indigo,6E-6492,Economy,00:10:00,0.0,19:10:00,319.8,Mumbai,Hyderabad,20699
+2024-12-25,Air India,AI-537,Business,00:23:00,1.0,02:44:00,364.8,Kolkata,Banglore,50969
+2024-08-16,Go First,G8-143,Economy,01:43:00,0.0,05:15:00,360.0,Kolkata,Banglore,6873
+2024-12-29,Air India,AI-429,Business,09:47:00,1.0,19:49:00,490.2,Delhi,Cochin,57074
+2024-07-14,Vistara,UK-955,Business,21:57:00,0.0,23:47:00,130.2,Banglore,Delhi,30104
+2024-04-23,Air India,AI-883,Economy,17:36:00,1.0,07:04:00,1579.8,Delhi,Cochin,10155
+2024-02-22,Vistara,UK-929,Economy,09:25:00,1.0,00:07:00,739.8,Delhi,Cochin,13095
+2024-03-17,Vistara,UK-801,Premium Economy,11:21:00,2.0,20:53:00,855.0,Delhi,Cochin,14743
+2024-12-13,Air India,AI-475,Business,17:49:00,1.0,08:30:00,1489.8,Delhi,Cochin,29805
+2024-09-11,Vistara,UK-705,Economy,00:21:00,1.0,22:21:00,330.0,Delhi,Cochin,23700
+2024-09-14,Go First,G8-713,Economy,06:14:00,2.0,02:21:00,735.0,Delhi,Cochin,5962
+2024-07-28,Vistara,UK-817,Business,01:44:00,2.0,00:38:00,334.8,Delhi,Cochin,53164
+2024-01-01,Vistara,UK-815,Premium Economy,03:39:00,0.0,04:37:00,1450.2,Banglore,Delhi,14743
+2024-05-23,Vistara,UK-859,Business,03:49:00,0.0,19:42:00,760.2,Mumbai,Hyderabad,55696
+2024-03-27,Air India,AI-839,Economy,05:57:00,2.0,22:28:00,745.2,Kolkata,Banglore,12045
+2024-08-24,Vistara,UK-929,Economy,09:29:00,1.0,19:49:00,739.8,Kolkata,Banglore,7367
+2024-04-04,Air India,AI-512,Business,23:20:00,1.0,20:04:00,964.8,Kolkata,Banglore,53164
+2024-08-25,Vistara,UK-969,Premium Economy,20:22:00,0.0,01:25:00,735.0,Kolkata,Banglore,10168
+2024-04-26,Air India,AI-473,Business,18:26:00,0.0,20:42:00,1035.0,Delhi,Cochin,39859
+2024-11-07,Vistara,UK-833,Premium Economy,11:46:00,2.0,14:06:00,1684.8,Banglore,New Delhi,22006
+2024-04-07,Air India,AI-401,Business,18:46:00,2.0,23:44:00,820.2,Delhi,Cochin,59033
+2024-12-30,Vistara,UK-879,Business,08:52:00,0.0,08:11:00,1260.0,Kolkata,Banglore,41281
+2024-01-12,Air India,AI-863,Economy,03:42:00,2.0,14:04:00,139.8,Delhi,Cochin,5955
+2024-08-08,Vistara,UK-813,Economy,04:18:00,2.0,19:24:00,349.8,Delhi,Cochin,8291
+2024-04-25,Go First,G8-323,Economy,10:42:00,0.0,05:54:00,130.2,Banglore,Delhi,5899
+2024-10-18,Vistara,UK-839,Premium Economy,04:35:00,1.0,09:29:00,529.8,Banglore,New Delhi,14804
+2024-04-07,Air India,AI-401,Economy,09:33:00,2.0,15:59:00,760.2,Delhi,Cochin,13305
+2024-02-24,Go First,G8-2501,Economy,22:40:00,1.0,04:44:00,130.2,Delhi,Cochin,5801
+2024-07-30,Air India,AI-554,Business,08:55:00,0.0,22:15:00,625.2,Chennai,Kolkata,57074
+2024-07-02,Vistara,UK-879,Premium Economy,12:32:00,1.0,04:00:00,985.2,Delhi,Cochin,12262
+2024-02-06,Air India,AI-429,Business,18:37:00,0.0,21:05:00,750.0,Kolkata,Banglore,50969
+2024-11-28,Vistara,UK-819,Economy,21:48:00,2.0,21:00:00,364.8,Delhi,Cochin,8948
+2024-09-12,Vistara,UK-819,Business,17:19:00,2.0,17:53:00,450.0,Delhi,Cochin,65501
+2024-01-11,Go First,G8-334,Economy,23:18:00,1.0,16:02:00,130.2,Banglore,New Delhi,5899
+2024-05-05,Air Asia,I5-743,Economy,17:41:00,1.0,01:37:00,880.2,Kolkata,Banglore,6375
+2024-03-09,Vistara,UK-833,Business,15:32:00,1.0,04:30:00,409.8,Delhi,Cochin,51384
+2024-12-31,Vistara,UK-899,Business,09:29:00,0.0,18:12:00,505.2,Banglore,Delhi,55696
+2024-02-21,Air India,AI-560,Business,19:07:00,0.0,13:18:00,465.0,Mumbai,Hyderabad,41113
+2024-08-16,Vistara,UK-819,Business,18:05:00,0.0,07:22:00,364.8,Banglore,New Delhi,82010
+2024-07-14,Air India,AI-473,Business,01:01:00,1.0,06:45:00,1035.0,Banglore,New Delhi,39859
+2024-12-23,Vistara,UK-817,Premium Economy,05:42:00,1.0,07:07:00,1084.8,Delhi,Cochin,10638
+2024-10-02,Go First,G8-194,Economy,23:45:00,2.0,09:42:00,630.0,Delhi,Cochin,8740
+2024-04-19,Vistara,UK-707,Economy,11:46:00,0.0,11:27:00,364.8,Banglore,Delhi,17084
+2024-12-26,Vistara,UK-809,Premium Economy,22:06:00,0.0,22:24:00,1645.2,Banglore,Delhi,15863
+2024-03-28,Vistara,UK-737,Business,13:04:00,1.0,10:58:00,465.0,Delhi,Cochin,69113
+2024-12-15,Vistara,UK-637,Premium Economy,02:19:00,1.0,21:39:00,315.0,Delhi,Cochin,18366
+2024-03-22,Vistara,UK-829,Premium Economy,05:30:00,1.0,20:44:00,949.8,Delhi,Cochin,12822
+2024-12-05,Indigo,6E-2033,Economy,04:13:00,1.0,18:23:00,370.2,Kolkata,Banglore,5315
+2024-01-23,Air India,AI-805,First,03:37:00,2.0,11:16:00,130.2,Kolkata,Banglore,51443
+2024-02-13,Vistara,UK-943,Economy,08:30:00,0.0,10:50:00,130.2,Banglore,Delhi,8580
+2024-12-01,Air India,AI-537,Economy,11:38:00,1.0,12:49:00,364.8,Kolkata,Banglore,11646
+2024-04-07,Vistara,UK-801,Business,22:20:00,0.0,06:56:00,754.8,Kolkata,Banglore,91435
+2024-08-01,Air India,AI-605,Business,04:35:00,0.0,16:50:00,135.0,Banglore,Delhi,22152
+2024-09-17,Vistara,UK-879,Premium Economy,12:59:00,1.0,05:02:00,880.2,Delhi,Cochin,12168
+2024-01-12,Vistara,UK-955,Premium Economy,04:43:00,1.0,03:29:00,130.2,Delhi,Cochin,8622
+2024-10-24,Vistara,UK-829,Premium Economy,02:57:00,2.0,19:30:00,1600.2,Delhi,Cochin,12262
+2024-08-02,Air Asia,I5-743,Economy,13:03:00,1.0,16:04:00,490.2,Mumbai,Hyderabad,6375
+2024-02-16,Spicejet,SG-8169,Economy,17:36:00,1.0,15:42:00,124.80000000000001,Delhi,Cochin,5231
+2024-07-10,Vistara,UK-781,Business,20:57:00,2.0,22:44:00,1035.0,Delhi,Cochin,60985
+2024-06-10,Vistara,UK-959,Economy,06:52:00,2.0,02:42:00,735.0,Delhi,Cochin,9625
+2024-03-22,Air Asia,I5-1228,Economy,02:40:00,1.0,19:04:00,690.0,Kolkata,Banglore,6872
+2024-06-02,Vistara,UK-819,Economy,22:53:00,0.0,10:49:00,550.2,Chennai,Kolkata,11205
+2024-09-23,Vistara,UK-829,Premium Economy,07:19:00,3.0,11:59:00,949.8,Kolkata,Banglore,12822
+2024-06-30,Vistara,UK-637,Business,16:13:00,1.0,07:10:00,315.0,Kolkata,Banglore,40945
+2024-10-28,Vistara,UK-985,Economy,03:41:00,0.0,10:42:00,135.0,Mumbai,Hyderabad,6795
+2024-02-05,Air India,AI-815,Business,07:56:00,1.0,21:28:00,1020.0,Delhi,Cochin,53164
+2024-01-17,Vistara,UK-879,Premium Economy,10:23:00,2.0,18:40:00,880.2,Delhi,Cochin,19632
+2024-08-15,Vistara,UK-829,Business,05:15:00,0.0,15:06:00,435.0,Chennai,Kolkata,41281
+2024-09-11,Air India,AI-504,Economy,11:48:00,1.0,12:29:00,859.8,Delhi,Cochin,10932
+2024-07-17,Vistara,UK-839,Economy,01:02:00,0.0,19:22:00,529.8,Kolkata,Banglore,13904
+2024-04-30,Indigo,6E-6231,Economy,14:19:00,1.0,20:53:00,270.0,Kolkata,Banglore,13568
+2024-06-27,Indigo,6E-2033,Economy,20:30:00,0.0,00:19:00,495.0,Mumbai,Hyderabad,6331
+2024-03-15,Vistara,UK-813,Economy,11:20:00,1.0,23:20:00,349.8,Kolkata,Banglore,8948
+2024-03-31,Air India,AI-544,Economy,12:34:00,0.0,20:57:00,435.0,Chennai,Kolkata,10119
+2024-08-15,Indigo,6E-6232,Economy,04:29:00,0.0,13:22:00,520.2,Chennai,Kolkata,7825
+2024-09-11,Vistara,UK-981,Business,04:51:00,2.0,10:28:00,120.0,Banglore,New Delhi,30104
+2024-10-04,Air Asia,I5-740,Economy,06:41:00,0.0,01:50:00,649.8,Banglore,Delhi,4827
+2024-03-18,Go First,G8-336,Economy,19:47:00,2.0,11:14:00,130.2,Kolkata,Banglore,5899
+2024-03-28,Vistara,UK-969,Economy,06:38:00,0.0,13:30:00,735.0,Banglore,Delhi,22892
+2024-09-15,Vistara,UK-833,Economy,22:36:00,1.0,11:32:00,409.8,Delhi,Cochin,12079
+2024-11-07,Indigo,6E-6475,Economy,13:00:00,1.0,18:31:00,274.8,Banglore,New Delhi,6162
+2024-03-23,Vistara,UK-927,Business,00:58:00,1.0,19:18:00,124.80000000000001,Delhi,Cochin,22152
+2024-03-13,Indigo,6E-2033,Economy,08:10:00,1.0,21:52:00,495.0,Kolkata,Banglore,7674
+2024-06-22,Indigo,6E-2519,Economy,13:01:00,2.0,16:33:00,139.8,Delhi,Cochin,7319
+2024-07-12,Vistara,UK-819,Business,10:42:00,0.0,11:22:00,364.8,Chennai,Kolkata,68150
+2024-08-01,Air India,AI-512,Economy,00:03:00,1.0,07:05:00,855.0,Delhi,Cochin,7457
+2024-02-15,Air India,AI-813,Economy,04:43:00,0.0,15:44:00,810.0,Banglore,Delhi,12822
+2024-07-27,Vistara,UK-811,Economy,23:53:00,2.0,07:22:00,1065.0,Delhi,Cochin,8265
+2024-01-06,Vistara,UK-811,Premium Economy,03:20:00,2.0,13:57:00,880.2,Delhi,Cochin,11943
+2024-09-04,Vistara,UK-819,Premium Economy,17:18:00,1.0,18:26:00,364.8,Banglore,New Delhi,15678
+2024-02-02,Vistara,UK-811,Premium Economy,21:25:00,1.0,03:19:00,964.8,Kolkata,Banglore,18646
+2024-05-09,Vistara,UK-781,Business,06:39:00,1.0,02:03:00,409.8,Kolkata,Banglore,39870
+2024-08-23,Vistara,UK-929,Business,14:23:00,1.0,09:54:00,739.8,Kolkata,Banglore,30249
+2024-12-15,Air India,AI-803,Economy,00:53:00,1.0,13:43:00,1030.2,Delhi,Cochin,8202
+2024-10-12,Vistara,UK-855,Premium Economy,14:38:00,1.0,08:34:00,334.8,Delhi,Cochin,13046
+2024-07-27,Air India,AI-506,Economy,20:23:00,1.0,10:54:00,705.0,Banglore,New Delhi,7415
+2024-12-19,Go First,G8-237,Economy,05:33:00,1.0,20:09:00,585.0,Delhi,Cochin,6873
+2024-11-06,Vistara,UK-747,Economy,17:48:00,1.0,19:26:00,829.8,Kolkata,Banglore,17084
+2024-12-11,Go First,G8-2501,Economy,07:05:00,0.0,01:36:00,130.2,Banglore,Delhi,5801
+2024-01-14,Vistara,UK-993,Economy,05:42:00,0.0,16:12:00,130.2,Banglore,Delhi,5955
+2024-10-31,Air India,AI-814,Business,00:34:00,0.0,07:27:00,135.0,Mumbai,Hyderabad,22152
+2024-08-18,Go First,G8-113,Economy,20:45:00,1.0,19:27:00,889.8,Kolkata,Banglore,6873
+2024-02-25,Air India,AI-429,Economy,14:19:00,1.0,23:28:00,750.0,Kolkata,Banglore,12276
+2024-02-16,Vistara,UK-951,Premium Economy,21:34:00,1.0,06:16:00,130.2,Kolkata,Banglore,22286
+2024-11-09,Vistara,UK-637,Premium Economy,13:43:00,1.0,12:48:00,315.0,Kolkata,Banglore,12486
+2024-10-21,Indigo,6E-5345,Economy,14:32:00,1.0,21:32:00,544.8,Delhi,Cochin,6810
+2024-02-26,Air India,AI-502,Business,13:59:00,1.0,23:58:00,480.0,Delhi,Cochin,76169
+2024-12-13,Vistara,UK-859,Economy,03:50:00,1.0,16:17:00,760.2,Kolkata,Banglore,10418
+2024-02-21,Vistara,UK-977,Premium Economy,19:05:00,2.0,06:50:00,135.0,Delhi,Cochin,11646
+2024-02-25,Indigo,6E-2216,Economy,00:43:00,1.0,03:57:00,505.2,Delhi,Cochin,12779
+2024-11-27,Air India,AI-833,Business,07:44:00,2.0,11:16:00,1050.0,Delhi,Cochin,50109
+2024-02-06,Indigo,6E-5218,Economy,18:03:00,2.0,06:24:00,135.0,Delhi,Cochin,5794
+2024-01-21,Air India,AI-636,Economy,22:35:00,0.0,23:05:00,225.0,Kolkata,Banglore,6480
+2024-06-22,Vistara,UK-943,Premium Economy,15:29:00,1.0,21:58:00,130.2,Delhi,Cochin,11646
+2024-02-25,Air India,AI-807,Business,18:50:00,1.0,18:17:00,934.8,Kolkata,Banglore,53164
+2024-07-30,Vistara,UK-979,Premium Economy,08:19:00,2.0,08:19:00,1215.0,Delhi,Cochin,15992
+2024-01-24,Air India,AI-605,Economy,05:46:00,1.0,16:59:00,135.0,Banglore,New Delhi,5955
+2024-02-28,Indigo,AI-560,Economy,07:26:00,2.0,01:00:00,390.0,Delhi,Cochin,9600
+2024-12-18,Vistara,UK-871,Premium Economy,01:44:00,2.0,04:42:00,1075.2,Delhi,Cochin,12168
+2024-07-18,Vistara,UK-706,Economy,08:19:00,0.0,15:57:00,495.0,Banglore,Delhi,11415
+2024-03-26,Vistara,UK-833,Economy,07:23:00,1.0,15:49:00,889.8,Delhi,Cochin,11008
+2024-09-17,Vistara,UK-969,Business,20:19:00,1.0,05:11:00,940.2,Delhi,Cochin,30249
+2024-05-02,Vistara,UK-809,Economy,16:41:00,1.0,00:10:00,745.2,Banglore,New Delhi,10433
+2024-08-26,Vistara,UK-837,Premium Economy,08:17:00,1.0,00:53:00,1090.2,Kolkata,Banglore,13254
+2024-01-12,Vistara,UK-811,Premium Economy,14:22:00,1.0,19:58:00,349.8,Delhi,Cochin,18646
+2024-07-16,Air India,AI-839,Economy,22:30:00,2.0,19:15:00,1045.2,Delhi,Cochin,7704
+2024-08-12,Vistara,UK-747,Economy,08:28:00,0.0,09:39:00,829.8,Banglore,Delhi,14670
+2024-07-19,Go First,G8-237,Economy,21:30:00,0.0,10:06:00,585.0,Banglore,New Delhi,6007
+2024-10-05,Go First,G8-119,Economy,11:53:00,0.0,05:21:00,874.8,Chennai,Kolkata,6007
+2024-04-28,Air Asia,I5-1228,Economy,13:07:00,1.0,07:48:00,690.0,Delhi,Cochin,6375
+2024-07-07,Vistara,UK-819,Premium Economy,22:35:00,0.0,10:24:00,390.0,Banglore,Delhi,29415
+2024-01-21,Air India,AI-560,Business,21:25:00,0.0,16:25:00,1015.2,Banglore,Delhi,41113
+2024-08-16,Vistara,UK-969,Business,07:59:00,2.0,22:55:00,735.0,Kolkata,Banglore,30249
+2024-12-07,Vistara,UK-899,Business,19:32:00,1.0,14:54:00,1050.0,Kolkata,Banglore,41281
+2024-06-03,Indigo,6E-2016,Economy,17:02:00,1.0,03:40:00,135.0,Kolkata,Banglore,7319
+2024-06-18,Air Asia,I5-857,Economy,15:15:00,1.0,16:10:00,334.8,Kolkata,Banglore,4827
+2024-07-24,Air India,AI-803,Economy,17:22:00,1.0,16:53:00,1030.2,Delhi,Cochin,7415
+2024-08-29,Air India,AI-815,Business,09:31:00,1.0,08:28:00,1020.0,Delhi,Cochin,53164
+2024-12-25,Air India,AI-540,Business,03:45:00,1.0,12:45:00,1534.8,Delhi,Cochin,50969
+2024-07-21,Vistara,UK-859,Economy,07:55:00,1.0,21:12:00,760.2,Delhi,Cochin,16035
+2024-11-01,Go First,G8-119,Economy,05:39:00,2.0,16:46:00,874.8,Kolkata,Banglore,6007
+2024-04-26,Indigo,6E-2505,Economy,08:47:00,0.0,13:07:00,139.8,Chennai,Kolkata,7319
+2024-02-24,Air India,AI-439,Economy,13:07:00,0.0,03:46:00,1075.2,Mumbai,Hyderabad,10281
+2024-06-28,Vistara,UK-627,Business,17:02:00,2.0,10:44:00,1485.0,Delhi,Cochin,37417
+2024-02-11,Vistara,UK-951,Economy,00:01:00,0.0,22:14:00,130.2,Banglore,Delhi,19080
+2024-02-29,Vistara,UK-951,Business,04:10:00,0.0,19:52:00,130.2,Banglore,New Delhi,41528
+2024-08-01,Air India,AI-502,Economy,09:08:00,1.0,15:42:00,589.8,Delhi,Cochin,8297
+2024-06-20,Indigo,6E-6475,Economy,10:06:00,0.0,18:03:00,274.8,Kolkata,Banglore,7275
+2024-11-25,Vistara,UK-635,Premium Economy,20:25:00,1.0,05:44:00,289.8,Delhi,Cochin,25120
+2024-09-21,Air India,AI-624,Business,15:25:00,1.0,14:55:00,145.2,Kolkata,Banglore,22152
+2024-09-14,Air Asia,I5-740,Economy,23:56:00,0.0,14:21:00,990.0,Banglore,Delhi,6872
+2024-01-06,Indigo,6E-6201,Economy,22:06:00,1.0,20:21:00,295.2,Kolkata,Banglore,6473
+2024-12-07,Air India,AI-504,Economy,08:35:00,0.0,17:48:00,1459.8,Kolkata,Banglore,7940
+2024-07-04,Vistara,UK-975,Business,19:32:00,2.0,06:17:00,135.0,Kolkata,Banglore,22152
+2024-09-28,Air India,AI-537,Business,10:17:00,2.0,21:11:00,364.8,Delhi,Cochin,50969
+2024-03-25,Vistara,UK-819,Business,09:24:00,2.0,23:19:00,550.2,Delhi,Cochin,72938
+2024-03-11,Vistara,UK-969,Economy,17:30:00,0.0,11:42:00,735.0,Kolkata,Banglore,6979
+2024-07-01,Air India,AI-487,Economy,02:17:00,1.0,07:12:00,655.2,Delhi,Cochin,12707
+2024-11-13,Indigo,UK-837,Economy,07:16:00,1.0,20:26:00,270.0,Kolkata,Banglore,12254
+2024-08-19,Air Asia,I5-743,Economy,01:51:00,1.0,13:00:00,880.2,Delhi,Cochin,5291
+2024-05-25,Go First,G8-717,Economy,12:01:00,1.0,09:04:00,300.0,Kolkata,Banglore,4093
+2024-12-28,Vistara,UK-819,Premium Economy,21:06:00,1.0,12:30:00,390.0,Delhi,Cochin,21407
+2024-03-08,Vistara,UK-929,Business,12:40:00,1.0,19:42:00,1285.2,Delhi,Cochin,22297
+2024-07-06,Vistara,UK-951,Premium Economy,20:31:00,1.0,13:17:00,130.2,Kolkata,Banglore,7278
+2024-07-15,Go First,G8-713,Economy,01:10:00,1.0,14:22:00,859.8,Delhi,Cochin,5155
+2024-01-03,Vistara,UK-879,Business,03:21:00,1.0,08:33:00,985.2,Delhi,Cochin,41281
+2024-02-09,Air India,AI-441,Business,07:24:00,0.0,04:00:00,145.2,Mumbai,Hyderabad,22152
+2024-12-14,Vistara,UK-879,Economy,08:55:00,1.0,09:41:00,880.2,Delhi,Cochin,12044
+2024-03-15,Vistara,UK-879,Economy,17:43:00,1.0,15:22:00,334.8,Delhi,Cochin,9840
+2024-05-19,Air Asia,I5-740,Economy,19:52:00,2.0,09:15:00,769.8,Delhi,Cochin,6872
+2024-08-22,Indigo,6E-2216,Economy,16:41:00,1.0,02:02:00,505.2,Kolkata,Banglore,13357
+2024-11-18,Indigo,6E-6022,Economy,23:20:00,1.0,23:28:00,330.0,Delhi,Cochin,8999
+2024-07-18,Air Asia,I5-798,Economy,15:29:00,1.0,10:24:00,814.8,Kolkata,Banglore,6375
+2024-10-17,Vistara,UK-819,Business,05:37:00,0.0,20:27:00,364.8,Mumbai,Hyderabad,60601
+2024-03-14,Vistara,UK-929,Business,09:08:00,0.0,23:25:00,535.2,Banglore,New Delhi,22297
+2024-04-12,Vistara,UK-955,Economy,06:13:00,0.0,23:36:00,130.2,Banglore,Delhi,7635
+2024-04-15,Air India,AI-883,Economy,00:24:00,1.0,12:08:00,1579.8,Mumbai,Hyderabad,9349
+2024-06-30,Vistara,UK-815,Business,10:43:00,2.0,14:53:00,724.8,Delhi,Cochin,83886
+2024-04-15,Vistara,UK-975,Business,12:15:00,0.0,19:43:00,135.0,Mumbai,Hyderabad,49020
+2024-08-31,Air India,AI-502,Business,23:15:00,1.0,13:27:00,480.0,Kolkata,Banglore,53164
+2024-08-27,Air Asia,I5-773,Economy,09:36:00,0.0,09:52:00,379.8,Mumbai,Hyderabad,6375
+2024-11-20,Air Asia,I5-857,Economy,15:01:00,1.0,03:05:00,334.8,Delhi,Cochin,6375
+2024-06-04,Air India,AI-471,Economy,23:06:00,0.0,16:21:00,289.8,Delhi,Cochin,11625
+2024-05-28,Indigo,6E-2017,Economy,23:14:00,1.0,17:48:00,130.2,Delhi,Cochin,7319
+2024-11-18,Vistara,UK-785,Business,01:36:00,1.0,13:26:00,1690.2,Kolkata,Banglore,39870
+2024-07-25,Vistara,UK-819,Premium Economy,23:19:00,2.0,03:21:00,390.0,Delhi,Cochin,14558
+2024-08-26,Air India,AI-813,Economy,12:02:00,2.0,16:04:00,1650.0,Delhi,Cochin,10932
+2024-10-06,Vistara,UK-635,Premium Economy,01:16:00,0.0,03:18:00,1624.8,Banglore,Delhi,10526
+2024-10-26,Vistara,UK-879,Premium Economy,00:01:00,1.0,10:19:00,880.2,Delhi,Cochin,15118
+2024-10-04,Air India,AI-425,Business,04:57:00,1.0,15:32:00,1620.0,Banglore,New Delhi,42622
+2024-12-28,Air India,AI-560,Business,11:46:00,0.0,21:08:00,465.0,Banglore,Delhi,41113
+2024-12-08,Indigo,6E-5218,Economy,23:32:00,1.0,13:03:00,135.0,Kolkata,Banglore,6277
+2024-05-29,Go First,G8-334,Economy,11:18:00,2.0,15:30:00,130.2,Delhi,Cochin,5899
+2024-12-01,Go First,G8-530,Economy,04:48:00,1.0,02:04:00,130.2,Kolkata,Banglore,5899
+2024-05-11,Vistara,UK-829,Economy,08:46:00,0.0,09:02:00,1495.2,Delhi,Cochin,9840
+2024-02-27,Vistara,UK-957,Economy,17:48:00,0.0,20:05:00,135.0,Delhi,Cochin,5955
+2024-07-08,Vistara,UK-859,Premium Economy,21:15:00,1.0,04:36:00,1410.0,Delhi,Cochin,12262
+2024-06-27,Air India,AI-537,Economy,19:25:00,1.0,16:25:00,364.8,Delhi,Cochin,8958
+2024-09-14,Air India,AI-435,Economy,20:52:00,1.0,02:54:00,505.2,Delhi,Cochin,8337
+2024-05-08,Vistara,UK-817,Premium Economy,04:24:00,1.0,10:25:00,435.0,Delhi,Cochin,10638
+2024-04-17,Air Asia,I5-740,Economy,07:24:00,0.0,11:25:00,990.0,Banglore,Delhi,6872
+2024-07-06,Air India,AI-560,Business,16:27:00,1.0,10:19:00,1015.2,Delhi,Cochin,41113
+2024-04-23,Indigo,6E-902,Economy,16:41:00,2.0,03:24:00,375.0,Delhi,Cochin,9734
+2024-04-11,Vistara,UK-969,Business,23:04:00,0.0,01:51:00,940.2,Mumbai,Hyderabad,30249
+2024-06-07,Vistara,UK-815,Business,17:12:00,1.0,18:00:00,724.8,Kolkata,Banglore,60601
+2024-01-06,Air India,AI-815,Economy,19:48:00,1.0,06:01:00,355.2,Delhi,Cochin,7194
+2024-01-30,Vistara,UK-813,Economy,16:27:00,0.0,18:30:00,349.8,Banglore,Delhi,10838
+2024-04-04,Go First,G8-203,Economy,16:07:00,1.0,19:13:00,574.8,Delhi,Cochin,6873
+2024-06-29,Air India,AI-463,Business,23:28:00,0.0,12:49:00,1660.2,Banglore,Delhi,35532
+2024-04-12,Air Asia,I5-857,Economy,06:49:00,1.0,02:50:00,334.8,Kolkata,Banglore,6872
+2024-02-12,Indigo,UK-807,Economy,07:01:00,1.0,19:43:00,390.0,Delhi,Cochin,8949
+2024-06-23,Vistara,UK-929,Premium Economy,22:56:00,1.0,22:44:00,739.8,Delhi,Cochin,11288
+2024-08-17,Air India,AI-451,Business,15:34:00,0.0,09:02:00,1545.0,Kolkata,Banglore,39622
+2024-05-24,Go First,G8-101,Economy,13:35:00,0.0,14:34:00,825.0,Kolkata,Banglore,14502
+2024-07-18,Vistara,UK-787,Business,22:55:00,0.0,05:26:00,859.8,Delhi,Cochin,39870
+2024-07-26,Go First,G8-286,Economy,09:30:00,1.0,01:16:00,514.8,Delhi,Cochin,9267
+2024-08-20,Air India,AI-554,Business,04:23:00,1.0,16:40:00,709.8,Delhi,Cochin,50969
+2024-08-19,Vistara,UK-781,Business,23:08:00,0.0,15:33:00,409.8,Kolkata,Banglore,39870
+2024-02-23,Vistara,UK-969,Business,05:27:00,0.0,22:37:00,1485.0,Mumbai,Hyderabad,30249
+2024-08-02,Vistara,UK-819,Economy,23:40:00,0.0,17:50:00,550.2,Banglore,Delhi,11888
+2024-03-06,Air Asia,I5-773,Economy,04:46:00,0.0,03:58:00,379.8,Kolkata,Banglore,14486
+2024-08-17,Indigo,6E-5218,Economy,11:15:00,1.0,20:16:00,135.0,Delhi,Cochin,6374
+2024-12-11,Air India,AI-439,Economy,14:33:00,1.0,23:31:00,694.8,Kolkata,Banglore,9609
+2024-09-11,Air India,AI-475,Business,11:39:00,2.0,08:19:00,1489.8,Delhi,Cochin,29805
+2024-02-20,Vistara,UK-833,Premium Economy,22:08:00,1.0,20:16:00,889.8,Kolkata,Banglore,17448
+2024-04-13,Vistara,UK-637,Business,15:13:00,0.0,09:26:00,315.0,Mumbai,Hyderabad,36577
+2024-07-25,Vistara,UK-855,Premium Economy,09:17:00,1.0,21:45:00,334.8,Banglore,New Delhi,17582
+2024-11-19,Vistara,UK-879,Economy,10:15:00,1.0,23:48:00,880.2,Kolkata,Banglore,12044
+2024-07-26,Vistara,UK-977,Premium Economy,21:45:00,2.0,13:34:00,135.0,Kolkata,Banglore,7278
+2024-03-01,Vistara,UK-977,Premium Economy,15:37:00,0.0,00:53:00,135.0,Banglore,Delhi,15846
+2024-02-08,Vistara,UK-706,Business,19:25:00,2.0,20:38:00,495.0,Delhi,Cochin,40945
+2024-10-27,Spicejet,SG-2976,Economy,11:19:00,0.0,13:11:00,859.8,Mumbai,Hyderabad,6384
+2024-12-19,Spicejet,SG-8709,Economy,22:17:00,1.0,02:18:00,124.80000000000001,Kolkata,Banglore,5794
+2024-12-04,Vistara,UK-927,Premium Economy,22:28:00,1.0,17:22:00,124.80000000000001,Delhi,Cochin,7838
+2024-08-21,Air India,AI-401,Business,19:48:00,1.0,11:01:00,820.2,Delhi,Cochin,59033
+2024-02-07,Go First,G8-717,Economy,22:32:00,1.0,10:27:00,300.0,Kolkata,Banglore,5817
+2024-12-25,Air India,AI-544,Business,23:53:00,1.0,05:52:00,435.0,Delhi,Cochin,41113
+2024-02-18,Vistara,UK-819,Economy,19:52:00,2.0,10:29:00,390.0,Delhi,Cochin,23312
+2024-07-17,Indigo,6E-5218,Economy,20:57:00,0.0,09:37:00,135.0,Chennai,Kolkata,6374
+2024-11-18,Indigo,6E-6187,Economy,10:07:00,1.0,10:10:00,285.0,Kolkata,Banglore,7928
+2024-08-27,Vistara,UK-859,Business,08:35:00,1.0,23:54:00,1305.0,Delhi,Cochin,41281
+2024-05-25,Vistara,UK-835,Economy,12:20:00,1.0,07:03:00,769.8,Delhi,Cochin,12518
+2024-08-01,Vistara,UK-995,Business,11:02:00,0.0,09:45:00,135.0,Banglore,Delhi,22152
+2024-10-17,Air India,AI-887,Business,08:44:00,0.0,09:36:00,135.0,Chennai,Kolkata,22152
+2024-08-23,Air India,AI-544,Business,02:18:00,2.0,11:24:00,1324.8,Delhi,Cochin,41113
+2024-02-03,Indigo,6E-2033,Economy,02:29:00,0.0,20:50:00,370.2,Kolkata,Banglore,5367
+2024-03-10,Vistara,UK-879,Business,03:49:00,1.0,18:03:00,985.2,Delhi,Cochin,41281
+2024-06-14,Vistara,UK-809,Business,10:58:00,1.0,14:23:00,745.2,Kolkata,Banglore,93798
+2024-10-25,Air India,AI-815,Business,07:45:00,1.0,04:05:00,1020.0,Delhi,Cochin,53164
+2024-08-13,Vistara,UK-819,Economy,10:06:00,1.0,23:43:00,450.0,Banglore,New Delhi,15090
+2024-11-28,Air India,AI-865,Economy,10:32:00,1.0,04:55:00,145.2,Delhi,Cochin,5955
+2024-02-26,Vistara,UK-787,Business,01:42:00,1.0,19:16:00,1485.0,Delhi,Cochin,39870
+2024-11-23,Air India,AI-544,Economy,13:28:00,2.0,10:31:00,1324.8,Delhi,Cochin,9489
+2024-03-20,Vistara,UK-929,Economy,15:58:00,2.0,02:47:00,739.8,Kolkata,Banglore,14914
+2024-08-30,Air Asia,I5-773,Economy,01:09:00,1.0,03:02:00,379.8,Kolkata,Banglore,6375
+2024-04-24,Vistara,UK-979,Business,20:27:00,1.0,10:48:00,1009.8,Delhi,Cochin,22297
+2024-05-20,Air India,AI-439,Economy,00:40:00,0.0,00:48:00,694.8,Delhi,Cochin,14880
+2024-01-19,Vistara,UK-899,Economy,02:34:00,1.0,04:40:00,505.2,Delhi,Cochin,21632
+2024-09-16,Air India,AI-471,Economy,12:25:00,0.0,16:34:00,289.8,Kolkata,Banglore,10470
+2024-02-29,Air India,AI-512,Economy,14:28:00,0.0,18:02:00,790.2,Chennai,Kolkata,7415
+2024-07-03,Air Asia,I5-1228,Economy,10:01:00,1.0,07:33:00,910.2,Kolkata,Banglore,6375
+2024-03-31,Vistara,UK-813,Premium Economy,04:59:00,0.0,20:39:00,349.8,Chennai,Kolkata,11943
+2024-03-18,Vistara,UK-969,Economy,16:28:00,1.0,23:30:00,940.2,Delhi,Cochin,11730
+2024-11-28,Vistara,UK-975,Economy,12:44:00,1.0,09:48:00,135.0,Delhi,Cochin,5955
+2024-04-04,Vistara,UK-871,Premium Economy,15:33:00,0.0,06:21:00,694.8,Delhi,Cochin,19632
+2024-04-21,Go First,G8-286,Economy,08:56:00,1.0,16:00:00,859.8,Delhi,Cochin,14985
+2024-02-16,Air India,AI-537,Economy,20:36:00,1.0,23:16:00,1069.8,Delhi,Cochin,9630
+2024-09-04,Vistara,UK-635,Business,04:27:00,0.0,19:16:00,289.8,Mumbai,Hyderabad,37417
+2024-08-20,Vistara,UK-781,Economy,05:26:00,1.0,14:40:00,1035.0,Delhi,Cochin,14618
+2024-04-20,Vistara,UK-945,Business,15:40:00,0.0,20:49:00,135.0,Banglore,New Delhi,30104
+2024-04-14,Vistara,UK-979,Business,08:17:00,1.0,11:38:00,319.8,Kolkata,Banglore,37193
+2024-05-08,Vistara,UK-813,Premium Economy,07:21:00,0.0,07:09:00,889.8,Delhi,Cochin,10638
+2024-02-25,Air India,AI-833,Business,18:28:00,1.0,08:23:00,1050.0,Delhi,Cochin,60189
+2024-12-31,Go First,G8-346,Economy,03:47:00,1.0,13:31:00,124.80000000000001,Delhi,Cochin,5899
+2024-08-17,Indigo,6E-6492,Economy,08:34:00,1.0,13:03:00,400.2,Delhi,Cochin,7588
+2024-08-24,Vistara,UK-879,Economy,03:50:00,2.0,21:24:00,334.8,Kolkata,Banglore,19668
+2024-08-16,Vistara,UK-879,Premium Economy,15:40:00,0.0,04:41:00,1260.0,Banglore,Delhi,15118
+2024-08-04,Indigo,6E-2017,Economy,07:19:00,1.0,16:27:00,130.2,Kolkata,Banglore,6164
+2024-06-29,Vistara,UK-837,Business,07:11:00,1.0,03:16:00,1090.2,Delhi,Cochin,72070
+2024-06-22,Vistara,UK-635,Premium Economy,17:24:00,0.0,07:32:00,1624.8,Kolkata,Banglore,13998
+2024-05-12,Vistara,UK-899,Economy,03:17:00,0.0,00:36:00,505.2,Kolkata,Banglore,24960
+2024-03-12,Vistara,UK-811,Premium Economy,10:47:00,1.0,16:14:00,349.8,Kolkata,Banglore,29415
+2024-03-01,Indigo,6E-2204,Economy,20:33:00,1.0,07:42:00,415.2,Delhi,Cochin,12412
+2024-04-29,Vistara,UK-963,Business,01:56:00,1.0,10:35:00,139.8,Delhi,Cochin,49020
+2024-01-10,Vistara,UK-627,Economy,18:26:00,0.0,06:03:00,1485.0,Delhi,Cochin,8055
+2024-02-29,Indigo,6E-2519,Economy,17:08:00,1.0,01:30:00,139.8,Kolkata,Banglore,6374
+2024-07-05,Vistara,UK-859,Business,11:40:00,1.0,07:21:00,760.2,Delhi,Cochin,59571
+2024-02-17,Air India,AI-805,Economy,20:42:00,0.0,19:47:00,130.2,Chennai,Kolkata,7320
+2024-10-01,Vistara,UK-969,Premium Economy,09:28:00,1.0,02:01:00,940.2,Delhi,Cochin,15992
+2024-04-08,Air India,AI-544,Economy,11:02:00,1.0,00:43:00,1024.8,Kolkata,Banglore,9489
+2024-11-14,Indigo,AI-403,Economy,07:56:00,1.0,12:37:00,570.0,Delhi,Cochin,9394
+2024-07-22,Air Asia,I5-773,Economy,20:23:00,1.0,03:03:00,379.8,Delhi,Cochin,6872
+2024-06-01,Vistara,UK-969,Business,04:39:00,0.0,19:16:00,735.0,Kolkata,Banglore,30249
+2024-09-07,Vistara,UK-829,Economy,16:49:00,0.0,05:17:00,435.0,Banglore,Delhi,10628
+2024-12-10,Indigo,6E-2117,Economy,23:29:00,0.0,23:07:00,300.0,Banglore,Delhi,6417
+2024-11-25,Vistara,UK-859,Economy,08:14:00,1.0,08:00:00,385.2,Delhi,Cochin,10418
+2024-07-06,Air India,AI-636,Economy,19:31:00,1.0,09:22:00,225.0,Delhi,Cochin,6480
+2024-10-04,Vistara,UK-871,Premium Economy,13:34:00,0.0,01:41:00,694.8,Chennai,Kolkata,28793
+2024-07-02,Vistara,UK-963,Economy,12:26:00,1.0,17:32:00,139.8,Banglore,New Delhi,8580
+2024-01-19,Air India,AI-544,Economy,06:52:00,2.0,11:29:00,1024.8,Delhi,Cochin,9489
+2024-10-17,Air India,AI-805,First,14:10:00,1.0,11:18:00,130.2,Kolkata,Banglore,51443
+2024-09-07,Vistara,UK-819,Business,10:31:00,0.0,14:22:00,450.0,Kolkata,Banglore,68150
+2024-03-18,Vistara,UK-929,Economy,05:25:00,0.0,11:36:00,535.2,Banglore,Delhi,18765
+2024-02-15,Vistara,UK-811,Premium Economy,19:41:00,0.0,15:54:00,1605.0,Mumbai,Hyderabad,10823
+2024-08-31,Air India,AI-504,Economy,19:17:00,0.0,21:39:00,859.8,Kolkata,Banglore,8740
+2024-06-29,Vistara,UK-673,Business,21:21:00,1.0,16:42:00,310.2,Kolkata,Banglore,50577
+2024-07-19,Vistara,UK-819,Business,20:57:00,1.0,02:26:00,364.8,Kolkata,Banglore,96223
+2024-06-19,Vistara,UK-855,Premium Economy,08:14:00,1.0,05:09:00,1204.8,Kolkata,Banglore,16742
+2024-05-11,Vistara,UK-981,Economy,04:42:00,1.0,17:57:00,120.0,Kolkata,Banglore,7320
+2024-05-28,Indigo,6E-6201,Economy,09:50:00,0.0,17:48:00,295.2,Banglore,Delhi,12009
+2024-03-16,Vistara,UK-955,Premium Economy,21:19:00,0.0,07:26:00,130.2,Banglore,Delhi,7838
+2024-09-03,Vistara,UK-957,Economy,08:46:00,0.0,15:20:00,135.0,Mumbai,Hyderabad,7320
+2024-07-02,Vistara,UK-811,Premium Economy,08:01:00,1.0,16:17:00,349.8,Delhi,Cochin,18646
+2024-08-23,Indigo,6E-902,Economy,02:46:00,2.0,19:33:00,375.0,Delhi,Cochin,8369
+2024-06-01,Vistara,UK-981,Economy,09:49:00,0.0,07:44:00,120.0,Chennai,Kolkata,8580
+2024-04-18,Vistara,UK-929,Business,20:27:00,1.0,21:41:00,739.8,Delhi,Cochin,30249
+2024-09-06,Vistara,UK-981,Business,11:52:00,2.0,02:39:00,120.0,Delhi,Cochin,30104
+2024-10-26,Air India,AI-453,Economy,16:59:00,1.0,18:48:00,775.2,Delhi,Cochin,9664
+2024-03-04,Air India,AI-885,Economy,02:22:00,1.0,05:47:00,355.2,Banglore,New Delhi,12990
+2024-11-08,Air India,AI-542,Economy,23:56:00,1.0,13:01:00,310.2,Delhi,Cochin,12045
+2024-06-28,Air India,AI-473,Business,08:59:00,1.0,02:54:00,1035.0,Kolkata,Banglore,39859
+2024-11-11,Go First,G8-237,Economy,18:24:00,1.0,13:58:00,585.0,Kolkata,Banglore,6007
+2024-01-07,Air India,AI-883,Economy,04:43:00,1.0,10:07:00,1579.8,Delhi,Cochin,8614
+2024-10-21,Vistara,UK-969,Economy,10:57:00,0.0,21:36:00,940.2,Banglore,Delhi,8717
+2024-02-25,Air India,AI-542,Business,08:55:00,1.0,09:19:00,859.8,Kolkata,Banglore,41113
+2024-01-07,Vistara,UK-807,Economy,01:07:00,0.0,09:42:00,985.2,Banglore,Delhi,9263
+2024-02-02,Air Asia,I5-743,Economy,22:48:00,2.0,08:00:00,355.2,Kolkata,Banglore,5291
+2024-03-14,Vistara,UK-839,Premium Economy,17:13:00,0.0,13:15:00,529.8,Chennai,Kolkata,13814
+2024-01-13,Vistara,UK-957,Economy,09:08:00,1.0,13:03:00,135.0,Delhi,Cochin,5955
+2024-09-05,Vistara,UK-627,Economy,18:30:00,0.0,07:35:00,1485.0,Kolkata,Banglore,8265
+2024-02-02,Vistara,UK-899,Premium Economy,02:25:00,1.0,02:10:00,1429.8,Kolkata,Banglore,12168
+2024-01-17,Air Asia,I5-779,Economy,02:44:00,2.0,19:19:00,544.8,Delhi,Cochin,12066
+2024-05-12,Go First,G8-101,Economy,15:17:00,0.0,09:44:00,934.8,Banglore,Delhi,6007
+2024-10-20,Vistara,UK-801,Business,01:02:00,1.0,21:06:00,694.8,Delhi,Cochin,96223
+2024-08-28,Air Asia,I5-745,Economy,11:35:00,1.0,17:23:00,400.2,Kolkata,Banglore,6872
+2024-06-12,Vistara,UK-879,Business,23:00:00,0.0,23:09:00,334.8,Chennai,Kolkata,55696
+2024-04-21,Go First,G8-330,Economy,23:46:00,1.0,09:11:00,135.0,Delhi,Cochin,5801
+2024-11-30,Air Asia,I5-740,Economy,23:00:00,2.0,08:49:00,990.0,Delhi,Cochin,6872
+2024-10-31,Vistara,UK-855,Business,05:10:00,1.0,10:40:00,334.8,Delhi,Cochin,48225
+2024-05-11,Indigo,UK-637,Economy,07:25:00,0.0,03:46:00,570.0,Chennai,Kolkata,9200
+2024-04-23,Vistara,UK-979,Business,10:22:00,1.0,19:33:00,319.8,Kolkata,Banglore,37193
+2024-06-10,Air Asia,I5-711,Economy,06:33:00,2.0,00:58:00,915.0,Banglore,New Delhi,11818
+2024-10-22,Air India,AI-451,Business,17:12:00,1.0,16:38:00,1545.0,Delhi,Cochin,39622
+2024-12-17,Vistara,UK-855,Business,18:36:00,1.0,08:13:00,334.8,Kolkata,Banglore,55584
+2024-04-21,Go First,G8-334,Economy,11:12:00,0.0,06:05:00,130.2,Mumbai,Hyderabad,5899
+2024-04-17,Vistara,UK-927,Business,04:15:00,0.0,19:32:00,124.80000000000001,Mumbai,Hyderabad,30104
+2024-10-09,Vistara,UK-819,Premium Economy,23:53:00,0.0,12:59:00,450.0,Banglore,Delhi,14743
+2024-12-16,Vistara,UK-929,Economy,17:25:00,1.0,18:42:00,535.2,Delhi,Cochin,9872
+2024-03-01,Vistara,UK-819,Premium Economy,17:46:00,1.0,16:33:00,550.2,Kolkata,Banglore,15863
+2024-03-20,Vistara,UK-707,Economy,14:36:00,1.0,12:47:00,364.8,Delhi,Cochin,16140
+2024-08-16,Vistara,UK-943,Business,18:27:00,0.0,03:24:00,130.2,Mumbai,Hyderabad,30104
+2024-05-31,Vistara,UK-815,Premium Economy,03:26:00,0.0,14:08:00,810.0,Banglore,Delhi,10638
+2024-12-09,Air India,AI-479,Business,17:38:00,1.0,06:25:00,1240.2,Delhi,Cochin,42252
+2024-03-19,Air India,AI-439,Business,21:55:00,2.0,22:33:00,694.8,Delhi,Cochin,63065
+2024-11-02,Vistara,UK-959,Economy,10:15:00,1.0,08:31:00,1425.0,Delhi,Cochin,6979
+2024-08-25,Vistara,UK-835,Economy,19:20:00,1.0,01:29:00,769.8,Delhi,Cochin,12079
+2024-10-30,Air India,AI-803,Business,21:13:00,1.0,17:24:00,919.8,Delhi,Cochin,53164
+2024-07-07,Vistara,UK-855,Economy,18:41:00,0.0,08:06:00,915.0,Kolkata,Banglore,15615
+2024-05-11,Air Asia,I5-779,Economy,05:16:00,1.0,22:43:00,544.8,Kolkata,Banglore,11020
+2024-12-02,Go First,G8-323,Economy,07:36:00,1.0,12:19:00,130.2,Kolkata,Banglore,5899
+2024-09-17,Air India,AI-554,Economy,12:33:00,1.0,08:56:00,709.8,Delhi,Cochin,9609
+2024-08-28,Air India,AI-678,Business,12:01:00,0.0,08:31:00,139.8,Mumbai,Hyderabad,22152
+2024-03-14,Vistara,UK-801,Economy,15:03:00,1.0,08:18:00,670.2,Delhi,Cochin,11310
+2024-06-10,Go First,G8-194,Economy,06:53:00,1.0,03:09:00,630.0,Delhi,Cochin,24597
+2024-06-29,Vistara,UK-969,Economy,12:00:00,2.0,16:08:00,735.0,Delhi,Cochin,6506
+2024-03-30,Air India,AI-487,Business,20:36:00,1.0,12:20:00,655.2,Kolkata,Banglore,39622
+2024-08-06,Vistara,UK-829,Economy,06:34:00,2.0,20:32:00,574.8,Delhi,Cochin,10313
+2024-07-08,Vistara,UK-959,Economy,05:47:00,0.0,01:06:00,735.0,Banglore,Delhi,11567
+2024-01-04,Air India,AI-512,Economy,12:49:00,1.0,08:11:00,790.2,Delhi,Cochin,9357
+2024-08-01,Vistara,UK-879,Economy,14:38:00,1.0,22:18:00,334.8,Kolkata,Banglore,13830
+2024-12-19,Air India,AI-429,Economy,07:26:00,2.0,05:59:00,454.8,Delhi,Cochin,10281
+2024-04-21,Air Asia,I5-745,Economy,14:14:00,1.0,16:31:00,400.2,Delhi,Cochin,4827
+2024-05-18,Vistara,UK-815,Business,23:15:00,1.0,22:49:00,724.8,Delhi,Cochin,72938
+2024-07-25,Air India,AI-435,Economy,18:26:00,2.0,23:13:00,505.2,Delhi,Cochin,8337
+2024-11-30,Vistara,UK-969,Premium Economy,23:28:00,1.0,02:31:00,735.0,Delhi,Cochin,7984
+2024-08-19,Air India,AI-542,Business,16:43:00,1.0,05:53:00,859.8,Delhi,Cochin,41113
+2024-01-13,Indigo,6E-2025,Economy,10:41:00,2.0,07:27:00,370.2,Delhi,Cochin,11257
+2024-02-25,Indigo,6E-7403,Economy,10:17:00,2.0,06:21:00,400.2,Delhi,Cochin,8884
+2024-03-20,Air India,AI-678,Business,09:54:00,0.0,19:44:00,139.8,Delhi,Cochin,22152
+2024-09-06,Vistara,UK-879,Premium Economy,22:26:00,2.0,22:18:00,334.8,Kolkata,Banglore,12822
+2024-05-21,Vistara,UK-817,Economy,07:38:00,1.0,10:00:00,435.0,Kolkata,Banglore,12533
+2024-12-07,Air India,AI-429,Economy,05:09:00,1.0,04:38:00,490.2,Delhi,Cochin,9609
+2024-11-29,Go First,G8-717,Economy,20:58:00,1.0,12:33:00,300.0,Banglore,New Delhi,5315
+2024-05-20,Vistara,UK-706,Business,10:30:00,1.0,06:50:00,495.0,Delhi,Cochin,40945
+2024-05-26,Go First,G8-719,Economy,21:10:00,1.0,07:37:00,255.0,Delhi,Cochin,4805
+2024-06-16,Indigo,6E-2208,Economy,14:49:00,0.0,09:04:00,520.2,Banglore,Delhi,5294
+2024-03-11,Vistara,UK-985,Economy,19:16:00,0.0,23:50:00,135.0,Kolkata,Banglore,13830
+2024-05-04,Go First,G8-717,Economy,20:20:00,1.0,15:27:00,285.0,Delhi,Cochin,6007
+2024-10-11,Air India,AI-815,Economy,05:12:00,1.0,19:03:00,1020.0,Delhi,Cochin,10092
+2024-01-17,Air India,AI-443,Economy,09:06:00,1.0,15:57:00,304.8,Kolkata,Banglore,6731
+2024-03-18,Vistara,UK-933,Business,19:23:00,1.0,13:17:00,124.80000000000001,Kolkata,Banglore,41528
+2024-02-17,Air India,AI-883,Business,18:06:00,1.0,15:58:00,1579.8,Delhi,Cochin,48225
+2024-02-28,Air India,AI-439,Economy,10:55:00,0.0,23:10:00,730.2,Banglore,New Delhi,9630
+2024-04-18,Go First,G8-286,Economy,19:06:00,0.0,22:10:00,514.8,Kolkata,Banglore,9140
+2024-04-09,Vistara,UK-959,Economy,08:56:00,1.0,18:48:00,1425.0,Delhi,Cochin,6506
+2024-08-25,Air India,AI-512,Economy,06:26:00,1.0,11:55:00,1675.2,Kolkata,Banglore,9137
+2024-01-08,Air India,AI-558,Business,23:53:00,1.0,11:48:00,750.0,Banglore,New Delhi,50969
+2024-05-07,Go First,G8-101,Economy,09:25:00,1.0,12:52:00,825.0,Banglore,New Delhi,17234
+2024-04-19,Air India,AI-839,Business,21:26:00,2.0,07:37:00,1594.8,Delhi,Cochin,41113
+2024-08-29,Air Asia,I5-745,Economy,18:50:00,0.0,22:55:00,400.2,Banglore,New Delhi,5291
+2024-12-07,Vistara,UK-879,Business,03:23:00,0.0,08:47:00,880.2,Mumbai,Hyderabad,41281
+2024-10-27,Air India,AI-817,Business,06:07:00,1.0,20:42:00,1030.2,Delhi,Cochin,31462
+2024-12-08,Vistara,UK-945,Economy,02:10:00,1.0,08:03:00,135.0,Kolkata,Banglore,10155
+2024-03-17,Air India,AI-803,Economy,14:31:00,1.0,05:05:00,1585.2,Delhi,Cochin,7940
+2024-04-06,Vistara,UK-787,Premium Economy,08:33:00,0.0,00:14:00,859.8,Banglore,New Delhi,18534
+2024-06-02,Air India,AI-453,Business,10:25:00,0.0,13:11:00,775.2,Mumbai,Hyderabad,35532
+2024-12-16,Vistara,UK-979,Premium Economy,00:04:00,0.0,08:34:00,319.8,Chennai,Kolkata,15992
+2024-03-22,Vistara,UK-899,Premium Economy,11:36:00,0.0,08:20:00,1050.0,Chennai,Kolkata,12822
+2024-09-24,Indigo,AI-767,Economy,18:11:00,0.0,03:42:00,390.0,Banglore,Delhi,18808
+2024-02-27,Air India,AI-636,Business,06:05:00,0.0,02:30:00,225.0,Mumbai,Hyderabad,22152
+2024-01-23,Indigo,6E-2017,Economy,23:50:00,2.0,15:51:00,130.2,Delhi,Cochin,7319
+2024-09-08,Vistara,UK-801,Business,20:11:00,1.0,16:16:00,670.2,Delhi,Cochin,53164
+2024-11-06,Air India,AI-815,Business,20:35:00,1.0,14:59:00,355.2,Delhi,Cochin,53164
+2024-10-12,Air India,AI-429,Business,19:25:00,2.0,17:01:00,835.2,Delhi,Cochin,50969
+2024-12-17,Vistara,UK-985,Business,09:44:00,2.0,20:17:00,135.0,Delhi,Cochin,22152
+2024-12-14,Air India,AI-865,Economy,08:51:00,2.0,12:48:00,145.2,Delhi,Cochin,5955
+2024-08-20,Air Asia,I5-1228,Economy,08:17:00,2.0,05:17:00,910.2,Delhi,Cochin,4827
+2024-04-07,Vistara,UK-993,Business,12:27:00,1.0,05:12:00,130.2,Delhi,Cochin,41528
+2024-03-17,Go First,G8-2519,Economy,22:55:00,0.0,13:35:00,850.2,Kolkata,Banglore,6007
+2024-10-25,Vistara,UK-981,Premium Economy,00:19:00,1.0,04:51:00,120.0,Delhi,Cochin,11646
+2024-07-30,Go First,G8-354,Economy,17:08:00,2.0,00:07:00,130.2,Delhi,Cochin,5801
+2024-07-31,Vistara,UK-813,Economy,14:00:00,2.0,13:15:00,349.8,Delhi,Cochin,10208
+2024-12-10,Vistara,UK-943,Premium Economy,01:14:00,1.0,18:53:00,130.2,Kolkata,Banglore,8622
+2024-06-03,Vistara,UK-879,Business,11:57:00,2.0,11:16:00,985.2,Delhi,Cochin,41281
+2024-05-26,Air India,AI-443,Economy,08:57:00,1.0,11:18:00,304.8,Kolkata,Banglore,6731
+2024-05-18,Air India,AI-512,Business,17:56:00,0.0,12:12:00,790.2,Banglore,New Delhi,53164
+2024-08-13,Vistara,UK-627,Business,11:37:00,1.0,14:34:00,1590.0,Kolkata,Banglore,40441
+2024-07-29,Air India,AI-544,Economy,02:10:00,1.0,08:06:00,1024.8,Delhi,Cochin,12429
+2024-02-06,Vistara,UK-781,Business,06:02:00,1.0,05:29:00,409.8,Delhi,Cochin,39870
+2024-02-16,Air Asia,I5-745,Economy,12:59:00,1.0,17:58:00,885.0,Kolkata,Banglore,9761
+2024-04-20,Vistara,UK-985,Premium Economy,18:41:00,1.0,11:34:00,135.0,Delhi,Cochin,15846
+2024-08-10,Indigo,6E-6475,Economy,21:37:00,2.0,11:21:00,274.8,Kolkata,Banglore,12112
+2024-04-08,Vistara,UK-985,Economy,02:23:00,2.0,10:34:00,135.0,Delhi,Cochin,7320
+2024-10-29,Vistara,UK-815,Business,01:07:00,0.0,17:58:00,724.8,Delhi,Cochin,72938
+2024-01-20,Air India,AI-453,Business,11:18:00,0.0,08:44:00,775.2,Kolkata,Banglore,59993
+2024-05-19,Vistara,UK-801,Premium Economy,06:20:00,1.0,01:26:00,754.8,Delhi,Cochin,10638
+2024-12-09,Vistara,UK-959,Premium Economy,03:58:00,0.0,05:59:00,1425.0,Banglore,Delhi,7082
+2024-01-11,Vistara,UK-955,Premium Economy,01:16:00,1.0,04:12:00,130.2,Kolkata,Banglore,7278
+2024-10-17,Air India,AI-504,Economy,00:10:00,0.0,04:08:00,685.2,Banglore,Delhi,9882
+2024-04-19,Air India,AI-544,Economy,17:35:00,0.0,00:42:00,1024.8,Mumbai,Hyderabad,7704
+2024-02-09,Air India,AI-485,Business,05:34:00,1.0,01:38:00,655.2,Kolkata,Banglore,39622
+2024-06-02,Air India,AI-471,Economy,23:55:00,0.0,08:57:00,289.8,Delhi,Cochin,10890
+2024-12-10,Air India,AI-540,Economy,12:10:00,1.0,12:26:00,690.0,Kolkata,Banglore,8958
+2024-09-29,Air Asia,I5-548,Economy,01:30:00,2.0,10:42:00,765.0,Delhi,Cochin,4827
+2024-12-27,Vistara,UK-817,Business,11:35:00,1.0,14:32:00,435.0,Delhi,Cochin,53164
+2024-03-11,Vistara,UK-829,Premium Economy,19:01:00,0.0,07:24:00,1495.2,Kolkata,Banglore,12262
+2024-01-06,Vistara,UK-809,Premium Economy,00:51:00,1.0,12:45:00,1485.0,Delhi,Cochin,15863
+2024-02-04,Go First,G8-719,Economy,19:35:00,0.0,02:47:00,615.0,Mumbai,Hyderabad,4240
+2024-01-07,Vistara,UK-933,Premium Economy,11:34:00,0.0,09:12:00,124.80000000000001,Banglore,New Delhi,7838
+2024-03-17,Vistara,UK-879,Business,05:30:00,1.0,14:30:00,880.2,Delhi,Cochin,41281
+2024-10-16,Air Asia,I5-798,Economy,16:43:00,1.0,05:16:00,814.8,Delhi,Cochin,7933
+2024-04-18,Vistara,UK-819,Premium Economy,15:20:00,2.0,10:12:00,550.2,Kolkata,Banglore,21592
+2024-12-27,Vistara,UK-995,Business,20:47:00,0.0,02:13:00,135.0,Chennai,Kolkata,56860
+2024-04-19,Vistara,UK-959,Business,15:52:00,0.0,07:04:00,735.0,Mumbai,Hyderabad,30249
+2024-09-16,Air Asia,I5-743,Economy,18:07:00,1.0,04:07:00,355.2,Delhi,Cochin,4827
+2024-11-28,Air Asia,I5-569,Economy,16:29:00,1.0,17:36:00,390.0,Delhi,Cochin,6375
+2024-03-16,Vistara,UK-969,Business,16:11:00,1.0,15:30:00,1485.0,Delhi,Cochin,30249
+2024-01-18,Vistara,UK-871,Economy,06:04:00,1.0,00:19:00,694.8,Delhi,Cochin,9840
+2024-12-18,Air India,AI-833,Business,20:37:00,0.0,08:57:00,1050.0,Mumbai,Hyderabad,50109
+2024-01-14,Vistara,UK-829,Premium Economy,10:59:00,0.0,11:29:00,949.8,Banglore,Delhi,12262
+2024-04-30,Indigo,6E-5603,Economy,09:10:00,2.0,02:12:00,390.0,Delhi,Cochin,9699
+2024-06-20,Go First,G8-719,Economy,23:45:00,1.0,06:35:00,285.0,Delhi,Cochin,11816
+2024-09-16,Vistara,UK-747,Business,14:03:00,1.0,10:31:00,829.8,Delhi,Cochin,102041
+2024-04-23,Vistara,UK-963,Business,06:40:00,0.0,13:27:00,145.2,Mumbai,Hyderabad,30104
+2024-09-29,Indigo,6E-6201,Economy,15:05:00,1.0,20:37:00,295.2,Delhi,Cochin,10698
+2024-02-02,Air India,AI-865,Business,05:21:00,0.0,04:47:00,145.2,Chennai,Kolkata,22152
+2024-01-22,Air India,AI-473,Economy,20:07:00,1.0,17:46:00,1035.0,Delhi,Cochin,15090
+2024-01-07,Vistara,UK-859,Economy,16:00:00,0.0,20:18:00,385.2,Chennai,Kolkata,11520
+2024-04-16,Vistara,UK-637,Economy,23:26:00,1.0,22:33:00,315.0,Kolkata,Banglore,10313
+2024-09-25,Air India,AI-813,Economy,05:23:00,0.0,11:39:00,810.0,Delhi,Cochin,7194
+2024-11-13,Vistara,UK-979,Economy,01:51:00,1.0,12:16:00,319.8,Delhi,Cochin,15615
+2024-10-01,Air India,AI-429,Economy,16:26:00,0.0,02:50:00,750.0,Banglore,Delhi,10281
+2024-09-19,Indigo,6E-2176,Economy,06:18:00,0.0,09:06:00,135.0,Kolkata,Banglore,7319
+2024-04-04,Vistara,UK-951,Premium Economy,03:25:00,1.0,12:22:00,130.2,Kolkata,Banglore,15846
+2024-02-16,Indigo,6E-2411,Economy,07:26:00,1.0,22:40:00,274.8,Kolkata,Banglore,8100
+2024-01-28,Air Asia,I5-711,Economy,09:40:00,1.0,22:25:00,915.0,Delhi,Cochin,17699
+2024-04-29,Air Asia,I5-745,Economy,11:59:00,0.0,19:36:00,885.0,Banglore,Delhi,8129
+2024-02-14,Air India,AI-429,Economy,17:40:00,1.0,23:08:00,835.2,Kolkata,Banglore,9630
+2024-04-09,Air India,AI-560,Business,01:32:00,0.0,21:23:00,1015.2,Banglore,Delhi,41113
+2024-06-13,Indigo,6E-2025,Economy,12:02:00,2.0,13:46:00,370.2,Delhi,Cochin,7739
+2024-06-17,Vistara,UK-855,Business,20:44:00,1.0,10:07:00,334.8,Delhi,Cochin,55584
+2024-10-23,Vistara,UK-635,Business,09:49:00,1.0,13:53:00,289.8,Delhi,Cochin,37417
+2024-06-07,Indigo,6E-2016,Economy,15:09:00,0.0,14:48:00,135.0,Mumbai,Hyderabad,6374
+2024-08-15,Vistara,UK-811,Economy,15:16:00,0.0,11:21:00,349.8,Kolkata,Banglore,14985
+2024-05-15,Indigo,6E-2208,Economy,23:51:00,1.0,19:48:00,520.2,Delhi,Cochin,6390
+2024-03-06,Air Asia,I5-773,Economy,04:59:00,1.0,20:48:00,379.8,Delhi,Cochin,6375
+2024-01-19,Vistara,UK-811,Premium Economy,11:29:00,0.0,21:21:00,1605.0,Mumbai,Hyderabad,10823
+2024-03-06,Vistara,UK-705,Economy,06:19:00,1.0,14:02:00,330.0,Delhi,Cochin,14933
+2024-11-22,Vistara,UK-637,Premium Economy,02:50:00,2.0,16:14:00,315.0,Kolkata,Banglore,15622
+2024-09-13,Air India,AI-471,Economy,06:27:00,1.0,17:00:00,319.8,Delhi,Cochin,8580
+2024-05-12,Air India,AI-439,Economy,08:37:00,2.0,05:18:00,694.8,Delhi,Cochin,11121
+2024-02-03,Go First,G8-717,Economy,10:23:00,0.0,17:45:00,235.2,Kolkata,Banglore,5447
+2024-03-04,Vistara,UK-839,Premium Economy,17:48:00,1.0,22:53:00,529.8,Kolkata,Banglore,14804
+2024-12-11,Air India,AI-883,Economy,00:06:00,0.0,08:22:00,610.2,Mumbai,Hyderabad,9139
+2024-07-25,Vistara,UK-747,Economy,17:40:00,2.0,22:21:00,829.8,Delhi,Cochin,14670
+2024-07-06,Air India,AI-512,Business,07:00:00,0.0,03:57:00,855.0,Delhi,Cochin,53164
+2024-02-25,Vistara,UK-951,Premium Economy,03:40:00,1.0,01:48:00,130.2,Delhi,Cochin,7278
+2024-06-05,Vistara,UK-781,Economy,21:47:00,1.0,23:29:00,1035.0,Delhi,Cochin,13148
+2024-03-02,Go First,G8-346,Economy,04:26:00,1.0,06:16:00,130.2,Kolkata,Banglore,5899
+2024-06-27,Vistara,UK-785,Business,08:11:00,1.0,07:42:00,1065.0,Kolkata,Banglore,51070
+2024-12-24,Indigo,6E-2519,Economy,02:16:00,0.0,05:05:00,139.8,Chennai,Kolkata,6277
+2024-04-09,Air India,AI-767,Economy,03:51:00,1.0,08:55:00,439.8,Banglore,New Delhi,15825
+2024-09-04,Vistara,UK-871,Business,03:12:00,1.0,20:34:00,1590.0,Delhi,Cochin,45156
+2024-09-26,Air India,AI-636,Economy,23:50:00,1.0,19:22:00,225.0,Kolkata,Banglore,7320
+2024-08-27,Indigo,6E-2112,Economy,11:25:00,1.0,11:31:00,150.0,Delhi,Cochin,6374
+2024-01-01,Go First,G8-113,Economy,09:12:00,1.0,00:08:00,889.8,Kolkata,Banglore,8811
+2024-07-09,Indigo,6E-319,Economy,05:44:00,0.0,08:59:00,375.0,Banglore,Delhi,15247
+2024-10-27,Air India,AI-814,Business,23:39:00,0.0,20:20:00,135.0,Banglore,Delhi,22152
+2024-11-29,Vistara,UK-817,Premium Economy,21:15:00,2.0,04:56:00,435.0,Delhi,Cochin,10638
+2024-07-15,Indigo,6E-2112,Economy,15:41:00,0.0,21:07:00,150.0,Kolkata,Banglore,6164
+2024-02-27,Vistara,UK-871,Economy,20:37:00,0.0,09:37:00,694.8,Mumbai,Hyderabad,9840
+2024-03-09,Vistara,UK-879,Premium Economy,21:17:00,0.0,02:58:00,985.2,Banglore,Delhi,12822
+2024-01-10,Vistara,UK-981,Economy,03:28:00,1.0,02:39:00,120.0,Kolkata,Banglore,7635
+2024-10-07,Indigo,UK-833,Economy,11:53:00,2.0,23:56:00,540.0,Banglore,New Delhi,15400
+2024-10-06,Vistara,UK-817,Premium Economy,15:13:00,1.0,03:31:00,334.8,Delhi,Cochin,10638
+2024-09-03,Indigo,6E-2519,Economy,04:05:00,2.0,22:56:00,139.8,Delhi,Cochin,7114
+2024-03-13,Vistara,UK-705,Business,00:35:00,0.0,03:10:00,769.8,Mumbai,Hyderabad,88377
+2024-05-06,Air India,AI-504,Economy,10:22:00,0.0,06:51:00,1459.8,Mumbai,Hyderabad,7690
+2024-06-06,Air India,AI-439,Economy,21:40:00,1.0,19:14:00,1585.2,Delhi,Cochin,9630
+2024-08-30,Go First,G8-719,Economy,17:43:00,2.0,02:18:00,255.0,Mumbai,Hyderabad,4805
+2024-10-07,Air Asia,I5-560,Economy,21:14:00,0.0,16:58:00,865.2,Kolkata,Banglore,4827
+2024-10-29,Vistara,UK-809,Premium Economy,00:52:00,0.0,08:55:00,745.2,Delhi,Cochin,10638
+2024-09-22,Vistara,UK-819,Economy,22:05:00,1.0,15:26:00,364.8,Delhi,Cochin,8291
+2024-10-09,Air India,AI-807,Economy,10:10:00,1.0,04:37:00,934.8,Delhi,Cochin,7415
+2024-05-02,Spicejet,SG-2976,Economy,06:19:00,2.0,09:18:00,859.8,Kolkata,Banglore,4189
+2024-08-17,Indigo,6E-6034,Economy,14:38:00,2.0,10:00:00,304.8,Delhi,Cochin,5916
+2024-05-07,Air India,AI-833,Business,18:01:00,1.0,19:04:00,1050.0,Kolkata,Banglore,50109
+2024-12-16,Vistara,UK-879,Premium Economy,06:16:00,1.0,05:29:00,880.2,Kolkata,Banglore,12262
+2024-06-16,Vistara,UK-933,Premium Economy,21:26:00,1.0,03:43:00,124.80000000000001,Banglore,New Delhi,7838
+2024-01-04,Vistara,UK-941,Business,13:39:00,0.0,00:29:00,150.0,Banglore,New Delhi,41528
+2024-09-19,Vistara,UK-929,Business,06:17:00,1.0,18:14:00,1285.2,Kolkata,Banglore,22297
+2024-12-18,Vistara,UK-979,Premium Economy,22:02:00,2.0,13:51:00,1215.0,Delhi,Cochin,15992
+2024-11-01,Air India,AI-433,Economy,16:20:00,2.0,06:25:00,1620.0,Kolkata,Banglore,8337
+2024-12-03,Indigo,6E-2075,Economy,01:36:00,1.0,16:35:00,115.19999999999999,Kolkata,Banglore,7319
+2024-09-06,Indigo,AI-537,Economy,14:55:00,1.0,11:44:00,390.0,Delhi,Cochin,9680
+2024-04-08,Air India,AI-815,Economy,05:05:00,0.0,03:00:00,465.0,Chennai,Kolkata,7415
+2024-09-05,Indigo,6E-6187,Economy,22:14:00,2.0,10:13:00,285.0,Delhi,Cochin,9188
+2024-12-14,Vistara,UK-959,Premium Economy,16:23:00,1.0,13:33:00,735.0,Kolkata,Banglore,12312
+2024-05-28,Vistara,UK-737,Business,07:04:00,2.0,09:06:00,465.0,Delhi,Cochin,69113
+2024-05-12,Air India,AI-883,Economy,01:22:00,0.0,12:36:00,610.2,Banglore,Delhi,10714
+2024-09-22,Indigo,6E-2075,Economy,22:07:00,0.0,20:27:00,115.19999999999999,Delhi,Cochin,7319
+2024-04-22,Vistara,UK-817,Business,22:55:00,0.0,21:10:00,435.0,Kolkata,Banglore,53164
+2024-08-29,Vistara,UK-995,Economy,02:57:00,1.0,12:58:00,135.0,Kolkata,Banglore,7320
+2024-05-07,Vistara,UK-993,Economy,12:18:00,0.0,14:08:00,130.2,Mumbai,Hyderabad,8580
+2024-10-29,Air Asia,I5-773,Economy,08:07:00,2.0,17:58:00,655.2,Banglore,New Delhi,6375
+2024-06-15,Vistara,UK-951,Premium Economy,09:22:00,0.0,22:50:00,130.2,Banglore,Delhi,8622
+2024-06-26,Vistara,UK-929,Economy,10:16:00,2.0,12:17:00,739.8,Kolkata,Banglore,5351
+2024-06-27,Go First,G8-143,Economy,07:49:00,1.0,22:07:00,364.8,Delhi,Cochin,6007
+2024-09-01,Go First,G8-354,Economy,01:33:00,0.0,00:45:00,130.2,Banglore,Delhi,5801
+2024-07-07,Vistara,UK-945,Premium Economy,21:14:00,0.0,18:15:00,135.0,Banglore,Delhi,22286
+2024-03-19,Air Asia,I5-740,Economy,18:00:00,0.0,14:24:00,649.8,Mumbai,Hyderabad,6375
+2024-09-05,Vistara,UK-993,Business,12:34:00,1.0,20:44:00,130.2,Kolkata,Banglore,41528
+2024-10-04,Vistara,UK-859,Economy,01:38:00,0.0,20:47:00,385.2,Banglore,Delhi,10418
+2024-09-30,Vistara,UK-801,Business,22:52:00,1.0,13:22:00,694.8,Kolkata,Banglore,72938
+2024-07-06,Vistara,UK-819,Economy,10:01:00,2.0,23:41:00,364.8,Delhi,Cochin,10365
+2024-05-19,Go First,G8-237,Economy,23:48:00,0.0,06:59:00,585.0,Mumbai,Hyderabad,6007
+2024-03-01,Spicejet,SG-8241,Economy,02:48:00,1.0,10:43:00,250.2,Delhi,Cochin,7218
+2024-04-15,Vistara,UK-637,Premium Economy,01:32:00,1.0,08:12:00,315.0,Kolkata,Banglore,17582
+2024-12-30,Vistara,UK-969,Business,00:11:00,1.0,03:13:00,940.2,Delhi,Cochin,22297
+2024-12-01,Vistara,UK-705,Economy,00:59:00,1.0,00:42:00,960.0,Delhi,Cochin,19290
+2024-01-30,Vistara,UK-993,Economy,08:46:00,1.0,07:44:00,130.2,Delhi,Cochin,6218
+2024-06-19,Spicejet,SG-2905,Economy,15:55:00,0.0,01:18:00,709.8,Mumbai,Hyderabad,7910
+2024-05-02,Air Asia,I5-798,Economy,15:01:00,0.0,18:23:00,814.8,Mumbai,Hyderabad,8580
+2024-03-17,Vistara,UK-959,Business,08:15:00,0.0,23:18:00,1425.0,Kolkata,Banglore,22297
+2024-01-23,Indigo,6E-2033,Economy,19:49:00,0.0,22:17:00,495.0,Banglore,New Delhi,17075
+2024-10-15,Vistara,UK-981,Economy,20:18:00,1.0,05:43:00,120.0,Kolkata,Banglore,10155
+2024-11-10,Vistara,UK-801,Premium Economy,00:58:00,1.0,21:43:00,670.2,Delhi,Cochin,10638
+2024-08-18,Vistara,UK-707,Economy,19:54:00,1.0,21:42:00,364.8,Kolkata,Banglore,20549
+2024-03-09,Go First,G8-323,Economy,03:53:00,0.0,09:48:00,130.2,Mumbai,Hyderabad,5899
+2024-06-14,Air India,AI-839,Business,05:15:00,0.0,11:31:00,1045.2,Banglore,Delhi,41113
+2024-10-27,Vistara,UK-955,Economy,08:39:00,0.0,21:41:00,130.2,Kolkata,Banglore,7320
+2024-03-05,Air India,AI-801,Economy,05:48:00,1.0,02:00:00,469.8,Delhi,Cochin,20130
+2024-09-29,Go First,G8-330,Economy,01:54:00,0.0,08:02:00,135.0,Banglore,Delhi,5801
+2024-11-08,Vistara,UK-819,Economy,13:39:00,1.0,05:15:00,364.8,Delhi,Cochin,9368
+2024-10-02,Air India,AI-439,Business,21:48:00,1.0,09:50:00,730.2,Kolkata,Banglore,57074
+2024-09-12,Vistara,UK-833,Economy,14:05:00,0.0,12:04:00,409.8,Banglore,New Delhi,14534
+2024-05-12,Vistara,UK-979,Business,14:25:00,0.0,08:48:00,319.8,Kolkata,Banglore,30249
+2024-01-18,Air Asia,I5-740,Economy,11:05:00,0.0,19:25:00,649.8,Kolkata,Banglore,6872
+2024-01-26,Spicejet,SG-2976,Economy,09:40:00,1.0,10:57:00,859.8,Delhi,Cochin,7250
+2024-02-12,Air India,AI-811,Economy,00:32:00,1.0,19:59:00,1305.0,Kolkata,Banglore,7184
+2024-09-03,Go First,G8-2519,Economy,10:29:00,1.0,11:44:00,850.2,Delhi,Cochin,6007
+2024-05-16,Indigo,6E-6034,Economy,00:01:00,2.0,02:19:00,355.2,Delhi,Cochin,7109
+2024-02-16,Air India,AI-678,Economy,23:50:00,1.0,06:43:00,139.8,Delhi,Cochin,5955
+2024-10-15,Air India,AI-537,Business,14:00:00,0.0,07:19:00,960.0,Kolkata,Banglore,50969
+2024-03-28,Go First,G8-530,Economy,02:52:00,0.0,12:49:00,130.2,Delhi,Cochin,5899
+2024-06-16,Vistara,UK-813,Premium Economy,09:32:00,1.0,14:56:00,1000.2,Kolkata,Banglore,10638
+2024-12-12,Vistara,UK-995,Economy,06:39:00,0.0,18:34:00,135.0,Banglore,New Delhi,8580
+2024-03-09,Vistara,UK-879,Economy,20:39:00,1.0,09:07:00,334.8,Delhi,Cochin,21632
+2024-09-28,Vistara,UK-811,Premium Economy,15:26:00,2.0,23:54:00,349.8,Delhi,Cochin,11943
+2024-11-14,Air India,AI-554,Business,00:05:00,1.0,15:23:00,709.8,Kolkata,Banglore,50969
+2024-11-27,Vistara,UK-995,Premium Economy,14:13:00,0.0,03:00:00,135.0,Banglore,Delhi,22286
+2024-03-23,Indigo,6E-2114,Economy,15:18:00,1.0,05:31:00,135.0,Kolkata,Banglore,6374
+2024-08-24,Air India,AI-512,Business,04:56:00,1.0,20:57:00,855.0,Banglore,New Delhi,53164
+2024-10-17,Vistara,UK-815,Business,05:25:00,2.0,08:54:00,810.0,Kolkata,Banglore,91435
+2024-02-15,Indigo,6E-2016,Economy,06:58:00,0.0,05:44:00,135.0,Chennai,Kolkata,7319
+2024-08-28,Air Asia,I5-745,Economy,04:40:00,2.0,11:15:00,784.8,Delhi,Cochin,7846
+2024-10-23,Go First,G8-2501,Economy,23:32:00,3.0,14:11:00,130.2,Delhi,Cochin,5801
+2024-06-13,Air India,AI-865,Business,03:16:00,2.0,12:36:00,145.2,Delhi,Cochin,22152
+2024-11-19,Vistara,UK-979,Premium Economy,06:15:00,2.0,13:40:00,1009.8,Delhi,Cochin,7984
+2024-01-10,Vistara,UK-781,Premium Economy,05:43:00,0.0,11:34:00,1035.0,Kolkata,Banglore,15286
+2024-08-16,Vistara,UK-871,Premium Economy,00:29:00,1.0,23:43:00,799.8,Banglore,New Delhi,12822
+2024-07-18,Air India,AI-473,Economy,05:58:00,1.0,17:51:00,1035.0,Kolkata,Banglore,11577
+2024-05-29,Vistara,UK-871,Premium Economy,01:39:00,0.0,01:48:00,1590.0,Kolkata,Banglore,26370
+2024-11-27,Go First,G8-237,Economy,08:13:00,2.0,01:28:00,585.0,Delhi,Cochin,6873
+2024-11-20,Vistara,UK-957,Economy,06:48:00,1.0,05:26:00,135.0,Banglore,New Delhi,7320
+2024-02-08,Air India,AI-453,Economy,11:28:00,1.0,22:43:00,775.2,Delhi,Cochin,12005
+2024-08-04,Vistara,UK-969,Business,22:32:00,2.0,05:14:00,940.2,Delhi,Cochin,30249
+2024-04-25,Vistara,UK-981,Premium Economy,09:27:00,1.0,00:29:00,120.0,Delhi,Cochin,11646
+2024-10-23,Air India,AI-479,Business,11:35:00,1.0,23:09:00,1240.2,Delhi,Cochin,35532
+2024-11-12,Go First,G8-330,Economy,08:38:00,1.0,06:51:00,135.0,Delhi,Cochin,5801
+2024-07-25,Air India,AI-439,Business,03:00:00,2.0,20:35:00,694.8,Kolkata,Banglore,50969
+2024-07-23,Indigo,6E-2526,Economy,12:22:00,2.0,22:16:00,145.2,Delhi,Cochin,6374
+2024-05-10,Vistara,UK-871,Business,04:21:00,0.0,16:00:00,1075.2,Mumbai,Hyderabad,55696
+2024-11-24,Air Asia,I5-740,Economy,14:44:00,1.0,11:32:00,769.8,Kolkata,Banglore,4827
+2024-03-07,Vistara,UK-871,Premium Economy,06:57:00,0.0,01:36:00,694.8,Mumbai,Hyderabad,12262
+2024-02-24,Vistara,UK-737,Economy,14:31:00,1.0,07:47:00,465.0,Delhi,Cochin,14933
+2024-07-09,Vistara,UK-829,Business,03:13:00,0.0,07:09:00,435.0,Kolkata,Banglore,55696
+2024-09-01,Vistara,UK-829,Premium Economy,13:41:00,1.0,23:17:00,435.0,Banglore,New Delhi,16238
+2024-10-09,Vistara,UK-811,Economy,17:27:00,0.0,02:11:00,450.0,Banglore,Delhi,7845
+2024-04-14,Vistara,UK-943,Economy,22:29:00,1.0,04:01:00,130.2,Delhi,Cochin,7320
+2024-08-03,Air India,AI-803,Economy,22:41:00,0.0,02:23:00,919.8,Kolkata,Banglore,8202
+2024-10-13,Vistara,UK-871,Business,15:52:00,1.0,18:18:00,694.8,Delhi,Cochin,41281
+2024-01-05,Indigo,6E-2138,Economy,06:57:00,1.0,05:18:00,139.8,Delhi,Cochin,7319
+2024-06-17,Vistara,UK-837,Economy,03:05:00,1.0,19:57:00,925.2,Delhi,Cochin,13496
+2024-12-17,Vistara,UK-955,Business,18:06:00,0.0,02:50:00,130.2,Banglore,Delhi,56860
+2024-01-26,Air Asia,I5-745,Economy,18:04:00,0.0,07:48:00,784.8,Chennai,Kolkata,9179
+2024-06-06,Indigo,6E-2114,Economy,00:58:00,1.0,20:25:00,135.0,Kolkata,Banglore,7319
+2024-08-08,Air India,AI-865,Economy,12:08:00,1.0,02:37:00,145.2,Banglore,New Delhi,7320
+2024-01-30,Air India,AI-544,Economy,16:13:00,0.0,21:13:00,435.0,Chennai,Kolkata,11205
+2024-11-03,Vistara,UK-963,Business,20:54:00,0.0,18:33:00,145.2,Mumbai,Hyderabad,22152
+2024-07-16,Vistara,UK-933,Economy,17:54:00,1.0,14:52:00,124.80000000000001,Kolkata,Banglore,6218
+2024-12-17,Air India,AI-465,Business,11:33:00,1.0,16:15:00,1050.0,Delhi,Cochin,50109
+2024-06-08,Indigo,6E-2411,Economy,00:36:00,1.0,02:11:00,550.2,Banglore,New Delhi,9848
+2024-05-11,Vistara,UK-933,Premium Economy,05:41:00,1.0,01:30:00,124.80000000000001,Delhi,Cochin,7278
+2024-06-28,Vistara,UK-927,Business,06:59:00,1.0,09:11:00,124.80000000000001,Delhi,Cochin,22152
+2024-07-06,Vistara,UK-929,Economy,00:53:00,1.0,07:40:00,739.8,Delhi,Cochin,10097
+2024-05-16,Vistara,UK-637,Premium Economy,04:07:00,0.0,21:35:00,1110.0,Banglore,Delhi,11982
+2024-02-25,Go First,G8-346,Economy,15:03:00,1.0,12:56:00,130.2,Delhi,Cochin,5899
+2024-10-31,Vistara,UK-945,Business,20:16:00,0.0,03:13:00,135.0,Mumbai,Hyderabad,56860
+2024-09-06,Air India,AI-554,Business,04:15:00,1.0,04:37:00,709.8,Kolkata,Banglore,50969
+2024-01-27,Vistara,UK-835,Economy,09:31:00,1.0,23:07:00,934.8,Delhi,Cochin,10875
+2024-10-04,Air India,AI-863,Economy,11:20:00,1.0,18:33:00,139.8,Kolkata,Banglore,5955
+2024-01-18,Go First,G8-354,Economy,08:41:00,1.0,00:21:00,130.2,Delhi,Cochin,5801
+2024-11-22,Indigo,6E-2112,Economy,18:47:00,1.0,23:54:00,150.0,Delhi,Cochin,5794
+2024-12-14,Vistara,UK-957,Premium Economy,01:38:00,1.0,20:44:00,135.0,Delhi,Cochin,7278
+2024-12-16,Vistara,UK-819,Economy,16:00:00,0.0,21:40:00,390.0,Chennai,Kolkata,11258
+2024-02-19,Vistara,UK-941,Business,12:04:00,1.0,01:36:00,150.0,Delhi,Cochin,30104
+2024-03-16,Vistara,UK-871,Business,02:28:00,1.0,09:51:00,799.8,Kolkata,Banglore,41281
+2024-01-14,Vistara,UK-673,Business,21:45:00,0.0,15:56:00,310.2,Chennai,Kolkata,44081
+2024-02-06,Indigo,6E-2526,Economy,03:53:00,1.0,11:34:00,145.2,Delhi,Cochin,6277
+2024-01-06,Vistara,UK-811,Premium Economy,22:25:00,0.0,11:38:00,349.8,Banglore,Delhi,18646
+2024-01-14,Vistara,UK-959,Premium Economy,08:51:00,1.0,10:09:00,1425.0,Kolkata,Banglore,7984
+2024-03-02,Air India,AI-537,Business,02:57:00,0.0,10:40:00,450.0,Mumbai,Hyderabad,50969
+2024-01-17,Vistara,UK-929,Economy,15:48:00,1.0,12:10:00,739.8,Banglore,New Delhi,5824
+2024-01-04,Vistara,UK-817,Economy,04:57:00,0.0,22:20:00,435.0,Banglore,Delhi,9961
+2024-03-23,Air India,AI-537,Economy,14:49:00,0.0,10:10:00,364.8,Chennai,Kolkata,9609
+2024-06-06,Go First,G8-354,Economy,09:11:00,1.0,21:19:00,130.2,Delhi,Cochin,5801
+2024-10-11,Vistara,UK-635,Economy,19:16:00,0.0,19:41:00,289.8,Mumbai,Hyderabad,10260
+2024-03-10,Indigo,6E-6814,Economy,10:11:00,0.0,13:30:00,145.2,Chennai,Kolkata,6164
+2024-07-07,Indigo,6E-2208,Economy,02:58:00,1.0,00:37:00,520.2,Kolkata,Banglore,5294
+2024-12-07,Vistara,UK-979,Economy,19:01:00,1.0,11:06:00,319.8,Delhi,Cochin,12722
+2024-01-22,Air India,AI-429,Economy,21:22:00,0.0,09:23:00,750.0,Banglore,New Delhi,9630
+2024-12-01,Vistara,UK-781,Economy,01:16:00,1.0,01:52:00,409.8,Delhi,Cochin,13935
+2024-03-24,Vistara,UK-943,Premium Economy,00:24:00,1.0,00:34:00,130.2,Delhi,Cochin,11646
+2024-02-14,Vistara,UK-813,Business,16:02:00,0.0,20:13:00,349.8,Banglore,Delhi,60601
+2024-01-30,Vistara,UK-811,Economy,19:17:00,2.0,18:57:00,349.8,Delhi,Cochin,12570
+2024-01-01,Vistara,UK-817,Economy,03:16:00,0.0,09:46:00,334.8,Banglore,Delhi,8108
+2024-04-11,Vistara,UK-927,Business,08:22:00,0.0,03:59:00,124.80000000000001,Chennai,Kolkata,49020
+2024-11-01,Air India,AI-813,Economy,20:11:00,0.0,05:13:00,810.0,Mumbai,Hyderabad,7457
+2024-02-02,Indigo,6E-2138,Economy,12:56:00,0.0,19:09:00,139.8,Chennai,Kolkata,7319
+2024-06-03,Vistara,UK-781,Premium Economy,10:31:00,1.0,03:06:00,1035.0,Delhi,Cochin,21222
+2024-08-07,Vistara,UK-959,Business,20:12:00,1.0,13:15:00,1425.0,Delhi,Cochin,30249
+2024-04-10,Air India,AI-814,Business,02:41:00,1.0,00:05:00,135.0,Banglore,New Delhi,22152
+2024-03-20,Vistara,UK-899,Economy,21:49:00,1.0,08:33:00,505.2,Delhi,Cochin,17085
+2024-09-14,Vistara,UK-871,Business,19:34:00,2.0,17:36:00,1590.0,Delhi,Cochin,41281
+2024-04-02,Vistara,UK-933,Business,15:01:00,1.0,23:27:00,124.80000000000001,Delhi,Cochin,41528
+2024-05-16,Vistara,UK-706,Business,04:38:00,0.0,19:15:00,1290.0,Chennai,Kolkata,40945
+2024-09-28,Vistara,UK-819,Business,06:45:00,1.0,08:05:00,550.2,Delhi,Cochin,72938
+2024-11-02,Air India,AI-817,Business,06:42:00,0.0,15:30:00,1030.2,Banglore,Delhi,31462
+2024-06-23,Air India,AI-803,Economy,06:06:00,1.0,23:05:00,919.8,Delhi,Cochin,7194
+2024-01-23,Vistara,UK-839,Premium Economy,00:54:00,1.0,01:16:00,529.8,Kolkata,Banglore,20136
+2024-03-16,Vistara,UK-627,Premium Economy,09:52:00,0.0,03:41:00,1485.0,Banglore,New Delhi,10078
+2024-03-12,Air India,AI-811,Economy,20:54:00,1.0,09:37:00,1305.0,Delhi,Cochin,10680
+2024-12-01,Indigo,6E-7403,Economy,14:46:00,1.0,13:53:00,390.0,Kolkata,Banglore,6180
+2024-12-26,Vistara,UK-899,Economy,23:50:00,1.0,03:56:00,505.2,Delhi,Cochin,11730
+2024-11-19,Akasa Air,QP-1128,Economy,20:09:00,1.0,14:03:00,130.2,Kolkata,Banglore,5890
+2024-12-18,Vistara,UK-879,Economy,17:16:00,1.0,01:24:00,880.2,Delhi,Cochin,10103
+2024-03-08,Vistara,UK-815,Premium Economy,17:07:00,0.0,19:39:00,750.0,Kolkata,Banglore,21407
+2024-01-11,Vistara,UK-817,Economy,03:03:00,1.0,01:23:00,435.0,Delhi,Cochin,10838
+2024-10-03,Air India,AI-406,Economy,19:28:00,1.0,09:40:00,334.8,Delhi,Cochin,9594
+2024-07-07,Air India,AI-537,Business,15:38:00,1.0,23:09:00,364.8,Kolkata,Banglore,50969
+2024-01-10,Vistara,UK-809,Premium Economy,02:25:00,0.0,04:23:00,855.0,Kolkata,Banglore,14558
+2024-01-20,Air India,AI-811,Business,07:37:00,1.0,01:25:00,1305.0,Delhi,Cochin,32646
+2024-12-08,Vistara,UK-801,Business,09:09:00,0.0,11:29:00,670.2,Banglore,Delhi,65501
+2024-02-18,Air India,AI-678,Economy,10:51:00,1.0,07:09:00,139.8,Kolkata,Banglore,7320
+2024-01-13,Air India,AI-883,Economy,17:41:00,0.0,11:14:00,1579.8,Mumbai,Hyderabad,8614
+2024-06-13,Indigo,6E-2025,Economy,09:08:00,0.0,14:17:00,370.2,Mumbai,Hyderabad,9787
+2024-10-11,Air India,AI-439,Economy,21:48:00,1.0,02:12:00,1585.2,Delhi,Cochin,9126
+2024-02-09,Vistara,UK-833,Business,22:42:00,2.0,04:23:00,409.8,Delhi,Cochin,74456
+2024-08-11,Vistara,UK-855,Premium Economy,23:21:00,0.0,07:19:00,334.8,Mumbai,Hyderabad,21838
+2024-06-12,Air India,AI-429,Business,21:01:00,0.0,12:19:00,490.2,Mumbai,Hyderabad,50969
+2024-01-04,Vistara,UK-929,Premium Economy,19:08:00,1.0,04:31:00,535.2,Kolkata,Banglore,13640
+2024-03-11,Spicejet,SG-8709,Economy,04:33:00,1.0,08:38:00,115.19999999999999,Delhi,Cochin,5794
+2024-02-02,Vistara,UK-959,Premium Economy,15:58:00,1.0,07:04:00,735.0,Banglore,New Delhi,22432
+2024-04-14,Air India,AI-815,Business,19:32:00,0.0,15:38:00,1020.0,Mumbai,Hyderabad,53164
+2024-08-05,Vistara,UK-785,Business,19:09:00,1.0,19:34:00,1065.0,Kolkata,Banglore,39870
+2024-03-18,Air India,AI-406,Business,14:40:00,0.0,03:49:00,334.8,Banglore,Delhi,59361
+2024-03-21,Air India,AI-807,Business,08:24:00,1.0,12:21:00,940.2,Kolkata,Banglore,53164
+2024-07-16,Air India,AI-429,Business,19:28:00,0.0,23:59:00,835.2,Delhi,Cochin,50969
+2024-07-17,Spicejet,SG-2976,Economy,20:55:00,2.0,12:44:00,859.8,Delhi,Cochin,7286
+2024-12-13,Air India,AI-833,Economy,22:45:00,0.0,11:25:00,1050.0,Banglore,Delhi,19818
+2024-11-18,Air India,AI-429,Business,07:46:00,1.0,13:30:00,835.2,Banglore,New Delhi,73701
+2024-05-06,Air India,AI-883,Economy,07:49:00,1.0,19:52:00,1579.8,Delhi,Cochin,9349
+2024-02-07,Indigo,6E-2505,Economy,08:53:00,0.0,16:33:00,139.8,Banglore,Delhi,5954
+2024-12-21,Vistara,UK-781,Premium Economy,18:50:00,1.0,00:47:00,1035.0,Delhi,Cochin,27942
+2024-10-13,Air India,AI-481,Business,22:48:00,0.0,09:59:00,814.8,Banglore,Delhi,31462
+2024-11-30,Vistara,UK-995,Premium Economy,09:03:00,1.0,17:49:00,135.0,Mumbai,Hyderabad,15846
+2024-10-14,Indigo,6E-2204,Economy,21:52:00,1.0,15:12:00,415.2,Kolkata,Banglore,17347
+2024-03-05,Vistara,UK-817,Business,04:31:00,1.0,22:41:00,435.0,Delhi,Cochin,53164
+2024-07-25,Indigo,6E-2505,Economy,15:59:00,2.0,03:29:00,139.8,Kolkata,Banglore,6374
+2024-06-28,Go First,G8-346,Economy,14:57:00,0.0,10:41:00,124.80000000000001,Banglore,Delhi,5899
+2024-12-12,Vistara,UK-781,Premium Economy,05:40:00,0.0,07:03:00,409.8,Mumbai,Hyderabad,21222
+2024-05-18,Air India,AI-463,Business,18:55:00,1.0,19:47:00,1660.2,Delhi,Cochin,35532
+2024-05-22,Vistara,UK-993,Business,16:25:00,0.0,17:46:00,130.2,Banglore,Delhi,22152
+2024-08-11,Vistara,UK-801,Business,16:47:00,0.0,09:02:00,694.8,Kolkata,Banglore,72938
+2024-07-04,Go First,G8-713,Economy,05:59:00,1.0,04:11:00,859.8,Kolkata,Banglore,4592
+2024-10-02,Vistara,UK-705,Economy,17:53:00,1.0,12:32:00,769.8,Delhi,Cochin,14670
+2024-11-01,Vistara,UK-673,Premium Economy,19:45:00,1.0,15:51:00,310.2,Delhi,Cochin,21278
+2024-01-23,Air India,AI-815,Business,11:03:00,0.0,05:45:00,1020.0,Banglore,Delhi,53164
+2024-10-28,Vistara,UK-707,Business,23:13:00,1.0,06:02:00,364.8,Delhi,Cochin,59033
+2024-01-30,Air India,AI-560,Business,07:59:00,1.0,07:13:00,1015.2,Delhi,Cochin,41113
+2024-02-05,Vistara,UK-981,Economy,22:21:00,1.0,06:57:00,120.0,Delhi,Cochin,7635
+2024-02-08,Air Asia,I5-745,Economy,04:09:00,2.0,15:40:00,885.0,Banglore,New Delhi,13362
+2024-09-09,Indigo,6E-5603,Economy,07:24:00,1.0,13:44:00,289.8,Delhi,Cochin,6932
+2024-08-01,Vistara,UK-933,Premium Economy,16:33:00,1.0,14:00:00,124.80000000000001,Kolkata,Banglore,7278
+2024-10-02,Vistara,UK-963,Business,09:03:00,1.0,13:06:00,145.2,Kolkata,Banglore,22152
+2024-06-11,Indigo,6E-5603,Economy,08:11:00,2.0,16:13:00,289.8,Delhi,Cochin,6527
+2024-10-11,Air Asia,I5-743,Economy,01:37:00,1.0,20:02:00,880.2,Kolkata,Banglore,4827
+2024-11-18,Vistara,UK-927,Premium Economy,00:59:00,1.0,08:29:00,124.80000000000001,Kolkata,Banglore,7278
