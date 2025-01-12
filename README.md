@@ -1,2 +1,2 @@
 # End to End Flight Fare Prediction using AWS Sagemaker (Machine Learning Project)
-
+Built a flight price prediction system using AWS SageMaker. The project involved preprocessing historical flight data with AWS Glue, training machine learning models on SageMaker, and deploying real-time predictions using SageMaker Endpoints. Integrated AWS CloudWatch for monitoring and optimizing model performance.
